@@ -8,6 +8,8 @@ Volo ci parla di un suo amico di cui non ha più notizie ed ha paura si sia pers
 Dopo aver accettato rivela qualche dettaglio in più sul suo amico e sull’ultima volta che sono stati insieme.  
 Il nome del giovane è Floon, un umano biondiccio sulla trentina, l’ultima serata insieme l’hanno passata due sere prima in una taverna chiamata “Skewered Dragon”.  
 
+![Locanda del portale spalancato](./immagini/the_yawning_portal.png "Locanda del portale spalancato") 
+
 ## Giorno 2: Trovare Floom per conto di Volo  
 Dopo aver riposato per la notte partiamo per la ricerca della suddetta taverna, passano per le strade di Waterdeep notiamo del sangue sparso per la strada, circa mezza dozzina di corpi morti e delle guardie che tengono prigionieri tre uomini probabili artefici o ultimi sopravvissuti del massacro.  
 Continuando per la strada ormai giunti a destinazione notiamo un negozietto e ci entriamo, all’interno troviamo un piccolo uomo, calvo e con degli occhi viola tatuati sul viso.  
@@ -25,14 +27,14 @@ Sconfiggiamo i due mostri rimasti nella stanza e prendiamo come bottino un grimo
 Volo ci offre un edificio come ricompensa per aver ritrovato floom,
 Ben Dover paga 2 platini per il documento di proprietà.  
 **_La magione si trova all'angolo teschio di troll entrata nord (trollskull alley)_**  
-![Trollskull alley](./immagini/trollskull_alley.png "Trollskull alley")  
+![Teschio di troll](./immagini/trollskull_alley.png "Teschio di troll")  
 
 La casa è cokpletamente in rovina e impolverata, apriamo le finestre del primo piano e notiamo resti di tavoli e sedie come quelle di una taverna.  
 Saliamo al secondo piano e Maple percepisce una presenza (probabilmente spettrale) neutrale, una volta aperte anche le finestre del secondo piano notiamo una coperta alzarsi e delle mani *spettrali*.  
 Lo spettro si manifesta, il suo nome è Lif o era Lif, precedentemente era il proprietario dell'edificio, ed anche oste della locanda che lo ospitava; Ci concede di rimanere nell'edificio e offre anche il suo aiuto, a patto però di rimettere a nuovo la locanda.
 Maple sale per aprire le ultime finestre rimaste della locanda mentre il resto del gruppo scende al primo piano per parlare con volo che consegna l'atto di proprietà, inoltre ci parla dei punti di interesse del quartiere  
 
-![Trollskull alley](./immagini/trollskull_alley_closeup.jpg "Trollskull alley")    
+![vicolo Teschio di troll](./immagini/trollskull_alley_closeup.jpg "vicolo Teschio di troll")    
 - T1: Magione(La struttura che ci ha dato Volo)
 - T2: Negozio
 - T3: Fabbro
@@ -57,3 +59,40 @@ Mentre Ben entra nella sede della gilda di Savra, Maple e Seebo si dirigono vers
 Arrivati lì trovano un uomo che parla loro della bellezza, della crudeltà della natura e di come essa sia alla base della vita;  
 parla poi di un contadino che ha bisogno di aiuto con degli spaventapasseri impossessati e chiede loro di dargli una mano, prima di andare però dona a Maple una piccola scatola con dei fori della grandezza di una piccola gemma.  
 Maple e Seebo si dirigono quindi nelle campagne ad est di waterdeep per aiutare il contadino, con l'aiuto di Ben e Dixon (che passavano di lì per caso) risolvono il problema degli spaventapasseri e si separano nuovamente ritornando in città, Ben e Dixon verso la locanda dove siam partiti mentre Seebo e Maple verso Paulkonmere
+
+Alla locanda Starson dice loro di andare verso un vicolo. Lì troveranno dei cadaveri da poco assassinati (pugnalati in petto), i colpevoli sono probabilmente due persone che stanno tentando di scappare, una ci riesce mentre l'altra combatte contro Marco ed Emanuele.
+Riescono ad uccidere l'uomo con l'aiuto di una guardia e poi ritornano in taverna da Starson.
+
+# - III  Sera  
+
+Alla taverna gli viene consegnata una borsa di pozioni da consegnare ad una donna che si trova al "Cacciatore degli dei" che si trova nella zona marittima della città; li aspetterà lì la sera.
+
+Ormai entrati a far parte dell'organizzazione della rete nera entrambi si tatuano il simbolo in segno di appartenenza.
+
+Maple e Giacomo nel frattempo rientrano in città nonostante una guardia avesse provato ad impedirglielo, si dirigono alla sede dell'enclave dello smeraldo ma non c'è nessuno ad aspettarli, per questo si dirigeranno verso casa per poter passare la notte.
+
+## Giorno 4: Freeroaming, le gilde II
+
+Nella notte Marco sente rumori vicino casa nostra, probabilmente qualche spia.
+
+È mattina e Lorenzo e Giacomo tornano alla sede dell'enclave, il titolare (Melnar) si congratula con loro e li porta dentro casa per bere del tè, gli parla di un necromante che sta creando problemi in città, in particolare di notte sembrano esser stati avvistati degli scheletri girare per le strade. Di questo se ne sta occupando un generale dell'esercito a cui Melnar chiede di dare una mano.
+
+Non avendo nulla da fare durante la giornata Maple e Seebo ritornano a casa ed aspettano la notte insieme a Marco ed Emanuele.
+
+Arrivata una certa ora Marco ed Emanuele si incamminano per andare al loro incontro al Cacciatore degli dei. Ormai vicini sentono qualcuno camminare con dei tacchi ma non ne comprendono benissimo la direzione; in lontananza vendono una carrozza esattamente di fronte il luogo di incontro e si dirigono verso di essa.
+
+All'interno della carrozza trovano la donna a cui dovevano consegnare le pozioni, e ricevono in cambio un sacchetto da consegnare a Davil Starson.
+
+Ritornando verso la locanda del Portale spalancato notano che anche delle guardie camminano nella loro stessa direzione, Emanuele invia l'uccello di carta per avvisare Davil del loro arrivo.
+
+Nel frattempo alla porta di casa arriva il generale Ambrose, l'uomo che Maple e Seebo dovranno aiutare. Con un po' di scetticismo il generale accetta il loro aiuto e chiede di dividersi per velocizzare il processo di localizzazione del nascondiglio del necromante. Si ritrovano dopo qualche ora di fronte alla casa e condividono le informazioni ricavate, son stati visti degli scheletri uscire da una botola di una casa abbandonata; si dirigono lì ed entrano nella botola dopo aver distrutto un paio di scheletri.
+
+Marco ed Emanuele intanto raggiungono le guardie di fronte alla locanda, e travestiti provano a prendere informazioni sul perché della venuta delle guardie alla locanda, non raccogliendo nessuna informazione utile entrano in taverna, vedono Davil Starson scendere dalle scale scortato da delle guardie.
+Uscite tutte le guardie salgono al secondo piano della locanda ("sede" della rete nera) e trovano una donna ad aspettarli, Tashlyn Yafeera, a cui consegnano il sacchetto ricevuto.
+Tashlyn dice anche che chiunque nella gilda è rimpiazzabile, tranne il capo della gilda di cui si sà solamente che appartiene alla razza dei (Beholders), chiede loro anche di tornare la sera successiva per offrire qualche compito.
+
+Seebo, Maple ed il generale attraversano il lungo percorso sotterraneo trovato entrando nella botola della casa abbandonata, e alla fine si ritrovano in un cimitero, nello specifico in un grande mausoleo dove trovano degli scheletri ad aspettarli insieme al necromante.
+Dopo aver sconfitto il necromante il generale si separa e Maple e Seebo ritornano a casa.
+
+# - IV Sera
+## Giorno 5 Palla di fuoco al vicolo Teschio di troll
