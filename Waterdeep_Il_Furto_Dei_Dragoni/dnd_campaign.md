@@ -49,13 +49,17 @@ Uscendo dall'edificio Seebo riceve un messaggio dall'enclave dello smeraldo che 
 Incamminandoci per andare dall'erborista Maple e Seebo vengono fermati da una donna di nome Savra, ci parla di come lei e la sua gilda combattano i cattivi e ci invita ad andare alla sede che si trova nella zona del mercato.  
 Nel frattempo Dixon riceve un messaggio da Davill Starson e gli chiede di trovarlo al portone spalancato  
 Ormai il sole è calato e ne approfittiamo per andare a riposarci
+
 ## Giorno 3: Freeroaming, le gilde
+
 Maple e Seebo si avviano al mercato per parlare con Savra mentre Ben e Dixon  si dirigono alla taverna dove ci siamo incontrati per parlare con l'oste
 
 Maple e Seebo parlano con Savra ma entrambi rifiutano l'invito alla gilda (Savra sembra molto insistente sul bene superiore dell'organizzazione e molto vaga sulle effettive buone intenzioni dietro le loro azioni). Uscendo dalla struttura incontrano Ben che chiede loro delle informazioni su Savra e l'organizzazzione.  
 Nel frattempo Dixon è rimasto alla locanda perché troppo ubriaco per andare in giro  
 Mentre Ben entra nella sede della gilda di Savra, Maple e Seebo si dirigono verso l'enclave dello smeraldo.
+
 ![Phaulnkonmere](./immagini/phaulkonmere.jpg "Phaulnkonmere")  
+
 Arrivati lì trovano un uomo che parla loro della bellezza, della crudeltà della natura e di come essa sia alla base della vita;  
 parla poi di un contadino che ha bisogno di aiuto con degli spaventapasseri impossessati e chiede loro di dargli una mano, prima di andare però dona a Maple una piccola scatola con dei fori della grandezza di una piccola gemma.  
 Maple e Seebo si dirigono quindi nelle campagne ad est di waterdeep per aiutare il contadino, con l'aiuto di Ben e Dixon (che passavano di lì per caso) risolvono il problema degli spaventapasseri e si separano nuovamente ritornando in città, Ben e Dixon verso la locanda dove siam partiti mentre Seebo e Maple verso Paulkonmere
@@ -66,6 +70,8 @@ Riescono ad uccidere l'uomo con l'aiuto di una guardia e poi ritornano in tavern
 # - III  Sera  
 
 Alla taverna gli viene consegnata una borsa di pozioni da consegnare ad una donna che si trova al "Cacciatore degli dei" che si trova nella zona marittima della città; li aspetterà lì la sera.
+
+![Il cacciatore di dei](./immagini/the_god_catcher.png "Il cacciatore di dei")  
 
 Ormai entrati a far parte dell'organizzazione della rete nera entrambi si tatuano il simbolo in segno di appartenenza.
 
@@ -96,3 +102,39 @@ Dopo aver sconfitto il necromante il generale si separa e Maple e Seebo ritornan
 
 # - IV Sera
 ## Giorno 5 Palla di fuoco al vicolo Teschio di troll
+
+Si ritrovano tutti in casa e passano la notte, la mattina successiva vengono svegliati da un'esplosione.
+
+Uscendo di casa notano che il negozio (T2) è andato completamente distrutto, secondo dei testimoni il bersaglio dell'attacco sarebbe stato uno gnomo che portava qualcosa di importante; un ragazzo ha trovato una collana con 3 perle e una di queste è nera, sicuramente è con questa collana che è stata lanciata la palla di fuoco. Inoltre un testimone afferma di aver notato che il colpevole fosse fatto di metallo.
+
+Marco si dirige verso la locanda del portale spalancato per parlare con Tashlyn, lei confida che lo gnomo ed altri 2 uomini erano diretti alla casa per consegnare delle pietre utitli a Marco ed Emanuele, dei 3, 2 sono morti, mentre il terzo è disperso e non si sanno più notizie. Il suo nome è Urstul Floxtin.
+
+Considerando l'origine metallica del colpevole consiglia di andare alla fabbrica di automi anche chiamata casa delle mani ispirate.
+
+![Casa delle mani inspirate](./immagini/house_of_inspired_hands.png "Casa delle mani inspirate")  
+
+Consiglia inoltre di far attenzione alle guardie e a persone collegate ala famiglia Gralhund che controlla gran parte delle forze dell'ordine della città, ultimamente non scorre buon sangue tra loro e la rete nera.
+
+Tutti e 4 si avviano verso l'officina degli automi, sul tetto notiamo un automa che gli lancia 2 uccelli meccanici e poi scompare.
+
+Distrutti gli uccelli entriamo nell'edificio, dove un vecchio li accoglie e li porta verso la donan che controlla la struttura, Valetta, di origini dragoniche e più alta di noi. Ci parla di un automa con "vita" propria che è stato rinchiuso in una stanza dell'edificio, ma non essendo mai uscito di lì non potrebbe per forza essere il colpevole. 
+
+Valetta ci porta dall'automa, che confessa di aver creato altri automi come lui e che uno di questi è scappato.  
+Marco ruba un oggetto dorato trovato per terra nella stanza dell automa, nel farlo però fa rumore, Maple se ne accorge e chiede a cosa possa servire quell'oggetto; Valetta pensa sia stato rubato qualcosa di importante e per questo fulmina Marco che appena si riprende la attacca e la uccide.  
+
+![Rilevatore di automi schermidori](./immagini/rilevatore_di_automi_schermidori.jpg "Rilevatore di automi schermidori")  
+
+Con un'attenta analisi capiscono che l'oggetto è un rilevatore di automi e che potrebbe aiutarli nel cercare l'automa colpevole della palla di fuoco.
+
+Il rilevatore emette un segnale davvero debole, facendo qualche passo in tutte le direzioni ri riesce ad avere un'idea di dove dirigersi, la villa dei Gralhund
+
+![Villa Gralhund](./immagini/gralhund_villa.png "Villa Gralhund")  
+
+Tutti e 4 riescono a scavalcare il muro che circonda la proprietà, si avvicinano ad una delle finestre e notano 2 cadaveri, sentono però dei rumori vicino la porta d'ingresso principale.  
+Fanno il giro della proprietà per provare ad entrare da una porta secondaria, l'unica senza serrature o lucchetti è quella della cucina. Dalla cucina trovano altri cadaveri nella dispensa e salgono per le stanze della servitù dove ancora più cadaveri rimangono stesi per terra.
+
+La cucina è inoltre collegata alla sala da pranzo, lì vedono 2 uomini armati di clave che saccheggiano le tasche di altri cadaveri di fronte (dall'interno) della porta d'ingresso. Gli uomini hanno sulle braccia il tatuaggio della rete nera
+
+Emanuele decide di rifare tutto il giro della proprietà e di entrare dalla porta principale e di parlare con i 2 uomini visto che fan parte della sua stessa organizzazione; gli altri rimangono nascosti nel caso in cui la situazione sfuggisse di mano.
+
+Emanuele riesce a guadagnare un briciolo di fiducia nelle guardie che nel frattempo decidono di scendere per il piano inferiore della tenuta.
