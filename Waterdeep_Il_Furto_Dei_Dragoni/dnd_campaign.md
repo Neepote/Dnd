@@ -14,8 +14,8 @@ Il nome del giovane è Floon, un umano biondiccio sulla trentina, l’ultima ser
 Dopo aver riposato per la notte partiamo per la ricerca della suddetta taverna, passano per le strade di Waterdeep notiamo del sangue sparso per la strada, circa mezza dozzina di corpi morti e delle guardie che tengono prigionieri tre uomini probabili artefici o ultimi sopravvissuti del massacro.  
 Continuando per la strada ormai giunti a destinazione notiamo un negozietto e ci entriamo, all’interno troviamo un piccolo uomo, calvo e con degli occhi viola tatuati sul viso.  
 L’uomo vende trinkets (oggetti particolari non molto utili), nel mentre delle transizioni chiediamo delle informazioni, prima sul suo tatuaggio (simile a quello del capitano Krentz), senza avere risposta e successivamente su Floon, l’uomo di cui siamo alla ricerca. Risponde di aver visto qualche sera prima una persona con le stesse caratteristiche fisiche venir rapita, e che uno dei rapitori avesse un tatuaggio.  
-Usciti dal negozio ci dirigiamo alla taverna, o quel che ne rimane. La porta è chiusa, ma Marco riesce ad entrare dalla finestra mentre noi grazie ad Emanuele sfondiamo (non letteralmente perché ha usato un incantesimo); all’interno troviamo tre creature (kenku) che giravano al buio per la locanda.  
-Una volta sconfitti scendiamo per le scale per il quale uno degli esserini stava tentando di fuggire, dove Giacomo trova una piccola stanza segreta contenente 4 dipinti, ne prende 2; Emanuele trova un uccello di carta (un foglio magico che viaggia verso il destinatario del messaggio).   
+Usciti dal negozio ci dirigiamo alla taverna, o quel che ne rimane. La porta è chiusa, ma Dixon Butts riesce ad entrare dalla finestra mentre noi grazie ad Ben Dover sfondiamo (non letteralmente perché ha usato un incantesimo); all’interno troviamo tre creature (kenku) che giravano al buio per la locanda.  
+Una volta sconfitti scendiamo per le scale per il quale uno degli esserini stava tentando di fuggire, dove Seebo trova una piccola stanza segreta contenente 4 dipinti, ne prende 2; Ben Dover trova un uccello di carta (un foglio magico che viaggia verso il destinatario del messaggio).   
 Scendiamo poi per delle scale che ci portano al sistema fognario della città; con delle torce percorriamo parte delle fogne fino ad arrivare ad una stanza circolare dove fluiscono diversi canali delle fogne, da lì risaliamo per delle scale e ci troviamo due piccoli goblin a guardia dei dormitori. Troviamo un uomo a guardia e ci dice che il ragazzo (Floon) era stato rapito da loro per conto del capo per fargli delle domande, ci indica sia la stanza del capo che quella in cui Floon è prigioniero.  
 Andiamo da Floon e per sicurezza chiediamo prima se conosce un vecchio (Volo) descrivendone i tratti fisici e se la storia corrispondesse a quella descrittaci inizialmente da Volo; Lo liberiamo e lo portiamo con noi nella stanza del capo per vedere cosa volesse farne il capo di Floon.  
 Entrati nella stanza del boss notiamo un mezzo orco di guardia e un mind flayer con in braccio un intellect devourer.  
@@ -64,7 +64,7 @@ Arrivati lì trovano un uomo che parla loro della bellezza, della crudeltà dell
 parla poi di un contadino che ha bisogno di aiuto con degli spaventapasseri impossessati e chiede loro di dargli una mano, prima di andare però dona a Maple una piccola scatola con dei fori della grandezza di una piccola gemma.  
 Maple e Seebo si dirigono quindi nelle campagne ad est di waterdeep per aiutare il contadino, con l'aiuto di Ben e Dixon (che passavano di lì per caso) risolvono il problema degli spaventapasseri e si separano nuovamente ritornando in città, Ben e Dixon verso la locanda dove siam partiti mentre Seebo e Maple verso Paulkonmere
 
-Alla locanda Starson dice loro di andare verso un vicolo. Lì troveranno dei cadaveri da poco assassinati (pugnalati in petto), i colpevoli sono probabilmente due persone che stanno tentando di scappare, una ci riesce mentre l'altra combatte contro Marco ed Emanuele.
+Alla locanda Starson dice loro di andare verso un vicolo. Lì troveranno dei cadaveri da poco assassinati (pugnalati in petto), i colpevoli sono probabilmente due persone che stanno tentando di scappare, una ci riesce mentre l'altra combatte contro Dixon Butts ed Ben Dover.
 Riescono ad uccidere l'uomo con l'aiuto di una guardia e poi ritornano in taverna da Starson.
 
 # - III  Sera  
@@ -75,25 +75,25 @@ Alla taverna gli viene consegnata una borsa di pozioni da consegnare ad una donn
 
 Ormai entrati a far parte dell'organizzazione della rete nera entrambi si tatuano il simbolo in segno di appartenenza.
 
-Maple e Giacomo nel frattempo rientrano in città nonostante una guardia avesse provato ad impedirglielo, si dirigono alla sede dell'enclave dello smeraldo ma non c'è nessuno ad aspettarli, per questo si dirigeranno verso casa per poter passare la notte.
+Maple e Seebo nel frattempo rientrano in città nonostante una guardia avesse provato ad impedirglielo, si dirigono alla sede dell'enclave dello smeraldo ma non c'è nessuno ad aspettarli, per questo si dirigeranno verso casa per poter passare la notte.
 
 ## Giorno 4: Freeroaming, le gilde II
 
-Nella notte Marco sente rumori vicino casa nostra, probabilmente qualche spia.
+Nella notte Dixon Butts sente rumori vicino casa nostra, probabilmente qualche spia.
 
-È mattina e Lorenzo e Giacomo tornano alla sede dell'enclave, il titolare (Melnar) si congratula con loro e li porta dentro casa per bere del tè, gli parla di un necromante che sta creando problemi in città, in particolare di notte sembrano esser stati avvistati degli scheletri girare per le strade. Di questo se ne sta occupando un generale dell'esercito a cui Melnar chiede di dare una mano.
+È mattina e Maple e Seebo tornano alla sede dell'enclave, il titolare (Melnar) si congratula con loro e li porta dentro casa per bere del tè, gli parla di un necromante che sta creando problemi in città, in particolare di notte sembrano esser stati avvistati degli scheletri girare per le strade. Di questo se ne sta occupando un generale dell'esercito a cui Melnar chiede di dare una mano.
 
-Non avendo nulla da fare durante la giornata Maple e Seebo ritornano a casa ed aspettano la notte insieme a Marco ed Emanuele.
+Non avendo nulla da fare durante la giornata Maple e Seebo ritornano a casa ed aspettano la notte insieme a Dixon Butts ed Ben Dover.
 
-Arrivata una certa ora Marco ed Emanuele si incamminano per andare al loro incontro al Cacciatore degli dei. Ormai vicini sentono qualcuno camminare con dei tacchi ma non ne comprendono benissimo la direzione; in lontananza vendono una carrozza esattamente di fronte il luogo di incontro e si dirigono verso di essa.
+Arrivata una certa ora Dixon Butts ed Ben Dover si incamminano per andare al loro incontro al Cacciatore degli dei. Ormai vicini sentono qualcuno camminare con dei tacchi ma non ne comprendono benissimo la direzione; in lontananza vendono una carrozza esattamente di fronte il luogo di incontro e si dirigono verso di essa.
 
 All'interno della carrozza trovano la donna a cui dovevano consegnare le pozioni, e ricevono in cambio un sacchetto da consegnare a Davil Starson.
 
-Ritornando verso la locanda del Portale spalancato notano che anche delle guardie camminano nella loro stessa direzione, Emanuele invia l'uccello di carta per avvisare Davil del loro arrivo.
+Ritornando verso la locanda del Portale spalancato notano che anche delle guardie camminano nella loro stessa direzione, Ben Dover invia l'uccello di carta per avvisare Davil del loro arrivo.
 
 Nel frattempo alla porta di casa arriva il generale Ambrose, l'uomo che Maple e Seebo dovranno aiutare. Con un po' di scetticismo il generale accetta il loro aiuto e chiede di dividersi per velocizzare il processo di localizzazione del nascondiglio del necromante. Si ritrovano dopo qualche ora di fronte alla casa e condividono le informazioni ricavate, son stati visti degli scheletri uscire da una botola di una casa abbandonata; si dirigono lì ed entrano nella botola dopo aver distrutto un paio di scheletri.
 
-Marco ed Emanuele intanto raggiungono le guardie di fronte alla locanda, e travestiti provano a prendere informazioni sul perché della venuta delle guardie alla locanda, non raccogliendo nessuna informazione utile entrano in taverna, vedono Davil Starson scendere dalle scale scortato da delle guardie.
+Dixon Butts ed Ben Dover intanto raggiungono le guardie di fronte alla locanda, e travestiti provano a prendere informazioni sul perché della venuta delle guardie alla locanda, non raccogliendo nessuna informazione utile entrano in taverna, vedono Davil Starson scendere dalle scale scortato da delle guardie.
 Uscite tutte le guardie salgono al secondo piano della locanda ("sede" della rete nera) e trovano una donna ad aspettarli, Tashlyn Yafeera, a cui consegnano il sacchetto ricevuto.
 Tashlyn dice anche che chiunque nella gilda è rimpiazzabile, tranne il capo della gilda di cui si sà solamente che appartiene alla razza dei (Beholders), chiede loro anche di tornare la sera successiva per offrire qualche compito.
 
@@ -107,7 +107,7 @@ Si ritrovano tutti in casa e passano la notte, la mattina successiva vengono sve
 
 Uscendo di casa notano che il negozio (T2) è andato completamente distrutto, secondo dei testimoni il bersaglio dell'attacco sarebbe stato uno gnomo che portava qualcosa di importante; un ragazzo ha trovato una collana con 3 perle e una di queste è nera, sicuramente è con questa collana che è stata lanciata la palla di fuoco. Inoltre un testimone afferma di aver notato che il colpevole fosse fatto di metallo.
 
-Marco si dirige verso la locanda del portale spalancato per parlare con Tashlyn, lei confida che lo gnomo ed altri 2 uomini erano diretti alla casa per consegnare delle pietre utitli a Marco ed Emanuele, dei 3, 2 sono morti, mentre il terzo è disperso e non si sanno più notizie. Il suo nome è Urstul Floxtin.
+Dixon Butts si dirige verso la locanda del portale spalancato per parlare con Tashlyn, lei confida che lo gnomo ed altri 2 uomini erano diretti alla casa per consegnare delle pietre utitli a Dixon Butts ed Ben Dover, dei 3, 2 sono morti, mentre il terzo è disperso e non si sanno più notizie. Il suo nome è Urstul Floxtin.
 
 Considerando l'origine metallica del colpevole consiglia di andare alla fabbrica di automi anche chiamata casa delle mani ispirate.
 
@@ -120,7 +120,7 @@ Tutti e 4 si avviano verso l'officina degli automi, sul tetto notiamo un automa 
 Distrutti gli uccelli entriamo nell'edificio, dove un vecchio li accoglie e li porta verso la donan che controlla la struttura, Valetta, di origini dragoniche e più alta di noi. Ci parla di un automa con "vita" propria che è stato rinchiuso in una stanza dell'edificio, ma non essendo mai uscito di lì non potrebbe per forza essere il colpevole. 
 
 Valetta ci porta dall'automa, che confessa di aver creato altri automi come lui e che uno di questi è scappato.  
-Marco ruba un oggetto dorato trovato per terra nella stanza dell automa, nel farlo però fa rumore, Maple se ne accorge e chiede a cosa possa servire quell'oggetto; Valetta pensa sia stato rubato qualcosa di importante e per questo fulmina Marco che appena si riprende la attacca e la uccide.  
+Dixon Butts ruba un oggetto dorato trovato per terra nella stanza dell automa, nel farlo però fa rumore, Maple se ne accorge e chiede a cosa possa servire quell'oggetto; Valetta pensa sia stato rubato qualcosa di importante e per questo fulmina Dixon Butts che appena si riprende la attacca e la uccide.  
 
 ![Rilevatore di automi schermidori](./immagini/rilevatore_di_automi_schermidori.jpg "Rilevatore di automi schermidori")  
 
@@ -135,6 +135,6 @@ Fanno il giro della proprietà per provare ad entrare da una porta secondaria, l
 
 La cucina è inoltre collegata alla sala da pranzo, lì vedono 2 uomini armati di clave che saccheggiano le tasche di altri cadaveri di fronte (dall'interno) della porta d'ingresso. Gli uomini hanno sulle braccia il tatuaggio della rete nera
 
-Emanuele decide di rifare tutto il giro della proprietà e di entrare dalla porta principale e di parlare con i 2 uomini visto che fan parte della sua stessa organizzazione; gli altri rimangono nascosti nel caso in cui la situazione sfuggisse di mano.
+Ben Dover decide di rifare tutto il giro della proprietà e di entrare dalla porta principale e di parlare con i 2 uomini visto che fan parte della sua stessa organizzazione; gli altri rimangono nascosti nel caso in cui la situazione sfuggisse di mano.
 
-Emanuele riesce a guadagnare un briciolo di fiducia nelle guardie che nel frattempo decidono di scendere per il piano inferiore della tenuta.
+Ben Dover riesce a guadagnare un briciolo di fiducia nelle guardie che nel frattempo decidono di scendere per il piano inferiore della tenuta.
