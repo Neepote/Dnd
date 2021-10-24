@@ -47,7 +47,7 @@ Maple e Seebo vanno dal fabbro per comprare un lucchetto per la porta e pagare p
 Uscendo dall'edificio Seebo riceve un messaggio dall'enclave dello smeraldo che si trova a Phaulnkonmere nel quartiere meridionale.
 
 Incamminandoci per andare dall'erborista Maple e Seebo vengono fermati da una donna di nome Savra, ci parla di come lei e la sua gilda combattano i cattivi e ci invita ad andare alla sede che si trova nella zona del mercato.  
-Nel frattempo Dixon riceve un messaggio da Davill Starson e gli chiede di trovarlo al portone spalancato  
+Nel frattempo Dixon riceve un messaggio da Davil Starsong e gli chiede di trovarlo al portone spalancato  
 Ormai il sole è calato e ne approfittiamo per andare a riposarci
 
 ## Giorno 3: Freeroaming, le gilde
@@ -64,7 +64,7 @@ Arrivati lì trovano un uomo che parla loro della bellezza, della crudeltà dell
 parla poi di un contadino che ha bisogno di aiuto con degli spaventapasseri impossessati e chiede loro di dargli una mano, prima di andare però dona a Maple una piccola scatola con dei fori della grandezza di una piccola gemma.  
 Maple e Seebo si dirigono quindi nelle campagne ad est di waterdeep per aiutare il contadino, con l'aiuto di Ben e Dixon (che passavano di lì per caso) risolvono il problema degli spaventapasseri e si separano nuovamente ritornando in città, Ben e Dixon verso la locanda dove siam partiti mentre Seebo e Maple verso Paulkonmere
 
-Alla locanda Starson dice loro di andare verso un vicolo. Lì troveranno dei cadaveri da poco assassinati (pugnalati in petto), i colpevoli sono probabilmente due persone che stanno tentando di scappare, una ci riesce mentre l'altra combatte contro Dixon Butts ed Ben Dover.
+Alla locanda Starsong dice loro di andare verso un vicolo. Lì troveranno dei cadaveri da poco assassinati (pugnalati in petto), i colpevoli sono probabilmente due persone che stanno tentando di scappare, una ci riesce mentre l'altra combatte contro Dixon Butts ed Ben Dover.
 Riescono ad uccidere l'uomo con l'aiuto di una guardia e poi ritornano in taverna da Starson.
 
 # - III  Sera  
@@ -81,19 +81,19 @@ Maple e Seebo nel frattempo rientrano in città nonostante una guardia avesse pr
 
 Nella notte Dixon Butts sente rumori vicino casa nostra, probabilmente qualche spia.
 
-È mattina e Maple e Seebo tornano alla sede dell'enclave, il titolare (Melnar) si congratula con loro e li porta dentro casa per bere del tè, gli parla di un necromante che sta creando problemi in città, in particolare di notte sembrano esser stati avvistati degli scheletri girare per le strade. Di questo se ne sta occupando un generale dell'esercito a cui Melnar chiede di dare una mano.
+È mattina e Maple e Seebo tornano alla sede dell'enclave, il titolare (Melannor) si congratula con loro e li porta dentro casa per bere del tè, gli parla di un necromante che sta creando problemi in città, in particolare di notte sembrano esser stati avvistati degli scheletri girare per le strade. Di questo se ne sta occupando un generale dell'esercito a cui Melnar chiede di dare una mano.
 
 Non avendo nulla da fare durante la giornata Maple e Seebo ritornano a casa ed aspettano la notte insieme a Dixon Butts ed Ben Dover.
 
 Arrivata una certa ora Dixon Butts ed Ben Dover si incamminano per andare al loro incontro al Cacciatore degli dei. Ormai vicini sentono qualcuno camminare con dei tacchi ma non ne comprendono benissimo la direzione; in lontananza vendono una carrozza esattamente di fronte il luogo di incontro e si dirigono verso di essa.
 
-All'interno della carrozza trovano la donna a cui dovevano consegnare le pozioni, e ricevono in cambio un sacchetto da consegnare a Davil Starson.
+All'interno della carrozza trovano la donna a cui dovevano consegnare le pozioni, e ricevono in cambio un sacchetto da consegnare a Davil Starsong.
 
 Ritornando verso la locanda del Portale spalancato notano che anche delle guardie camminano nella loro stessa direzione, Ben Dover invia l'uccello di carta per avvisare Davil del loro arrivo.
 
 Nel frattempo alla porta di casa arriva il generale Ambrose, l'uomo che Maple e Seebo dovranno aiutare. Con un po' di scetticismo il generale accetta il loro aiuto e chiede di dividersi per velocizzare il processo di localizzazione del nascondiglio del necromante. Si ritrovano dopo qualche ora di fronte alla casa e condividono le informazioni ricavate, son stati visti degli scheletri uscire da una botola di una casa abbandonata; si dirigono lì ed entrano nella botola dopo aver distrutto un paio di scheletri.
 
-Dixon Butts ed Ben Dover intanto raggiungono le guardie di fronte alla locanda, e travestiti provano a prendere informazioni sul perché della venuta delle guardie alla locanda, non raccogliendo nessuna informazione utile entrano in taverna, vedono Davil Starson scendere dalle scale scortato da delle guardie.
+Dixon Butts ed Ben Dover intanto raggiungono le guardie di fronte alla locanda, e travestiti provano a prendere informazioni sul perché della venuta delle guardie alla locanda, non raccogliendo nessuna informazione utile entrano in taverna, vedono Davil Starsong scendere dalle scale scortato da delle guardie.
 Uscite tutte le guardie salgono al secondo piano della locanda ("sede" della rete nera) e trovano una donna ad aspettarli, Tashlyn Yafeera, a cui consegnano il sacchetto ricevuto.
 Tashlyn dice anche che chiunque nella gilda è rimpiazzabile, tranne il capo della gilda di cui si sà solamente che appartiene alla razza dei (Beholders), chiede loro anche di tornare la sera successiva per offrire qualche compito.
 
@@ -137,4 +137,58 @@ La cucina è inoltre collegata alla sala da pranzo, lì vedono 2 uomini armati d
 
 Ben Dover decide di rifare tutto il giro della proprietà e di entrare dalla porta principale e di parlare con i 2 uomini visto che fan parte della sua stessa organizzazione; gli altri rimangono nascosti nel caso in cui la situazione sfuggisse di mano.
 
-Ben Dover riesce a guadagnare un briciolo di fiducia nelle guardie che nel frattempo decidono di scendere per il piano inferiore della tenuta.
+Ben Dover riesce a guadagnare un briciolo di fiducia dei due tipi della rete nera, che decidono di salire al piano superiore per aiutare il proprio capo
+
+# - V Sera
+## Villa Gralhund
+
+I quattro si ritrovano tutti nel salone d'ingresso e decidono di finire di esplorare il piano terra visto che nessuna guardia/persona ostile sembra essere presente.  
+
+In una stanza trovano un falco appartenente al capo famiglia, Seebo lo addomestica e lo porta con se.  
+
+Vicino la porta d'ingresso trovano la porta per la libreria, dove trovano 3 fantasmi che sembrano fissati su di un libro, Maple prende il libro e lo apre ma viene attaccata dai fantasmi. Annientati i fantasmi l'unica strada rimanente è quella che porta al piano superiore.
+
+Il gruppo sale quindi le scale per il piano superiore; trovano i due della rete nera combattere con delle guardie dei gralhund. Ben riesce ad intimidirli e ricevere delle informazioni sugli avvenimenti della tenuta.
+
+Sia le guardie che i seguaci della rete decidono di non collaborare con il gruppo e per questo vengono eliminati.
+
+Proseguendo per il corridoio spostano dei mobili e trovano un nano sporco di sangue prendere a calci una porta senza riuscire ad aprirla o ricevere risposta; il nano è Urstul e appena Ben e Dixon si presentano come seguaci della rete nera trema dal terrore.
+Urstul cerca di riprendere la gemma (che sarebbe dovuta arrivare in mano di Dixon e Ben) data al capo famiglia dei gralhund
+
+Seebo e Maple tornano indietro per controllare una stanza in cui non erano ancora entrati, lì trovano una donna armata di pugnale e una guardia a difenderla, sono la moglie del capo famiglia e il capo delle guardie del corpo.
+Si sono nascosti nella stanza per evitare di venir uccisi da Urstul che in preda all'ira ha decimato le guardie personali dei gralhund.
+
+Seebo e Maple li aiutano a fuggire dalla magione in sicurezza, nel mentre dixon e ben attaccano Urstul perché non voleva fornire informazioni utili per inquadrare meglio la situazione.
+Urstul voleva riprendere la gemma per paura delle conseguenze (probabilmente paura della rete nera)
+
+Sconfitto Urstul con l'aiuto di Maple scoprono un compartimento segreto in una cassa appartenente alla signora della casa e all'interno trovano delle vesti che ricordano vesti di un qualche culto.
+
+Tutti e quattro ritornano alla porta che Urstul prendeva a calci e alla porta adesso si sente una voce che chiede di Hrabbaz, Maple e Seebo intuiscono sia la guardia del corpo della signora gralhund, prima di riuscire a parlare con l'uomo alla porta Dixon sfonda la porta e catapulta per terra l'uomo che si trovava dietro.
+
+L'uomo era Orond Gralhund e spaventato si chiede chi siano i quattro di fronte a lui.
+
+Dixon tenta di intimidirlo e convincerlo a lasciare a loro la gemma rubata da Urstul, ma Orond non intende lasciarla, anzi chiede 500 platini per averla.
+
+Dixon lo uccide e ruba la gemma, da lì capiscono che non si tratta solamente di una gemma, ma di una gemma dove all'interno sembra essere contenuto un antico drago rimpicciolito.
+
+Ormai stremati rimangono a dormire nella magione ormai senza altra anima viva.
+
+## Giorno 6 La ricerca della donna a capo della casa Gralhund
+
+Svegli e pieni di energie Escono dalla tenuta e decidono di cercare la donna salvata da Seebo e Maple, Seebo si trasforma in lupo per tentare di fiutare l'odore della donna nella città, si dirigono prima alla Locanda del portale spalancato ma lì non trovano nessun indizio. Provano ad andare verso il porto, ma trovano solamente dei vestiti simili a quelli trovati nel doppio fondo della cassa.
+
+Sconsolati ritornano a casa e trovano Lif contento di annunciare i primi clienti della locanda dopo anni di inattività.
+
+I clienti eran proprio La donna con la sua guardia del corpo, si presentano e chiedono cosa sia successo nella magione dopo la loro fuga.
+
+La donna Si chiama Yalah e come intuito prima la guardia del corpo Hrabbaz.
+
+Maple spiega che Orond marito di Yalah era ormai morto e con lui anche Urstul.
+
+Alla notizia della morte del marito non sembrava esser molto dispiaciuta, di fatti chiese subito se per caso il gruppo fosse entrato in contatto con un oggetto particolare che suo marito stava custodendo, l'oggetto in questione è un artefatto che si dica possa aprire le porte del nascondiglio del drago che riposa nel sottosuolo di Waterdeep.
+
+Yalah mostra di avere un bastone simile a quello trovato dal gruppo per controllare gli automi, e rivela che l'automa che i quattro stavano cercando è programmato per cercare quella gemma e che si sta dirigendo proprio verso la casa.
+
+Nel frattempo si sentono delle guardie circondare la casa, probabilmente per conto di Yalah ormai in comando delle forze dell'ordine della città.
+
+I quattro escono dalla stanza della donna e scendono di sotto per parlare di cosa fare con la gemma.
