@@ -52,10 +52,11 @@ _in inglese_:
 
     All the while, Unkh the flail snail lived deep under the earth. The noise of the other animals fighting made her slither up to the surface, and when day dawned over her shell, the light blinded Ubtao and made his eyes water. Life returned to Omu, and the people built shrines honor the the animals who’d saved them.
 
-
 Il __-V__ che ha scritto il messaggio nel bagno è un tizio di una spedizione collegata a quella di Orbex, Erik purtroppo è morto.
 
 Anche il nome Moa era presente nei graffiti del bagno, probabilmente il punto interrogativo sarà qualcosa di collegato a "Moa the jaculi was to honest to lie"  Moa=Honesty?  
+
+Anche hunk è nella storia.
 
 Cambiamo zona
 
@@ -65,8 +66,20 @@ Notiamo una piscina rettangolare piena di acqua melmosa, dovebbe essere un tempi
 
 ![piscina](./assets/WhatsApp%20Image%202022-09-30%20at%2023.17.31.jpeg)
 
-Ci avviciniamo al tempio, la porta è chiusa a chiave
+Ci avviciniamo al tempio, la porta è chiusa a chiave, c'è una scritta:
 
+    kubazan urges us to tread without fear and to give back as much as we take 
 
-kubazan urges us to tread without fear and to give back as much as we take 
+Dalla piscina esce fuori un Froghemoth
+Sconfitta ci avviciniamo alla statua della rana dove troviamo una chiave.  
+Usiamo la chiave per aprire la porta del cancello.
 
+Troviamo delle spine uscire dal pavimento, al nostro opposto vediamo un dipinto di un Froghemoth Kubazan che combatte con Papazotl the eblis
+
+![piscina](./assets/WhatsApp%20Image%202022-10-01%20at%2000.29.22.jpeg)
+
+Massimo ha provato il suicidio ed è caduto sulle spine  
+
+Riesce a risalire e arriva all'altare, dove trova un cubo (la chiave descritta nei murales?), lo prende e si chiudono le porte e comincia ad uscire del gas
+
+Facendo parkour lo riporta indietro, in questo cubo sembra esserci raffigurata una rana (probabilmente esiste un cubo per ognuno degli dei)
