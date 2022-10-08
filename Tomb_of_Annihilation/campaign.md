@@ -99,3 +99,11 @@ Ci sono anche dei disegni di Shagambi osseva i chultani che si allenano con spad
 Spingendo tutti insieme riusciamo ad aprire la porta
 
 ![revealed](./assets/WhatsApp%20Image%202022-10-08%20at%2023.46.47.jpeg)
+
+Scendiamo le scale d'ingrsso, ci troviamo (dove sono le stelle) 4 statue di Omuani (abitanti di ohu), le grate sotto coprono una "fossa dei gladiatori".
+Oltre la fossa si vede un piedistallo vuoto.
+Dietro si nota un disegno di un leopardo che combatte con una rana tozza (shagambi che combatte con Nang nang)
+
+Massimo ritenta il suicidio e si butta nella fossa dei gladiatori.
+
+Lo seguiamo scendendo dalle scale, delle statue di terracotta raffiguranti gladiatori romuani ci attaccano.
