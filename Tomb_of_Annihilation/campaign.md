@@ -90,4 +90,12 @@ Ci dirigiamo verso il punto 4 della mappa, ci ritroviamo di fronte quello che cr
 
 ![secondo tempio](./assets/WhatsApp%20Image%202022-10-08%20at%2022.34.22.jpeg)
 
+Analizzando la porta si trivani deu rilievi in _old nomuan_ che il vecchio sa leggere
 
+    teaches us to fight evil with honor
+
+Ci sono anche dei disegni di Shagambi osseva i chultani che si allenano con spade e lance.
+
+Spingendo tutti insieme riusciamo ad aprire la porta
+
+![revealed](./assets/WhatsApp%20Image%202022-10-08%20at%2023.46.47.jpeg)
