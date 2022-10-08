@@ -83,3 +83,11 @@ Massimo ha provato il suicidio ed è caduto sulle spine
 Riesce a risalire e arriva all'altare, dove trova un cubo (la chiave descritta nei murales?), lo prende e si chiudono le porte e comincia ad uscire del gas
 
 Facendo parkour lo riporta indietro, in questo cubo sembra esserci raffigurata una rana (probabilmente esiste un cubo per ognuno degli dei)
+
+__Sabato 08/10/2022__.
+
+Ci dirigiamo verso il punto 4 della mappa, ci ritroviamo di fronte quello che credimo un tempio, protetto da due specie di chimere.
+
+![secondo tempio](./assets/WhatsApp%20Image%202022-10-08%20at%2022.34.22.jpeg)
+
+
