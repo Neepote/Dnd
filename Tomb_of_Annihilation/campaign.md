@@ -119,7 +119,7 @@ Prendiamo le lancie e le portiamo al piano superiore, le mettiamo in mano alle s
 
 Una volta inserite tutte le lancie dal piedistallo esce fuori un cubo come quello ritrovato nel tempio precedente.
 
-### zona 5 
+### zona 5
 
 Ci avviciniamo al picco che punta verso il punto 5 della mappa, al ponticello si nota un gruppo di mostri.
 
@@ -135,4 +135,15 @@ Ballando, gli animaletti e Massimo si avvicinano verso il bordo, Massimo però s
 
 Ci attacano.  
 
+Una volta sconfitti cerchiamo un modo per scendere ma non sembra esserci.
 
+Visro che non ci è possibile andare verso il punto 6, ci dirigiamo verso il punto 7
+
+### zona 7
+
+Ci ritroviamo un di fronte ad un ponte improvvisato con un tronco d'acqua.  
+Si nota abbastanza bene che una parte della città è stata sommersa da questo fiume, che si siano rotti gli argini del fiume con il passare del tempo?
+
+Massimo prova ad attraversare il ponte, ma viene subito colpito da una freccia
+
+Ci attacca quello che sembra essere un ladro, che dopo un lunghissimo fight muore.  
