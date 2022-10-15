@@ -86,6 +86,8 @@ Facendo parkour lo riporta indietro, in questo cubo sembra esserci raffigurata u
 
 __Sabato 08/10/2022__.
 
+### zona 4
+
 Ci dirigiamo verso il punto 4 della mappa, ci ritroviamo di fronte quello che credimo un tempio, protetto da due specie di chimere.
 
 ![secondo tempio](./assets/WhatsApp%20Image%202022-10-08%20at%2022.34.22.jpeg)
@@ -107,3 +109,30 @@ Dietro si nota un disegno di un leopardo che combatte con una rana tozza (shagam
 Massimo ritenta il suicidio e si butta nella fossa dei gladiatori.
 
 Lo seguiamo scendendo dalle scale, delle statue di terracotta raffiguranti gladiatori romuani ci attaccano.
+
+Riusciamo a sconfiggerli con molta difficoltà.  
+Le loro lance di metallo sono rimaste a terra
+
+_Sabato 15/10/2022_.
+
+Prendiamo le lancie e le portiamo al piano superiore, le mettiamo in mano alle statue che avevano un buco nelle mani preciso per le lance.
+
+Una volta inserite tutte le lancie dal piedistallo esce fuori un cubo come quello ritrovato nel tempio precedente.
+
+### zona 5 
+
+Ci avviciniamo al picco che punta verso il punto 5 della mappa, al ponticello si nota un gruppo di mostri.
+
+Sembrano essere dei vegepigmi (simili agli zulugorgi ma più grandi Tra di loro c'è un grung, legato con delle corde, sembra stia per essere sacrificato dai vegepigmi.
+
+Massimo prova ad interagire con gli esserini, finirà male come al solito.
+
+Massimo decide di ballare con loro.
+
+Uno dei vegepigmi più grossi butta il grung nella lava, altri due lo seguono.
+
+Ballando, gli animaletti e Massimo si avvicinano verso il bordo, Massimo però salta via per evitare di finire come gli altri caduti di sotto.
+
+Ci attacano.  
+
+
