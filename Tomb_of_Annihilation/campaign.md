@@ -223,3 +223,6 @@ Arriviamo nella stanza in cui Massimo è stato ammazzato, le scritte sul mosaico
 
     Death rewards a thief deceived. truth comes from the serpents mouth  
 
+Giacomo vuole provare a prendere il cubo da per terra e correre via, lo aiuto curandolo e dandogli + classe armatura
+
+Riesce ad uscire fuori ma il cubo si dissolve alla luce del sole
