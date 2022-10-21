@@ -176,8 +176,11 @@ All'interno vediamo:
 
 ![tempio 8](./assets/WhatsApp%20Image%202022-10-21%20at%2022.50.44.jpeg)  
 
-Appena entrati vediamo una statua con dientro un piedistallo piedistallo (come quello del tempio precedente). Nel nuro sono presenti delle insenature, ognuna con una grande chiave di ferro.  
+Appena entrati vediamo una statua con dientro un piedistallo piedistallo (come quello del tempio precedente). Nel nuro sono presenti delle insenature, ognuna con una chiave di ferro come quelle trovate prima.  
 
 La statua raffigura una lumaca come quella della storia con Unkh  
 
-Da dietro la statua escono fuori 3 ghast con la forma di chultiani (ex abitanti di Chult)
+Da dietro la statua escono fuori 3 ghast con la forma di chultiani (ex abitanti di Chult).
+
+Dopo averli sconfitti notiamo che sul piedistallo c'è una serratura, troviamo la chiave corretta e recuperiamo anche il cubo di  Unkh  
+
