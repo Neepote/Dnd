@@ -156,7 +156,7 @@ Dopo esserci riposati ci dirigiamo verso il punto 8
 
 Arrivati passando per la lunga strada di cemento arriviamo al tempio  
 
-![tempio 8](./assets/WhatsApp%20Image%202022-10-21%20at%2022.33.30.jpeg)
+![tempio 8 fuori](./assets/WhatsApp%20Image%202022-10-21%20at%2022.33.30.jpeg)
 
 All'entrata ci sono due colonne, in cima ad entrambe è presente una statua di una lumaca.
 
@@ -174,7 +174,7 @@ Spingendo tutti insieme riusciamo ad aprire la porta.
 
 All'interno vediamo:
 
-![tempio 8](./assets/WhatsApp%20Image%202022-10-21%20at%2022.50.44.jpeg)  
+![tempio 8 dentro](./assets/WhatsApp%20Image%202022-10-21%20at%2022.50.44.jpeg)  
 
 Appena entrati vediamo una statua con dientro un piedistallo piedistallo (come quello del tempio precedente). Nel nuro sono presenti delle insenature, ognuna con una chiave di ferro come quelle trovate prima.  
 
@@ -184,3 +184,27 @@ Da dietro la statua escono fuori 3 ghast con la forma di chultiani (ex abitanti 
 
 Dopo averli sconfitti notiamo che sul piedistallo c'è una serratura, troviamo la chiave corretta e recuperiamo anche il cubo di  Unkh  
 
+Massimo si avvicina al punto 6 per vedere se c'era qualche cosa che ci potesse far attraversare il lago di lava.  
+
+Facendo una fionda con un albero (molto improvvisata) Massimo riesce a "volare" sino quel punto.  
+
+Questo è quello che vede massimo:  
+
+![tempio 6 fuori](./assets/WhatsApp%20Image%202022-10-22%20at%2000.17.32.jpeg)
+
+Il tempio non ha porte, sull'uscio dell'entrata escono fuori 4 serpenti grandi che attaccano Massimo
+
+Massimo scappa entrando nel tempio.
+Trovi un corridoio che porta a 3 stanze  
+
+![tempio 6 dentro 1](./assets/WhatsApp%20Image%202022-10-22%20at%2000.33.33.jpeg)
+
+Con lo stealth, nella stanza a destra trova molte ragnatele una statua con un cubo (come quelli che abbiamo già recuperato) nelle sue fauci
+
+Nella stanza a sinistra trova la stessa situazione, tranne per la statua che invece è distrutta e il cubo si trova per terra.
+
+Nella stanza centrale sono presenti diverse balestre che puntano tutte al centro della stanza, dove è presente un mosaico ricorperto di muschio, inoltre è presente anche un piedistallo con ancora un cubo sopra.
+
+![tempio 6](./assets/WhatsApp%20Image%202022-10-22%20at%2000.39.47.jpeg)
+
+Nel mosaico è rappresentato un serpente aggrovigliato su di una scimmia, in alto all'immagine vede una scritta, però non è in grado di comprenderla.  
