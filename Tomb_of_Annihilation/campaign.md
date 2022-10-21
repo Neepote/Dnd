@@ -146,4 +146,10 @@ Si nota abbastanza bene che una parte della città è stata sommersa da questo f
 
 Massimo prova ad attraversare il ponte, ma viene subito colpito da una freccia
 
-Ci attacca quello che sembra essere un ladro, che dopo un lunghissimo fight muore.  
+Ci attacca quello che sembra essere un ladro, a metà del fight tenta di fuggire. Mentre gli altri lo inseguono io distruggo il ponte da cui siamo entrati, per evitare che il tizio scappi da dietro.  
+
+__Venerdì 21/10/2022__:
+
+Dopo esserci riposati ci dirigiamo verso il punto 8
+
+### zona 8
