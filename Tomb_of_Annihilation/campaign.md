@@ -208,3 +208,18 @@ Nella stanza centrale sono presenti diverse balestre che puntano tutte al centro
 ![tempio 6](./assets/WhatsApp%20Image%202022-10-22%20at%2000.39.47.jpeg)
 
 Nel mosaico è rappresentato un serpente aggrovigliato su di una scimmia, in alto all'immagine vede una scritta, però non è in grado di comprenderla.  
+
+Massimo si avvicina all'altare e con la spada spinge il cubo giù dal piedistallo lasciandolo cadere, le statue e le balestre si animano e lo attaccano.
+
+Massimo rimane stabile ma morente in mezzo alla stanza.
+
+Giacomo si è accorto di avere della corda, unita a quella di Emanuele siamo riusciti a fare una corda abbastanza lunga per poter attraversare il lago.
+
+Arriviamo all'entrata del tempio e combattiamo con i serpenti.  
+Li sconfiggiamo ed entriamo dentro.  
+Arriviamo nella stanza in cui Massimo è stato ammazzato, le scritte sul mosaico dicono:
+
+    Moa teaches us that secrets hide the truth  
+
+    Death rewards a thief deceived. truth comes from the serpents mouth  
+
