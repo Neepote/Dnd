@@ -56,7 +56,7 @@ Il __-V__ che ha scritto il messaggio nel bagno è un tizio di una spedizione co
 
 Anche il nome Moa era presente nei graffiti del bagno, probabilmente il punto interrogativo sarà qualcosa di collegato a "Moa the jaculi was to honest to lie"  Moa=Honesty?  
 
-Anche hunk è nella storia.
+Anche Unkh è nella storia.
 
 Cambiamo zona
 
@@ -153,3 +153,31 @@ __Venerdì 21/10/2022__:
 Dopo esserci riposati ci dirigiamo verso il punto 8
 
 ### zona 8
+
+Arrivati passando per la lunga strada di cemento arriviamo al tempio  
+
+![tempio 8](./assets/WhatsApp%20Image%202022-10-21%20at%2022.33.30.jpeg)
+
+All'entrata ci sono due colonne, in cima ad entrambe è presente una statua di una lumaca.
+
+Andiamo nella piccola struttura sulla sinistra, sembra essere un vecchio ripostiglio abbandonato.
+
+La porta non c'è piuù, il tetto è crollato e sembra essere tutto rovinato. Notiamo però un centinaio di chiavi di ferro appese alle pareti, alcune vecchie, alcune rotte o arrugginite; comunque alcune sembrano poter essere ancora utilizzabili.
+
+Ci avviciniamo alla struttura principale,
+
+c'è una scritta sopra la porta
+
+    Unkh urges us to contrast all options before acting
+
+Spingendo tutti insieme riusciamo ad aprire la porta.
+
+All'interno vediamo:
+
+![tempio 8](./assets/WhatsApp%20Image%202022-10-21%20at%2022.50.44.jpeg)  
+
+Appena entrati vediamo una statua con dientro un piedistallo piedistallo (come quello del tempio precedente). Nel nuro sono presenti delle insenature, ognuna con una grande chiave di ferro.  
+
+La statua raffigura una lumaca come quella della storia con Unkh  
+
+Da dietro la statua escono fuori 3 ghast con la forma di chultiani (ex abitanti di Chult)
