@@ -221,8 +221,13 @@ Arriviamo nella stanza in cui Massimo è stato ammazzato, le scritte sul mosaico
 
     Moa teaches us that secrets hide the truth  
 
-    Death rewards a thief deceived. truth comes from the serpents mouth  
+    Death rewards a thief deceived. Truth comes from the serpents mouth  
 
 Giacomo vuole provare a prendere il cubo da per terra e correre via, lo aiuto curandolo e dandogli + classe armatura
 
-Riesce ad uscire fuori ma il cubo si dissolve alla luce del sole
+Riesce ad uscire fuori ma il cubo si dissolve alla luce del sole.
+
+Dopo diversi tentativi, notiamo che nella stanza con le balestre c'erano delle porte nascoste che portavano alle altre stanze. Prendiamo il cubo della stanza a destra partendo dall'entata.
+
+Usciamo dal tempio.  
+
