@@ -186,6 +186,8 @@ Dopo averli sconfitti notiamo che sul piedistallo c'è una serratura, troviamo l
 
 Massimo si avvicina al punto 6 per vedere se c'era qualche cosa che ci potesse far attraversare il lago di lava.  
 
+### zona 6
+
 Facendo una fionda con un albero (molto improvvisata) Massimo riesce a "volare" sino quel punto.  
 
 Questo è quello che vede massimo:  
@@ -230,4 +232,24 @@ Riesce ad uscire fuori ma il cubo si dissolve alla luce del sole.
 Dopo diversi tentativi, notiamo che nella stanza con le balestre c'erano delle porte nascoste che portavano alle altre stanze. Prendiamo il cubo della stanza a destra partendo dall'entata.
 
 Usciamo dal tempio.  
+
+Ce ne andiamo dall' "isola" come nello stesso modo con cui ci siamo arrivati, con le corde.  
+
+### zona 9
+
+Andando verso la zona 9 passiamo per il punto 7, dove ho rotto il ponte, quindi tocca usare l'incantesimo per attraversare l'acqua.  
+
+Arrivati troviamo un campo abbandonato con delle tende distrutte e dell'attrezzatura da campeggio abbastanza arrugginita.  
+Al centro del campo si vede un palo con una bandiera gialla improvvisata con uno straccio rovinato  
+
+In una delle tende Massimo trova una pergamena arrotolata:
+
+![pergamena](./assets/WhatsApp%20Image%202022-10-28%20at%2022.24.49.jpeg)
+
+    Rue,
+    Devlin has a lead on the Eye of Zaltec! The old goat found an obelisk to the north that masks the entrance to the Tomb of the Nine Gods. The Eye must be within, but the door is magically locked. We think the secret to opening it lies in the holy shrines.
+    We've headed into the ruins to check them out: Gods willing, we'll be back tonight. Ras Nsi's serpent people are on the prowl, so be careful. If you get into trouble, sound the swan horn twice and we'll come running.
+    For the Yellow Banners,
+    Lord Brixton
+
 
