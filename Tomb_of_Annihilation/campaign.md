@@ -258,5 +258,4 @@ Rubo la bandiera, nel mentre Giacomo decide di urlare (ha meno 1 a intelligenza)
 
 Grazie all'urlo, 3 uomini ci raggiungono, tra cui 2 avventurieri e un anziano con un cappuccio rosso, come quello dei compagni di Orbex.  
 
-
-
+Massimo muore in combattimento, io ci vado molto vicino.  
