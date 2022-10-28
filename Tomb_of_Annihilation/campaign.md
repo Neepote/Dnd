@@ -231,7 +231,9 @@ Riesce ad uscire fuori ma il cubo si dissolve alla luce del sole.
 
 Dopo diversi tentativi, notiamo che nella stanza con le balestre c'erano delle porte nascoste che portavano alle altre stanze. Prendiamo il cubo della stanza a destra partendo dall'entata.
 
-Usciamo dal tempio.  
+Usciamo dal tempio. 
+
+__Friday 28/10/2022__:
 
 Ce ne andiamo dall' "isola" come nello stesso modo con cui ci siamo arrivati, con le corde.  
 
@@ -251,5 +253,10 @@ In una delle tende Massimo trova una pergamena arrotolata:
     We've headed into the ruins to check them out: Gods willing, we'll be back tonight. Ras Nsi's serpent people are on the prowl, so be careful. If you get into trouble, sound the swan horn twice and we'll come running.
     For the Yellow Banners,
     Lord Brixton
+
+Rubo la bandiera, nel mentre Giacomo decide di urlare (ha meno 1 a intelligenza)  
+
+Grazie all'urlo, 3 uomini ci raggiungono, tra cui 2 avventurieri e un anziano con un cappuccio rosso, come quello dei compagni di Orbex.  
+
 
 
