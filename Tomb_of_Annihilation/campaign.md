@@ -272,12 +272,11 @@ Il goblin ci segue di nascosto.
 
 ### zona 10
 
-![tempio_10_hidden](.)
+![tempio_10_hidden](./assets/WhatsApp%20Image%202022-11-05%20at%2023.46.24.jpeg)
 
 Arrivati al tempio, entriamo nel cortile recintato, troviamo un'incisione di un coniglio cornuto che sta caricando un simil orso (piccolo) con degli artigli affilati.  
 Oltre all'incisione c'è un messaggio che viene tradotto in
 
     I'jin teaches us to take the path least expected.
-
 
 
