@@ -279,4 +279,13 @@ Oltre all'incisione c'è un messaggio che viene tradotto in
 
     I'jin teaches us to take the path least expected.
 
+Entriamo dalla porta principale, per terra troviamo delle incisioni
+
+![pavimento](./assets/WhatsApp%20Image%202022-11-05%20at%2023.56.44.jpeg)
+
+Oltre al pavimento con le iscrizioni c'è altro pavimento e poi un muro
+
+Risolviamo l'enigma passando nella colonna tutta a sinistra.
+Oltre questo corridoio troviamo un bivio, ci separiamo e ci ritroviamo in un labirinto.
+
 
