@@ -231,7 +231,7 @@ Riesce ad uscire fuori ma il cubo si dissolve alla luce del sole.
 
 Dopo diversi tentativi, notiamo che nella stanza con le balestre c'erano delle porte nascoste che portavano alle altre stanze. Prendiamo il cubo della stanza a destra partendo dall'entata.
 
-Usciamo dal tempio. 
+Usciamo dal tempio.
 
 __Friday 28/10/2022__:
 
@@ -263,7 +263,7 @@ Massimo muore in combattimento, io ci vado molto vicino.
 __Friday 05/11/2022__:
 
 Ci riposiamo, piangiamo la morte di Massimo (lol) e decidiamo di continuare verso il punto 10.
- 
+
 Prima di incamminarci sento qualcuno rovistare dietro di me, è un piccolo goblin che rovista nei cadaveri dei combattenti della scorsa volta.
 
 Il goblin (Massimo) vuole unirsi a noi, però siccome non ci convince e per questo ci avviamo al punto 10 senza di lui.
@@ -288,4 +288,6 @@ Oltre al pavimento con le iscrizioni c'è altro pavimento e poi un muro
 Risolviamo l'enigma passando nella colonna tutta a sinistra.
 Oltre questo corridoio troviamo un bivio, ci separiamo e ci ritroviamo in un labirinto.
 
+Massimo riesce a trovare il cubo e incontrandomi nella strada per tornare indietro me lo passa, così lo aggiungo agli altri cubi.
 
+Una volta fuori vede all'ingresso un coniglio con un corno (almiraj), torna indietro e si nasconde dietro un muro, dove trovo anche io il coniglio cornuto
