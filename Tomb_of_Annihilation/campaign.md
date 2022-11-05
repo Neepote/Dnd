@@ -42,7 +42,7 @@ _in inglese_:
 
     Long ago, the god Ubtao hardened his heart and vowed to weep for the people of Omu no longer. The rains stopped, the jungle withered and died, and death swept through Omu.
 
-    One morning, a wise zorbo emerged from her hollow tree and spoke to the dying Omuans. To convince Ubtao of their worth, she decided to cook him a stew made from all their good qualities. Catching such virtues wouldn’t be easy, so she asked a wily almiraj to help her. The almiraj.snuck recklessness in the pot, which she saw as a virtue, and Ubtao spat out the stew when he tasted it. From that day on, Obo’laka the zorbo and I’jin the almiraj became terrible enemies.
+    One morning, a wise zorbo emerged from her hollow tree and spoke to the dying Omuans. To convince Ubtao of their worth, she decided to cook him a stew made from all their good qualities. Catching such virtues wouldn’t be easy, so she asked a wily almiraj to help her. The almiraj.snuck recklessness in the pot, which she saw as a virtue, and Ubtao spat out the stew when he tasted it. From that day on, Obo’laka the zorbo and I'jin the almiraj became terrible enemies.
 
     At noon, a brave kamadan hopped down from her rock. She saw the evil in the Omuan’s hearts and decided to lance it like a troublesome boil. The kamadan fashioned a holy spear, but she left it by the riverbank and a crafty grung stole it. In her rage, Shagambi the kamadan forgot all about the Omuans and chased Nang-Nang the grung forever across the sky.
 
@@ -259,3 +259,25 @@ Rubo la bandiera, nel mentre Giacomo decide di urlare (ha meno 1 a intelligenza)
 Grazie all'urlo, 3 uomini ci raggiungono, tra cui 2 avventurieri e un anziano con un cappuccio rosso, come quello dei compagni di Orbex.  
 
 Massimo muore in combattimento, io ci vado molto vicino.  
+
+__Friday 05/11/2022__:
+
+Ci riposiamo, piangiamo la morte di Massimo (lol) e decidiamo di continuare verso il punto 10.
+ 
+Prima di incamminarci sento qualcuno rovistare dietro di me, è un piccolo goblin che rovista nei cadaveri dei combattenti della scorsa volta.
+
+Il goblin (Massimo) vuole unirsi a noi, però siccome non ci convince e per questo ci avviamo al punto 10 senza di lui.
+
+Il goblin ci segue di nascosto.
+
+### zona 10
+
+![tempio_10_hidden](.)
+
+Arrivati al tempio, entriamo nel cortile recintato, troviamo un'incisione di un coniglio cornuto che sta caricando un simil orso (piccolo) con degli artigli affilati.  
+Oltre all'incisione c'è un messaggio che viene tradotto in
+
+    I'jin teaches us to take the path least expected.
+
+
+
