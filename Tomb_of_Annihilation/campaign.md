@@ -290,4 +290,26 @@ Oltre questo corridoio troviamo un bivio, ci separiamo e ci ritroviamo in un lab
 
 Massimo riesce a trovare il cubo e incontrandomi nella strada per tornare indietro me lo passa, così lo aggiungo agli altri cubi.
 
-Una volta fuori vede all'ingresso un coniglio con un corno (almiraj), torna indietro e si nasconde dietro un muro, dove trovo anche io il coniglio cornuto
+Una volta fuori vede all'ingresso un coniglio con un corno (almiraj), torna indietro e si nasconde dietro un muro, dove trovo anche io il coniglio cornuto.
+
+Come ci siamo avvicinati per uscire il coniglio è scappato via.
+
+Decidiamo di continuare ad andare avanti e ci dirigiamo verso il punto 11
+
+### zona 11
+
+Nella strada per arrivare al punto notiamo dei cespugli che si muovono, da lì escono fuori dei goblin, li uccidiamo.
+
+Arriviamo al punto, troviamo un carro ribaltato, con petali di fiori sparsi intorno e nidi d'ape nelle ruote.
+
+Una ghirlanda di fiori è stata appesa sul traino del carro.
+
+Emanuele trova sotto il carro, un disco ricoperto di muschio con scritte in comune e in caratteri cuneiformi
+
+in comune è scritto
+
+    Queen Napaka proclaims the free people of Omu fear nothing. Brave new gods protect us, as Uptao did before but thats no longer. Omu will rise again, and Napaka shall reclaim all that is hers by right of conquest
+
+Con questo disco possiamo tradurre tutte le scritte anche senza l'aiuto del vecchio, che è morto punto da un'ape, evidentemente era allergico e la medicina qui non è andata molto avanti.
+
+
