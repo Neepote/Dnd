@@ -16,7 +16,9 @@ stanza delle guardie
 7. "the snake are not what they seem"
 8. "Kubazan=Bravery. Shagambi=Wisdom. Moa=?"
 
-### zona 2
+### 01/10/2022
+
+#### zona 2
 
 Ci avviciniamo in una zona con un fuoco appicato su dei cadaveri, umani e non. i più "freschi" sono stati uccisi con delle armi da taglio, quelli più vecchi sono troppo difficili da identificare perchè bruciati,
 in un muro vicino la pila di cadaveri si nota un simbolo di un serpente a spirale che tiene in bocca un cerchio,
@@ -60,7 +62,7 @@ Anche Unkh è nella storia.
 
 Cambiamo zona
 
-### zona 3
+#### zona 3
 
 Notiamo una piscina rettangolare piena di acqua melmosa, dovebbe essere un tempio, al centro c'è un pilastro con un volto simile a quello di una rana.
 
@@ -84,9 +86,9 @@ Riesce a risalire e arriva all'altare, dove trova un cubo (la chiave descritta n
 
 Facendo parkour lo riporta indietro, in questo cubo sembra esserci raffigurata una rana (probabilmente esiste un cubo per ognuno degli dei)
 
-__Sabato 08/10/2022__.
+### Sabato 08/10/2022
 
-### zona 4
+#### zona 4
 
 Ci dirigiamo verso il punto 4 della mappa, ci ritroviamo di fronte quello che credimo un tempio, protetto da due specie di chimere.
 
@@ -113,13 +115,13 @@ Lo seguiamo scendendo dalle scale, delle statue di terracotta raffiguranti gladi
 Riusciamo a sconfiggerli con molta difficoltà.  
 Le loro lance di metallo sono rimaste a terra
 
-_Sabato 15/10/2022_.
+### Sabato 15/10/2022
 
 Prendiamo le lancie e le portiamo al piano superiore, le mettiamo in mano alle statue che avevano un buco nelle mani preciso per le lance.
 
 Una volta inserite tutte le lancie dal piedistallo esce fuori un cubo come quello ritrovato nel tempio precedente.
 
-### zona 5
+#### zona 5
 
 Ci avviciniamo al picco che punta verso il punto 5 della mappa, al ponticello si nota un gruppo di mostri.
 
@@ -139,7 +141,7 @@ Una volta sconfitti cerchiamo un modo per scendere ma non sembra esserci.
 
 Visro che non ci è possibile andare verso il punto 6, ci dirigiamo verso il punto 7
 
-### zona 7
+#### zona 7
 
 Ci ritroviamo un di fronte ad un ponte improvvisato con un tronco d'acqua.  
 Si nota abbastanza bene che una parte della città è stata sommersa da questo fiume, che si siano rotti gli argini del fiume con il passare del tempo?
@@ -148,11 +150,11 @@ Massimo prova ad attraversare il ponte, ma viene subito colpito da una freccia
 
 Ci attacca quello che sembra essere un ladro, a metà del fight tenta di fuggire. Mentre gli altri lo inseguono io distruggo il ponte da cui siamo entrati, per evitare che il tizio scappi da dietro.  
 
-__Venerdì 21/10/2022__:
+### Venerdì 21/10/2022
 
 Dopo esserci riposati ci dirigiamo verso il punto 8
 
-### zona 8
+#### zona 8
 
 Arrivati passando per la lunga strada di cemento arriviamo al tempio  
 
@@ -186,7 +188,7 @@ Dopo averli sconfitti notiamo che sul piedistallo c'è una serratura, troviamo l
 
 Massimo si avvicina al punto 6 per vedere se c'era qualche cosa che ci potesse far attraversare il lago di lava.  
 
-### zona 6
+#### zona 6
 
 Facendo una fionda con un albero (molto improvvisata) Massimo riesce a "volare" sino quel punto.  
 
@@ -233,11 +235,11 @@ Dopo diversi tentativi, notiamo che nella stanza con le balestre c'erano delle p
 
 Usciamo dal tempio.
 
-__Friday 28/10/2022__:
+### Friday 28/10/2022
 
 Ce ne andiamo dall' "isola" come nello stesso modo con cui ci siamo arrivati, con le corde.  
 
-### zona 9
+#### zona 9
 
 Andando verso la zona 9 passiamo per il punto 7, dove ho rotto il ponte, quindi tocca usare l'incantesimo per attraversare l'acqua.  
 
@@ -260,7 +262,7 @@ Grazie all'urlo, 3 uomini ci raggiungono, tra cui 2 avventurieri e un anziano co
 
 Massimo muore in combattimento, io ci vado molto vicino.  
 
-__Friday 05/11/2022__:
+### Friday 05/11/2022
 
 Ci riposiamo, piangiamo la morte di Massimo (lol) e decidiamo di continuare verso il punto 10.
 
@@ -270,7 +272,7 @@ Il goblin (Massimo) vuole unirsi a noi, però  non ci convince e per questo ci a
 
 Il goblin ci segue di nascosto.
 
-### zona 10
+#### zona 10
 
 ![tempio_10_hidden](./assets/WhatsApp%20Image%202022-11-05%20at%2023.46.24.jpeg)
 
@@ -296,7 +298,7 @@ Come ci siamo avvicinati per uscire il coniglio è scappato via.
 
 Decidiamo di continuare ad andare avanti e ci dirigiamo verso il punto 11
 
-### zona 11
+#### zona 11
 
 Nella strada per arrivare al punto notiamo dei cespugli che si muovono, da lì escono fuori dei goblin, li uccidiamo.
 
@@ -316,7 +318,7 @@ Ho pregato Dio e sono riuscito a dar fuoco ai vestiti di Nanni pupu
 
 Decidiamo di dirigerci verso il punto 12
 
-### zona 12
+#### zona 12
 
 Mentre ci incamminiamo notiamo che le api ci seguono, notiamo anche un odore di miele.
 L'odore proveniva da uno zulugorgi che si è nascosto nei miei pantaloni, mi ha anche dato uno charm
@@ -327,4 +329,6 @@ L'odore proveniva da uno zulugorgi che si è nascosto nei miei pantaloni, mi ha 
 
 Lo chiamerò Gimapiero.
 
-Ahah scemo chi legge a voce alta
+### Friday 16/12/2022
+
+
