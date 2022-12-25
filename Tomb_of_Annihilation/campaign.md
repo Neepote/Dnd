@@ -331,4 +331,18 @@ Lo chiamerò Gimapiero.
 
 ### Friday 16/12/2022
 
+#### zona 13
+
+Massimo è pazzo e da solo decide di andare alla zona 13 invece di 12, arrivati vediamo un anfiteatro in rovina cirocndato da statute di animali, per tutta la zona il terreno è fangoso e privo di vegetazione, completamente in silenzio.  
+
+Giacomo decide di entrare nel teatro e urla sperando di attirare l'attenzione di qualcosa  
+
+Arrivano dei dinosauri che ci attaccano.
+
+Una volta sconfitti arriva anche un trex  
+
+Lo abbiamo sconfitto e io sono salito al livello 7
+
+### Sunday 25/12/2022
+
 
