@@ -345,4 +345,14 @@ Lo abbiamo sconfitto e io sono salito al livello 7
 
 ### Sunday 25/12/2022
 
+### zona 12  
 
+Dopo la deviazione al punto 13 ci dirigiamo finalmente al tempio del punto 12  
+
+Trovimamo una recinzione di cemento con all'ingresso 2 colonne di cemento, raffiguranti delle scimmie a testa in giù.
+
+All'interno della recinzione ci son cespugli, un albero e 5 arcate, quella più a destra ha un cancello di ferro chiuso, gli altri sono aperti.
+
+Sopra l'arcata centrale (chaive di volta) c'è scritto un messaggio in old omuan 
+    
+    Better to be Wongo's friend than his enemy
