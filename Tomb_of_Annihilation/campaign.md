@@ -356,3 +356,52 @@ All'interno della recinzione ci son cespugli, un albero e 5 arcate, quella più 
 Sopra l'arcata centrale (chaive di volta) c'è scritto un messaggio in old omuan 
     
     Better to be Wongo's friend than his enemy
+
+![tempio 12](./assets/Screenshot%202022-12-25%2022.53.11.png)
+
+Massimo e Giacomo sentono delle scimmie che gli urlano nel cervello
+
+Decidiamo di entrare dall'arcata centrale, da lì arrviamo in una stanza con una statua di una scimmia con gli arti rivolti verso l'alto.
+
+Sotto la statua è scritto
+
+    Wongo's friend knows where to pour the water 
+
+Inoltre ci sono 4 maschere nei muri raffiguranti diversi animali
+
+![tempio 12 a](./assets/Screenshot%202022-12-25%2023.07.38.png)
+
+ - L : Lion
+ - B : Boar
+ - Z : Zebra
+ - V : Volture
+
+ All'opposto dell'entrata c'è una scena di combattimento tra Wongo e Moa
+
+ Emanuele decide di entrare nella seconda arcata da sinistra (Boar), trova una scritta :
+
+    The volture is lucky to be alive
+
+Decide poi di andare alla prima entrata a sinistra (Lion)
+
+    I ate one of the Boars friends
+
+Poi va alla 4 entrata da sinistra (Zebra)
+
+    My only friend starved to death
+
+Decido di guardare attraverso la maschera del cinghiale, vedo un raggio di luce blu che punta al piede sinistro della statua.  
+
+![tempio 12 b](./assets/Screenshot%202022-12-25%2023.19.45.png)
+
+Emanuele guarda attraverso la maschera della zebra e vede una luce blu che punta al piede destro della statua
+
+Massimo fa la stessa cosa con la maschera del leone ma verso la mano destra della statua
+
+Io e Emanuele riusciamo ad aprire il cancello, facendo passare Massimo attraverso, quindi riesce ad entrare nell'ultima arcata, arriva alla maschera e nota un raggio che arriva alla mano sinistra della statua
+
+La scritta sotto la statua dice:  
+
+    One of the other has no friends  
+
+
