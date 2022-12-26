@@ -404,4 +404,14 @@ La scritta sotto la statua dice:
 
     One of the other has no friends  
 
+Decidiamo di versare dell'acqua nella mano destra della statua, perchè il leone sembra essere l'unico senza amici.  
+
+Nel momento in cui Giacomo versa l'acqua nella mano destra, nota che escono degli zampilli d'acqua che si trasformano in mostri, steam mephit  
+
+Li abbiamo uccisi, ma non è successo nient'altro. Versa l'acqua nella mano sinistra della statua. Da lì l'acqua si illumina e esce fuori il cubo dalla testa della statua.
+
+Dopo aver parlato nel pensiero con Giacomo, scendono dal soffitto 4 su-monster (scimmie), che ci attaccano.  
+
+Le sconfiggiamo e prendiamo il cubo.
+
 
