@@ -414,4 +414,14 @@ Dopo aver parlato nel pensiero con Giacomo, scendono dal soffitto 4 su-monster (
 
 Le sconfiggiamo e prendiamo il cubo.
 
+### Saturday 28/01/2023 22:37  
+
+Scendiamo nella botola camminando, Giacomo scende rotolando.  
+Alla fine delle scale troviamo dei koboldi che circondano il corpo di Giacomo incastrato in delle scatole.  
+
+Questi koboldi non sembrano esserci ostili, dicono di lavorare per un mago oscuro che controlla l'intera città, Acererak.  
+
+Massimo dona al koboldo capo una lama di ghiaccio facendola poi cadere e distruggere (come heisengerg breaking bad) per fare scena. Il coboldo contento della piccola esplosione ci lascia andare senza problemi, chiede di portargli anche altri doni per mantenere l'amicizia.  
+
+Giacomo solo al sentire questa richiesta tira un pugno al koboldo (Giacomo è un pelo antisemita).  
 
