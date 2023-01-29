@@ -416,12 +416,24 @@ Le sconfiggiamo e prendiamo il cubo.
 
 ### Saturday 28/01/2023 22:37  
 
+#### Zona 15
+
 Scendiamo nella botola camminando, Giacomo scende rotolando.  
 Alla fine delle scale troviamo dei koboldi che circondano il corpo di Giacomo incastrato in delle scatole.  
 
-Questi koboldi non sembrano esserci ostili, dicono di lavorare per un mago oscuro che controlla l'intera città, Acererak.  
+Questi koboldi non sembrano esserci ostili, dicono di lavorare per un mago oscuro che controlla l'intera città, Acererak, che sta creando un esercito di koboldi trasformati in draghi.  
 
 Massimo dona al koboldo capo una lama di ghiaccio facendola poi cadere e distruggere (come heisengerg breaking bad) per fare scena. Il coboldo contento della piccola esplosione ci lascia andare senza problemi, chiede di portargli anche altri doni per mantenere l'amicizia.  
 
 Giacomo solo al sentire questa richiesta tira un pugno al koboldo (Giacomo è un pelo antisemita).  
 
+Uccidiamo tutti i koboldi  e ritorniamo in superficie
+
+#### Zona 16  
+
+Decidiamo di avviarci verso la zona 16 che è in parte sommersa.  
+All'entrata del tempio si vedono 4 coccodrilli vicino l'entrata del tempio.  
+
+Un recinto di mura in rovina, con 2 colonne all'entrata, disegnati sopra ci sono rilievi di un uccello con lunghe gambe e becco appuntito. Si intravedono delle scale piene di muschio che vanno verso l'alto.  
+
+Uccidiamo tutti i coccodrilli.  
