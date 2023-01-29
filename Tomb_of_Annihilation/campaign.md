@@ -427,6 +427,8 @@ Passando vicino a dove è apparsa questa figura notiamo una botola,
 
 ### Saturday 28/01/2023 22:37  
 
+#### zona 15  
+
 Scendiamo nella botola camminando, Giacomo scende rotolando.  
 Alla fine delle scale troviamo dei koboldi che circondano il corpo di Giacomo incastrato in delle scatole.  
 
