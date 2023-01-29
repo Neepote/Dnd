@@ -345,7 +345,7 @@ Lo abbiamo sconfitto e io sono salito al livello 7
 
 ### Sunday 25/12/2022
 
-### zona 12  
+#### zona 12  
 
 Dopo la deviazione al punto 13 ci dirigiamo finalmente al tempio del punto 12  
 
@@ -414,9 +414,18 @@ Dopo aver parlato nel pensiero con Giacomo, scendono dal soffitto 4 su-monster (
 
 Le sconfiggiamo e prendiamo il cubo.
 
-### Saturday 28/01/2023 22:37  
+### Friday 06/01/2023
 
-#### Zona 15
+#### zona 15  
+
+Dopo essere usciti dal tempio decidiamo di entrare nel capannone al lato opposto della strada in cemento.  
+
+Il capannone è il rimanente di un vecchio mercato, smbra essere pieno di trappole, Massimo tenta di disinnescarne il più possibile ma Giacomo inciapa su di un filo di scatto.  
+Vicino a Giacomo appare una figura piccola quanto Massimo che corre tra le scatole e macerie.
+
+Passando vicino a dove è apparsa questa figura notiamo una botola,
+
+### Saturday 28/01/2023 22:37  
 
 Scendiamo nella botola camminando, Giacomo scende rotolando.  
 Alla fine delle scale troviamo dei koboldi che circondano il corpo di Giacomo incastrato in delle scatole.  
@@ -437,3 +446,4 @@ All'entrata del tempio si vedono 4 coccodrilli vicino l'entrata del tempio.
 Un recinto di mura in rovina, con 2 colonne all'entrata, disegnati sopra ci sono rilievi di un uccello con lunghe gambe e becco appuntito. Si intravedono delle scale piene di muschio che vanno verso l'alto.  
 
 Uccidiamo tutti i coccodrilli.  
+
