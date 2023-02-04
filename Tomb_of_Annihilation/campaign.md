@@ -472,3 +472,5 @@ Andando a ferro di cavallo partendo da sinistra, le statue hanno la test dei seg
 - pipstrello
 - rana
 
+[tempio-a](./assets/Screenshot%202023-02-04%2023.28.37.png)
+
