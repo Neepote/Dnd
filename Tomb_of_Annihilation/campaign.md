@@ -474,3 +474,18 @@ Andando a ferro di cavallo partendo da sinistra, le statue hanno la test dei seg
 
 [tempio-a](./assets/Screenshot%202023-02-04%2023.28.37.png)
 
+Sul piedistallo al centro della stanza c'è un incisione scritta in comune  
+
+    Comes with sunshine
+    Leaves with night
+    Hides in darkness
+    Does not bite
+    Always joined to its caster
+    Never strays from its master
+
+La soluzione è ombra, Massimo fa luce con una torcia verso la statua del pipistrello, nota che la parete dietro la statua svanisce.  
+
+Entra nella stanzina dietro la statua e trova, attaccato al muro verso sud una griglia:
+
+[griglia](./assets/Screenshot%202023-02-04%2023.45.18.png)
+
