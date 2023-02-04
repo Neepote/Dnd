@@ -449,3 +449,26 @@ Un recinto di mura in rovina, con 2 colonne all'entrata, disegnati sopra ci sono
 
 Uccidiamo tutti i coccodrilli.  
 
+### Saturday 04/02/2023 23:18  
+
+Entriamo nell'anticamera del tempio.  
+
+Sopra la scalinata si vede una scritta:  
+
+    Papazotl teaches us to bow before no one
+
+Per terra invece si vede un rilievo di Papazotl e Kubazan che comabattono  
+
+La porta è troppo pesante per spingerla da solo, perciò la apriamo tutti insieme.  
+
+Nella stanza successiva, al centro troviamo un piedistallo con niente sopra, ai lati ci sono 6 statute (3 e 3) che guardano il centro della stanza. Hanno tutti il corpo umano ma con teste di animali.  
+
+Andando a ferro di cavallo partendo da sinistra, le statue hanno la test dei seguenti animali 
+
+- lucertola
+- giaguaro
+- aragosta
+- tucano
+- pipstrello
+- rana
+
