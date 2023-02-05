@@ -96,7 +96,7 @@ Ci dirigiamo verso il punto 4 della mappa, ci ritroviamo di fronte quello che cr
 
 Analizzando la porta si trivani deu rilievi in _old nomuan_ che il vecchio sa leggere
 
-    teaches us to fight evil with honor
+    Shagambi teaches us to fight evil with honor
 
 Ci sono anche dei disegni di Shagambi osseva i chultani che si allenano con spade e lance.
 
@@ -463,14 +463,14 @@ La porta è troppo pesante per spingerla da solo, perciò la apriamo tutti insie
 
 Nella stanza successiva, al centro troviamo un piedistallo con niente sopra, ai lati ci sono 6 statute (3 e 3) che guardano il centro della stanza. Hanno tutti il corpo umano ma con teste di animali.  
 
-Andando a ferro di cavallo partendo da sinistra, le statue hanno la test dei seguenti animali 
+Partendo da sinistra andando in alto e poi scendendo verso destra, le statue hanno la test dei seguenti animali 
 
-- lucertola
-- giaguaro
-- aragosta
-- tucano
-- pipstrello
-- rana
+- lucertola lizard
+- giaguaro jaguar
+- aragosta lobster
+- tucano tucan
+- pipstrello bat
+- rana frog
 
 ![tempio-a](./assets/Screenshot%202023-02-04%2023.28.37.png)
 
@@ -488,4 +488,25 @@ La soluzione è ombra, Massimo fa luce con una torcia verso la statua del pipist
 Entra nella stanzina dietro la statua e trova, attaccato al muro verso sud una griglia:
 
 ![griglia](./assets/Screenshot%202023-02-04%2023.45.18.png)
+
+
+Comeswithsunshi  
+neLeaveswithnig  
+htHidesindarkne  
+ssDoesnotbiteAl  
+waysjoinedtoits  
+casterNeverstra  
+ysfromitsmaster  
+
+
+co.............  
+.....v.........  
+.....e.....r...  
+............e..  
+..y............  
+.........e.....  
+...........s...  
+
+
+Copriamo gli occhi delle statue con stoffe che avevamo negli inventari, da qui esce fuori un cubo dal piedistallo  
 
