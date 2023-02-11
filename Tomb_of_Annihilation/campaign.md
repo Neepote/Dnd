@@ -451,6 +451,8 @@ Uccidiamo tutti i coccodrilli.
 
 ### Saturday 04/02/2023 23:18  
 
+#### Zona 16  
+
 Entriamo nell'anticamera del tempio.  
 
 Sopra la scalinata si vede una scritta:  
@@ -510,3 +512,34 @@ co.............
 
 Copriamo gli occhi delle statue con stoffe che avevamo negli inventari, da qui esce fuori un cubo dal piedistallo  
 
+Dopo aver preso il cubo decidiamo di dirigerci indietro per il punto 14  
+
+### Saturday 11/02/2023 23:14  
+
+#### Zona 14  
+
+Entriamo in un edificio abbandonato ch everte nelle stesse condizioni delle altre sturtture nella città (strutture erose e piene di rampicanti).  
+
+Andando avanti ci troviamo un muro
+
+![muro](./assets/Screenshot%202023-02-11%2023.23.06.png)
+
+Da quel che vediamo sembra evidente che servano tutti e 9 i cubi per poter proseguire, per questo decidiamo di cambiare zona e di andare verso la zona 17.  
+
+#### Zona 17
+
+Torniamo verso il punto 16 e poi continuiamo verso nord est.  
+Arriviamo al cospetto di una cascata e nel mentre che camminiamo Emanuele inciampa in un sasso e casca in acqua. Mentre è in acqua riceve una visione, dove vede dalla prospettiva di una persona in cima alla cascata che guarda verso la città. La città non èancora in rovina, ma vede che dal centro della città si sviluppa una palla di fumo che diventando sempre più grande e si avvicina verso di lui, si gira verso i suoi compagni (non noi ma i compagni di questo tizio di cui ha visto i "ricordi") e poi si ri-gira verso la palla di fumo che magicamente è scomparsa.
+
+Giacomo tira su Emanuele da per terra, intterrompendo quindi la visione
+
+Massimo è affaticato perchè ha bevuto dell'acqua non potabile,
+(probabilmente è dovuto alla diarrea incessante venuta bevendo l'acqua)
+
+Decidiamo quindi di muoverci verso il prossimo punto
+
+#### Zona 18  
+
+Arriviamo in quello che sembra essere un nuovo tempio, aggiriamo le mura e arriviamo all'entrata dove troviamo le solite colonnine.  
+
+Come arriviamo veniamo sorpresi da delle freccie che per fortuna non ci colpiscono
