@@ -125,7 +125,7 @@ Una volta inserite tutte le lancie dal piedistallo esce fuori un cubo come quell
 
 Ci avviciniamo al picco che punta verso il punto 5 della mappa, al ponticello si nota un gruppo di mostri.
 
-Sembrano essere dei vegepigmi (simili agli zulugorgi ma più grandi Tra di loro c'è un grung, legato con delle corde, sembra stia per essere sacrificato dai vegepigmi.
+Sembrano essere dei vegepigmi (simili agli zulugorgi ma più grandi Tra di loro c'è un grung, legato con delle corde, sembra stia per essere sacrificato dai vegepigmi).
 
 Massimo prova ad interagire con gli esserini, finirà male come al solito.
 
@@ -542,4 +542,18 @@ Decidiamo quindi di muoverci verso il prossimo punto
 
 Arriviamo in quello che sembra essere un nuovo tempio, aggiriamo le mura e arriviamo all'entrata dove troviamo le solite colonnine.  
 
-Come arriviamo veniamo sorpresi da delle freccie che per fortuna non ci colpiscono
+Come arriviamo veniamo sorpresi da delle freccie che per fortuna non ci colpiscono, vediamo questa scena  
+
+![tempio 8](./assets/Screenshot%202023-02-11%2023.47.55.png)
+
+I mostri che ci attaccano sono:  
+
+![grungs](./assets/Screenshot%202023-02-12%2000.01.28.png)
+
+Uccidiamo tutti i mostriciattoli.
+
+Andiamo per aprire la porta, notiamo che al contrario di altri templi non ci sono scritte in alto. La porta è difficile da aprire.  
+
+Dopo diversi tentativi  
+
+[dentro templio 8](./assets/Screenshot%202023-02-12%2001.32.50.png)
