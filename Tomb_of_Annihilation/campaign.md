@@ -584,4 +584,16 @@ il mosaio per terra raffigura:
 
     Una figura umanoide a forma di rana che mena un leopardo con dei serpenti che gli escono dalle spalle  
 
+Giacomo prende delle monete dalle casse e le mette di fronte alla porta, che poi si apre.  
+
+Vado a prendere il cubo e lo aggiungo agli altri.  
+
+Facciamo un long rest e Emanuele mi cura dall'aids  
+
+Nel mentre che ci riposiamo nel tempio Emanuele sogna di essere da solo nelle vie della città in rovina. In lontananza vede una figura incappucciata, con un bastone che cammina da solo. 
+Questa figura si gira verso di Emanuele, che nota che degli occhi infuocati e il volto scheletrico. Il bastone ha un teschio legato al bastone.  
+
+Ci incamminiamo verso la zona 19.  
+
+Mentre camminiamo vediamo dei serpenti correre verso di noi e ci attaccano.  
 
