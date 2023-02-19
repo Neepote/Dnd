@@ -571,3 +571,17 @@ SUll'altare di fronte all'entrata c'è una scritta
 Dietro l'altare c'è una porta con una scritta incisa sopra  
 
     Whoever among you is the richest, bring me your gifts
+
+Massimo decide di porgere in dono il suo seme e viene sull'altare, dal goblin secernono 7ml di liquido seminale  
+
+Provo a mettere una moneta d'oro nel piedistallo e non succede nulla, nel riprenderla sfioro del liquido seminale di Massimo. Adesso ho l'aids, passando completamente la fase dell'hiv  
+
+Massimo trova un vaso pieno di liquido strano, e decide di aggiungere il suo seme al liquido, Giacomo ha provato a picchiare Massimo per fargli smettere di venire su ogni cosa, sbaglia mira e prende il vaso. Il goblin viene inondato dal contenuto del vaso 
+
+Tutte le casse e le altre giare sono piene di monete e gioelli, che però se vengono portati fuori dal tempio diventano semplici pezzi di metallo 
+
+il mosaio per terra raffigura:  
+
+    Una figura umanoide a forma di rana che mena un leopardo con dei serpenti che gli escono dalle spalle  
+
+
