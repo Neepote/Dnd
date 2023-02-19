@@ -554,6 +554,20 @@ Uccidiamo tutti i mostriciattoli.
 
 Andiamo per aprire la porta, notiamo che al contrario di altri templi non ci sono scritte in alto. La porta è difficile da aprire.  
 
-Dopo diversi tentativi  
+Dopo diversi tentativi riusciamo ad aprire la porta
 
-[dentro templio 8](./assets/Screenshot%202023-02-12%2001.32.50.png)
+![dentro templio 8](./assets/Screenshot%202023-02-12%2001.32.50.png)
+
+### Sunday 19/02/2023 21:44  
+
+#### Zona 18  
+
+Entriamo nel tempio, troviamo diversi forzieri di marca masterlock.  
+
+SUll'altare di fronte all'entrata c'è una scritta
+
+    Nangnang teaches us to serve only ourselves  
+
+Dietro l'altare c'è una porta con una scritta incisa sopra  
+
+    Whoever among you is the richest, bring me your gifts
