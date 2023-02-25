@@ -605,3 +605,31 @@ Sconfiggiamo i serpenti e continuiamo la strada per arrivare al punto 19
 
 Siamo arrivati al tempio  
 
+C'è una scritta all'entrata
+
+    Obo'laka teaches us to tread warily and stay in the light
+
+La porta è socchiusa e i cardini sono arrugginiti, metto dell'olio (dalla mia borraccia infinita) e apro la porta  
+
+troviamo degli zorbi che ci attaccano  
+
+Dopo averli sconfitti entriamo all'interno del tempio.  
+
+Nei muri si vedono immagini di vita comune omuana, caccia, raccolto e altre scene. Otto (8) in totale  
+
+Sotto ciascuna delle immagini c'è un porta torce dove è possibile inserire una torcia  
+
+Alla fine del corridoio si nota una porta di legno molto vecchia  
+
+![tempio 19](./assets/Screenshot%202023-02-25%2023.30.56.png)
+
+Entrando nella stanza troviamo una piscina con dell'acqua dentro e sul soffitto, esattamente sopra la piscina è disegnato un sole  
+
+![tempio 19](./assets/Screenshot%202023-02-25%2023.33.48.png)
+
+L'acqua della piscina è limpida e senza increspature  
+
+Giacomo cerca dei pesci nella piscina ma mentre si avvicina Massimo si butta dentro. Giacomo si accorge che nel riflesso dell'acqua il sole disegnato sul soffitto diventa una luna, nel mentre, Massimo non risale dalla piscina, sembra essere scomparso  
+
+
+
