@@ -580,7 +580,7 @@ Massimo trova un vaso pieno di liquido strano, e decide di aggiungere il suo sem
 
 Tutte le casse e le altre giare sono piene di monete e gioelli, che però se vengono portati fuori dal tempio diventano semplici pezzi di metallo 
 
-il mosaio per terra raffigura:  
+il mosaico per terra raffigura:  
 
     Una figura umanoide a forma di rana che mena un leopardo con dei serpenti che gli escono dalle spalle  
 
@@ -596,4 +596,12 @@ Questa figura si gira verso di Emanuele, che nota che degli occhi infuocati e il
 Ci incamminiamo verso la zona 19.  
 
 Mentre camminiamo vediamo dei serpenti correre verso di noi e ci attaccano.  
+
+Sconfiggiamo i serpenti e continuiamo la strada per arrivare al punto 19  
+
+### Saturday 25/02/2023 22:19  
+
+#### Zona 19
+
+Siamo arrivati al tempio  
 
