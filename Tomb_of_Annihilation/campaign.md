@@ -621,15 +621,39 @@ Sotto ciascuna delle immagini c'è un porta torce dove è possibile inserire una
 
 Alla fine del corridoio si nota una porta di legno molto vecchia  
 
-![tempio 19](./assets/Screenshot%202023-02-25%2023.30.56.png)
+![tempio-19-a](./assets/Screenshot%202023-02-25%2023.30.56.png)
 
 Entrando nella stanza troviamo una piscina con dell'acqua dentro e sul soffitto, esattamente sopra la piscina è disegnato un sole  
 
-![tempio 19](./assets/Screenshot%202023-02-25%2023.33.48.png)
+![tempio-19-b](./assets/Screenshot%202023-02-25%2023.33.48.png)
 
 L'acqua della piscina è limpida e senza increspature  
 
 Giacomo cerca dei pesci nella piscina ma mentre si avvicina Massimo si butta dentro. Giacomo si accorge che nel riflesso dell'acqua il sole disegnato sul soffitto diventa una luna, nel mentre, Massimo non risale dalla piscina, sembra essere scomparso  
+
+Anche Giacomo si tuffa e scompare nella piscina.
+
+Massimo ritorna e salta fuori dalla piscina senza pantaloni, dice a me ed Emauele che c'è una stanza sotto la piscina  
+
+Decidiamo di scendere tutti nella piscina per vedere la stanza  
+
+Ci ritroviamo in una stanza uguale a quella di prima ma con i disegni visti nella stanza precedente (disegni di vita quotidiana dei romuani). Guardando il riflesso della piscina si vede il sole e nella stanza c'è una porta di legno
+
+![tempio-19-c](./assets/Screenshot%202023-02-25%2023.52.11.png)
+
+Apro la porta, ed entriamo in una stanza completamente diversa
+
+![tempio-19-d](./assets/Screenshot%202023-02-25%2023.58.50.png)
+
+Nel momento in cui entriamo nella stanza notiamo il solito altare, con un mosaico dove viene rappresentato
+
+    un koala che combatte con un coniglio cornuto
+
+Al centro della stanza c'è un piedistallo e di fianco c'è una statua di un tizio pelato con un mantello, sembra quasi che sia stato pietrificato mentre provava a prendere il cubo.
+
+Dall'aspetto ricorda uno dei maghi rossi che abbiamo già incontrato in precedenza  
+
+
 
 
 
