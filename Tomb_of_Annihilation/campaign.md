@@ -653,6 +653,20 @@ Al centro della stanza c'è un piedistallo e di fianco c'è una statua di un tiz
 
 Dall'aspetto ricorda uno dei maghi rossi che abbiamo già incontrato in precedenza  
 
+Tornando nella stanza con la piscina e la luna nel soffitto Giacomo nota una stanza segreta ma la porta è chiusa e non si apre.
+
+Emanuele e Giacomo Corrono verso la porta e riescono a sfondarla aperta.
+
+Illuminando la stanza notiamo una striscia di sangue non fresco che si prolunga fino alla fine del corridoio,dove troviamo un cadavere di un mago vestito di rosso come quello trovato nell'altra stanza. Notiamo anche che c'è una porta bloccata con delle assi di legno e notiamo che sul muro, scritto con il sangue c'è una frase:  
+
+    Ras Nsi claims the keys to the Tomb of the 9 Gods
+
+Aprendo la porta portiamo le torce nella prima stanza e le posizioniamo nei corrispettivi poggia torce. Sentiamo un meccanismo attivarsi e tornando nella stanza con il piedistallo lo troviamo aperto ma senza il solito cubo da poter prendere.  
+
+Ne deduciamo che le stesse persone che hanno rubato il cubo hanno anche ucciso le persone che abbiamo trovato qui morte.  
+
+
+
 
 
 
