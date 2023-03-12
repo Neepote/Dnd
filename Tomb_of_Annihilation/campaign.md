@@ -673,5 +673,12 @@ Superiamo il muro circolare e notiamo come per tutte le altre zone della città,
 
 Tra le case e la vegetazione troviamo per terra dei segni di trascinamento che portano verso un tunnel, le tracce sembrano anche abbastanza recenti. Decidiamo di entrare nel tunnel.  
 
-Come ci avviciniamo all'entrata vediamo dei serpenti semi umanoidi, che poi ci attaccano  
+Come ci avviciniamo all'entrata vediamo dei serpenti semi umanoidi, che poi ci attaccano.
 
+Una volta sconfitti entriamo nel tunnel.
+
+Questa galleria sembra essere stata scavata, e più ci addentriamo e più aumenta l'umidità nell'aria.  
+
+Arriviamo in una specie di lago sotterraneo dove troviamo dei yuan-ti broodgard  che ci attaccano.  
+
+li abbiamo uccisi e io non ho curato Emauele, non se lo merita.
