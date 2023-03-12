@@ -665,9 +665,13 @@ Aprendo la porta portiamo le torce nella prima stanza e le posizioniamo nei corr
 
 Ne deduciamo che le stesse persone che hanno rubato il cubo hanno anche ucciso le persone che abbiamo trovato qui morte.  
 
+### Sunday 12/03/2023 22:06  
+ 
+#### Zona 20b
 
+Superiamo il muro circolare e notiamo come per tutte le altre zone della città, molte case diroccate piene di piante rampicanti.
 
+Tra le case e la vegetazione troviamo per terra dei segni di trascinamento che portano verso un tunnel, le tracce sembrano anche abbastanza recenti. Decidiamo di entrare nel tunnel.  
 
-
-
+Come ci avviciniamo all'entrata vediamo dei serpenti semi umanoidi, che poi ci attaccano  
 
