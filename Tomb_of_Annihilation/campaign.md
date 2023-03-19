@@ -693,3 +693,4 @@ Giacomo e Massimo notano una porta, e decidono di aprirla, nel mentre io e Emanu
 
 Giacomo e massimo vengono attaccati da degli zombie dopo aver aperto la porta per la stanza
 
+Una volta eliminati andiamo indietro e finiamo in una stanza con degli ostaggi e altri mostri già visti prima, li sconfiggiamo
