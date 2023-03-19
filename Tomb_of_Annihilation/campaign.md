@@ -682,3 +682,14 @@ Questa galleria sembra essere stata scavata, e più ci addentriamo e più aument
 Arriviamo in una specie di lago sotterraneo dove troviamo dei yuan-ti broodgard  che ci attaccano.  
 
 li abbiamo uccisi e io non ho curato Emauele, non se lo merita.
+
+### Sunday 19/03/2023 22:02  
+
+#### Zona 20b
+
+![mappa_tunnel_20b](./assets/Screenshot%202023-03-19%2022.12.30.png)  
+
+Giacomo e Massimo notano una porta, e decidono di aprirla, nel mentre io e Emanuele andiamo verso sinistra per vedere altre strade.  
+
+Giacomo e massimo vengono attaccati da degli zombie dopo aver aperto la porta per la stanza
+
