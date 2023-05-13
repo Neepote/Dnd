@@ -314,11 +314,11 @@ in comune è scritto
 
 Con questo disco possiamo tradurre tutte le scritte anche senza l'aiuto del vecchio, che è morto punto da un'ape, evidentemente era allergico e la medicina qui non è andata molto avanti.
 
-Ho pregato Dio e sono riuscito a dar fuoco ai vestiti di Nanni pupu 
+Ho pregato Dio e sono riuscito a dar fuoco ai vestiti di Nanni pupu  
 
 Decidiamo di dirigerci verso il punto 12
 
-#### zona 12
+#### zona 12  
 
 Mentre ci incamminiamo notiamo che le api ci seguono, notiamo anche un odore di miele.
 L'odore proveniva da uno zulugorgi che si è nascosto nei miei pantaloni, mi ha anche dato uno charm
@@ -345,7 +345,7 @@ Lo abbiamo sconfitto e io sono salito al livello 7
 
 ### Sunday 25/12/2022
 
-#### zona 12  
+#### zona 12 II  
 
 Dopo la deviazione al punto 13 ci dirigiamo finalmente al tempio del punto 12  
 
@@ -353,8 +353,8 @@ Trovimamo una recinzione di cemento con all'ingresso 2 colonne di cemento, raffi
 
 All'interno della recinzione ci son cespugli, un albero e 5 arcate, quella più a destra ha un cancello di ferro chiuso, gli altri sono aperti.
 
-Sopra l'arcata centrale (chaive di volta) c'è scritto un messaggio in old omuan 
-    
+Sopra l'arcata centrale (chaive di volta) c'è scritto un messaggio in old omuan  
+
     Better to be Wongo's friend than his enemy
 
 ![tempio 12](./assets/Screenshot%202022-12-25%2022.53.11.png)
@@ -371,10 +371,10 @@ Inoltre ci sono 4 maschere nei muri raffiguranti diversi animali
 
 ![tempio 12 a](./assets/Screenshot%202022-12-25%2023.07.38.png)
 
- - L : Lion
- - B : Boar
- - Z : Zebra
- - V : Volture
+- L : Lion
+- B : Boar
+- Z : Zebra
+- V : Volture
 
  All'opposto dell'entrata c'è una scena di combattimento tra Wongo e Moa
 
@@ -427,7 +427,7 @@ Passando vicino a dove è apparsa questa figura notiamo una botola,
 
 ### Saturday 28/01/2023 22:37  
 
-#### zona 15  
+#### zona 15 II  
 
 Scendiamo nella botola camminando, Giacomo scende rotolando.  
 Alla fine delle scale troviamo dei koboldi che circondano il corpo di Giacomo incastrato in delle scatole.  
@@ -451,7 +451,7 @@ Uccidiamo tutti i coccodrilli.
 
 ### Saturday 04/02/2023 23:18  
 
-#### Zona 16  
+#### Zona 16 II  
 
 Entriamo nell'anticamera del tempio.  
 
@@ -465,7 +465,7 @@ La porta è troppo pesante per spingerla da solo, perciò la apriamo tutti insie
 
 Nella stanza successiva, al centro troviamo un piedistallo con niente sopra, ai lati ci sono 6 statute (3 e 3) che guardano il centro della stanza. Hanno tutti il corpo umano ma con teste di animali.  
 
-Partendo da sinistra andando in alto e poi scendendo verso destra, le statue hanno la test dei seguenti animali 
+Partendo da sinistra andando in alto e poi scendendo verso destra, le statue hanno la test dei seguenti animali  
 
 - lucertola lizard
 - giaguaro jaguar
@@ -491,7 +491,6 @@ Entra nella stanzina dietro la statua e trova, attaccato al muro verso sud una g
 
 ![griglia](./assets/Screenshot%202023-02-04%2023.45.18.png)
 
-
 Comeswithsunshi  
 neLeaveswithnig  
 htHidesindarkne  
@@ -500,7 +499,6 @@ waysjoinedtoits
 casterNeverstra  
 ysfromitsmaster  
 
-
 co.............  
 .....v.........  
 .....e.....r...  
@@ -508,7 +506,6 @@ co.............
 ..y............  
 .........e.....  
 ...........s...  
-
 
 Copriamo gli occhi delle statue con stoffe che avevamo negli inventari, da qui esce fuori un cubo dal piedistallo  
 
@@ -560,7 +557,7 @@ Dopo diversi tentativi riusciamo ad aprire la porta
 
 ### Sunday 19/02/2023 21:44  
 
-#### Zona 18  
+#### Zona 18 II  
 
 Entriamo nel tempio, troviamo diversi forzieri di marca masterlock.  
 
@@ -576,9 +573,9 @@ Massimo decide di porgere in dono il suo seme e viene sull'altare, dal goblin se
 
 Provo a mettere una moneta d'oro nel piedistallo e non succede nulla, nel riprenderla sfioro del liquido seminale di Massimo. Adesso ho l'aids, passando completamente la fase dell'hiv  
 
-Massimo trova un vaso pieno di liquido strano, e decide di aggiungere il suo seme al liquido, Giacomo ha provato a picchiare Massimo per fargli smettere di venire su ogni cosa, sbaglia mira e prende il vaso. Il goblin viene inondato dal contenuto del vaso 
+Massimo trova un vaso pieno di liquido strano, e decide di aggiungere il suo seme al liquido, Giacomo ha provato a picchiare Massimo per fargli smettere di venire su ogni cosa, sbaglia mira e prende il vaso. Il goblin viene inondato dal contenuto del vaso  
 
-Tutte le casse e le altre giare sono piene di monete e gioelli, che però se vengono portati fuori dal tempio diventano semplici pezzi di metallo 
+Tutte le casse e le altre giare sono piene di monete e gioelli, che però se vengono portati fuori dal tempio diventano semplici pezzi di metallo  
 
 il mosaico per terra raffigura:  
 
@@ -590,7 +587,7 @@ Vado a prendere il cubo e lo aggiungo agli altri.
 
 Facciamo un long rest e Emanuele mi cura dall'aids  
 
-Nel mentre che ci riposiamo nel tempio Emanuele sogna di essere da solo nelle vie della città in rovina. In lontananza vede una figura incappucciata, con un bastone che cammina da solo. 
+Nel mentre che ci riposiamo nel tempio Emanuele sogna di essere da solo nelle vie della città in rovina. In lontananza vede una figura incappucciata, con un bastone che cammina da solo.  
 Questa figura si gira verso di Emanuele, che nota che degli occhi infuocati e il volto scheletrico. Il bastone ha un teschio legato al bastone.  
 
 Ci incamminiamo verso la zona 19.  
@@ -666,7 +663,7 @@ Aprendo la porta portiamo le torce nella prima stanza e le posizioniamo nei corr
 Ne deduciamo che le stesse persone che hanno rubato il cubo hanno anche ucciso le persone che abbiamo trovato qui morte.  
 
 ### Sunday 12/03/2023 22:06  
- 
+
 #### Zona 20b
 
 Superiamo il muro circolare e notiamo come per tutte le altre zone della città, molte case diroccate piene di piante rampicanti.
@@ -685,7 +682,7 @@ li abbiamo uccisi e io non ho curato Emauele, non se lo merita.
 
 ### Sunday 19/03/2023 22:02  
 
-#### Zona 20b
+#### Zona 20b II
 
 ![mappa_tunnel_20b](./assets/Screenshot%202023-03-19%2022.12.30.png)  
 
@@ -693,4 +690,32 @@ Giacomo e Massimo notano una porta, e decidono di aprirla, nel mentre io e Emanu
 
 Giacomo e massimo vengono attaccati da degli zombie dopo aver aperto la porta per la stanza
 
-Una volta eliminati andiamo indietro e finiamo in una stanza con degli ostaggi e altri mostri già visti prima, li sconfiggiamo
+Una volta eliminati andiamo indietro e finiamo in una stanza con degli ostaggi e altri mostri già visti prima, li sconfiggiamo.
+
+### Saturday 13/05/2023 22:15  
+
+Torniamo nella stanza con la porta chiusa, Giacomo riesce ad aprire la porta con un tiro fortunato, entrando vede delle casse di stoccaggio.  
+
+Cercando tra le casse trova l'equivalente in materiali di 5 explorer packs.  
+
+![mappa1](./assets/Screenshot%202023-05-13%2022.40.37.png)
+
+Anche Emanuele e Massimo entrano nella stanza e cercano all'interno delle casse.
+
+Notano che una delle casse è sigillata.  
+
+Riescono ad aprirla, e dentro trovano delle strane candele viola(tavolette d'incenso).  
+
+Massimo deci di accenderne uno, creando una nube di fumo di raggio 20 attorno a noi.  
+
+Emanuele e Massimo rimangono intossicati dal fumo e attaccano Giacomo, che decide di allontanarsi per evitare di rimanere nella nube velenosa.  
+
+Nel mentre, mi sposto verso il lago e parlo con gli ostaggi, chiedo il perché della loro prigionia e se per caso avessero visto passare i maghi rossi qui sotto, Rispondono dicendo di essere schiavi degli uomini serpenti, e di non aver visto nessun mago o altra persona diversa da i loro padroni.  
+
+Nel mentre, Emanuele e Massimo continuano il loro trip di acidi, fino a quando un serpente gigante non cade da sopra il soffitto attaccandoli.  
+
+Siccome non vedo più segnali di vita li raggiungo e li aiuto ad uccidere il serpente.  
+
+Facciamo uno short rest.
+
+
