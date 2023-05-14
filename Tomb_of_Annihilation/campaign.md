@@ -440,7 +440,7 @@ Giacomo solo al sentire questa richiesta tira un pugno al koboldo (Giacomo è un
 
 Uccidiamo tutti i koboldi  e ritorniamo in superficie
 
-#### Zona 16  
+#### zona 16  
 
 Decidiamo di avviarci verso la zona 16 che è in parte sommersa.  
 All'entrata del tempio si vedono 4 coccodrilli vicino l'entrata del tempio.  
@@ -451,7 +451,7 @@ Uccidiamo tutti i coccodrilli.
 
 ### Saturday 04/02/2023 23:18  
 
-#### Zona 16 II  
+#### zona 16 II  
 
 Entriamo nell'anticamera del tempio.  
 
@@ -513,7 +513,7 @@ Dopo aver preso il cubo decidiamo di dirigerci indietro per il punto 14
 
 ### Saturday 11/02/2023 23:14  
 
-#### Zona 14  
+#### zona 14  
 
 Entriamo in un edificio abbandonato ch everte nelle stesse condizioni delle altre sturtture nella città (strutture erose e piene di rampicanti).  
 
@@ -523,7 +523,7 @@ Andando avanti ci troviamo un muro
 
 Da quel che vediamo sembra evidente che servano tutti e 9 i cubi per poter proseguire, per questo decidiamo di cambiare zona e di andare verso la zona 17.  
 
-#### Zona 17
+#### zona 17
 
 Torniamo verso il punto 16 e poi continuiamo verso nord est.  
 Arriviamo al cospetto di una cascata e nel mentre che camminiamo Emanuele inciampa in un sasso e casca in acqua. Mentre è in acqua riceve una visione, dove vede dalla prospettiva di una persona in cima alla cascata che guarda verso la città. La città non èancora in rovina, ma vede che dal centro della città si sviluppa una palla di fumo che diventando sempre più grande e si avvicina verso di lui, si gira verso i suoi compagni (non noi ma i compagni di questo tizio di cui ha visto i "ricordi") e poi si ri-gira verso la palla di fumo che magicamente è scomparsa.
@@ -535,7 +535,7 @@ Massimo è affaticato perchè ha bevuto dell'acqua non potabile,
 
 Decidiamo quindi di muoverci verso il prossimo punto
 
-#### Zona 18  
+#### zona 18  
 
 Arriviamo in quello che sembra essere un nuovo tempio, aggiriamo le mura e arriviamo all'entrata dove troviamo le solite colonnine.  
 
@@ -557,7 +557,7 @@ Dopo diversi tentativi riusciamo ad aprire la porta
 
 ### Sunday 19/02/2023 21:44  
 
-#### Zona 18 II  
+#### zona 18 II  
 
 Entriamo nel tempio, troviamo diversi forzieri di marca masterlock.  
 
@@ -598,7 +598,7 @@ Sconfiggiamo i serpenti e continuiamo la strada per arrivare al punto 19
 
 ### Saturday 25/02/2023 22:19  
 
-#### Zona 19
+#### zona 19
 
 Siamo arrivati al tempio  
 
@@ -664,7 +664,7 @@ Ne deduciamo che le stesse persone che hanno rubato il cubo hanno anche ucciso l
 
 ### Sunday 12/03/2023 22:06  
 
-#### Zona 20b
+#### zona 20b
 
 Superiamo il muro circolare e notiamo come per tutte le altre zone della città, molte case diroccate piene di piante rampicanti.
 
@@ -682,7 +682,7 @@ li abbiamo uccisi e io non ho curato Emauele, non se lo merita.
 
 ### Sunday 19/03/2023 22:02  
 
-#### Zona 20b II
+#### zona 20b II
 
 ![mappa_tunnel_20b](./assets/Screenshot%202023-03-19%2022.12.30.png)  
 
@@ -718,4 +718,20 @@ Siccome non vedo più segnali di vita li raggiungo e li aiuto ad uccidere il ser
 
 Facciamo uno short rest.
 
+Continuiamo ad andare avanti per il corridoio  
 
+![stanza con fontana rossa](./assets/Screenshot%202023-05-13%2023.33.21.png)
+
+Massimo riesce ad aprire una porta e trova stanza con un burrone, il resto di noi continua per il corridoio fino ad arrivare ad una stanza enorme, al centro della stanza c'è una fontana di sangue decorata con delle statue di  teste di sepente gigante.  
+
+C'è una rampa per salire al lato a sinistra e un entrata sulla destra.  
+
+Al centro della stanza c'è un calderone acceso, con dentro uno stufato di carne  
+
+In alto sopra le statue delle teste di sepenti c'è un balcone alto circa 40 piedi.  
+
+Massimo segue il sentiero nella stanza, nota che in fondo al burrone ci sono tanti serpenti da non far vedere nemmeno il pavimento. Decide di sbirciare nelle stanze e attira l'attenzione di diversi mostri che iniziano ad inseguirlo.  
+
+Massimo corre nella stanza dove ci troviamo noi e ci avvisa dell'arrivo di decine di mostri  
+
+Siamo a metà di un figth
