@@ -735,3 +735,7 @@ Massimo segue il sentiero nella stanza, nota che in fondo al burrone ci sono tan
 Massimo corre nella stanza dove ci troviamo noi e ci avvisa dell'arrivo di decine di mostri  
 
 Siamo a metà di un figth
+
+### Sunday 21/05/2023 01:20  
+
+Giacomo suona il gong, combattiamo con altri mostri, sopravviviamo per poco  
