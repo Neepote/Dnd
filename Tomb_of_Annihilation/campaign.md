@@ -739,3 +739,9 @@ Siamo a metà di un figth
 ### Sunday 21/05/2023 01:20  
 
 Giacomo suona il gong, combattiamo con altri mostri, sopravviviamo per poco  
+
+### Monday 31/07/2023 00:20  
+
+Decidiamo di andare nella stanza a sinistra del gong, li troviamo un basilisco e un altro mostro che fanno da guardia ad un triceratopo rimasto rinchiuso in una gabbia, nel mentre che combattevamo i due tizi, arrivano altre guardie che si erano dileguate la scorsa volta.  
+
+Per poco ci moriamo e proprio per questo Massimo decide di fare il cretino e spara al triceratopo, che in preda al panico rompe la gabbia e si schianta nella stanza a nord di quella in cui ci troviamo ora.  
