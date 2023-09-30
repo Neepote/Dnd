@@ -745,3 +745,22 @@ Giacomo suona il gong, combattiamo con altri mostri, sopravviviamo per poco
 Decidiamo di andare nella stanza a sinistra del gong, li troviamo un basilisco e un altro mostro che fanno da guardia ad un triceratopo rimasto rinchiuso in una gabbia, nel mentre che combattevamo i due tizi, arrivano altre guardie che si erano dileguate la scorsa volta.  
 
 Per poco ci moriamo e proprio per questo Massimo decide di fare il cretino e spara al triceratopo, che in preda al panico rompe la gabbia e si schianta nella stanza a nord di quella in cui ci troviamo ora.  
+
+### Saturday 30/09/2023 23:13  
+
+Scendiamo nella stanza a sud, nelle pareti del corridoio si vedono diverse scene in basso rilievo
+
+    The wall reliefs show the legend of Dendar the Night Serpent and the rise of Ras Nsi. Characters who examine them see the following tableaus:
+    A giant serpent coils in the underworld, devouring the dreams of sleeping creatures.
+    Yuan-ti terrorize Chultans, feeding their nightmares to the great serpent.
+    A [yuan-ti malison] (Ras Nsi) wielding a flaming sword and wearing a gold crown set with a black opal leads the snake people to a great door to the underworld.
+    The door to the underworld opens, releasing the serpent. It devours the sun and plunges the world into terror and darkness.
+
+Massimo nota che sopra una porta chiusa c'è un pulsante ambrato, lo preme e inizia ad uscire del gas soporifero che stende lui e Emanuele.
+
+Li sposto dalla zona del veleno e li faccio risvegliare, visto che non si riesce ad aprire la porta in quel corridoio decidiamo di salire dove il triceratopo ha fatto i danni ed è rimasto stordito.
+
+Andando nel corridoio verso destra veniamo attaccati da dei mostri, dopo averli uccisi notiamo che c'è una persona rinchiusa in una stanza.  
+
+Prima di parlare con lei riusciamo a fare un log rest  
+
