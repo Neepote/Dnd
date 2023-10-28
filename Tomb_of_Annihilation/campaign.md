@@ -764,5 +764,14 @@ Andando nel corridoio verso destra veniamo attaccati da dei mostri, dopo averli 
 
 Prima di parlare con lei riusciamo a fare un long rest  
 
+Come proviamo a parlarle ci inzia a menare insieme ad un elementale che ha fatto spawnare da un vaso.
+
 ### Saturday 28/10/2023 21:57  
 
+Ci spostiamo nella stanza sopra, troviamo 3 uomini serpenti che ci attaccano.  
+
+Dopo averli sconfitti vediamo che per terra c'è una specie di pozzanghera, Massimo prova a metterci una mano e ne esce con la mano sporca, prova a ingannarci dicendo che la sua mano è piena di cacca. Capiamo tutti che è una scemenza e sappiamo che è fango.
+
+Massimo decide quindi di buttarsi facendo un salto carpiato in avanti, cade nella pozza e nel mentre che affoga nella pozzanghera vede in sogno un serpente scheletrico.
+
+Inoltre rimarrà senza sensi per un giorno.  
