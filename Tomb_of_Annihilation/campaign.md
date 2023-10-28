@@ -775,3 +775,14 @@ Dopo averli sconfitti vediamo che per terra c'è una specie di pozzanghera, Mass
 Massimo decide quindi di buttarsi facendo un salto carpiato in avanti, cade nella pozza e nel mentre che affoga nella pozzanghera vede in sogno un serpente scheletrico.
 
 Inoltre rimarrà senza sensi per un giorno.  
+
+Giacomo lo trascina fuori dalla pozzanghera,usciamo dalla stanza per vedere se c'è un posto sicuro dove poter lasciare Massimo così da non doverlo portare per forza in giro.  
+
+Come rientriamo nella stanza notiamo che il corpo di Massimo non c'è più e non c'è stato nessun segno di trascinamento oltre a quello lasciato da Giacomo per riprenderlo.  
+
+Facendo un check con arcana sembra che questa pozzanghera venga utilizzata per dei sacrifici, forse Massimo è stato sacrificato.  
+
+Giacomo nel mentre nota che la stanza a destra è bloccata da una grata, nota poi una leva (dal lato interno della stanza) così riesce ad aprire la porta.
+
+Nota 4 carrucole con ognuna collegata una gabbia calata all'interno del terreno. al muro a nord della stanza c'è un simbolo strano che però non riusciamo a interpretare.  
+
