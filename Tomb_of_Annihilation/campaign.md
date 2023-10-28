@@ -785,4 +785,3 @@ Facendo un check con arcana sembra che questa pozzanghera venga utilizzata per d
 Giacomo nel mentre nota che la stanza a destra è bloccata da una grata, nota poi una leva (dal lato interno della stanza) così riesce ad aprire la porta.
 
 Nota 4 carrucole con ognuna collegata una gabbia calata all'interno del terreno. al muro a nord della stanza c'è un simbolo strano che però non riusciamo a interpretare.  
-
