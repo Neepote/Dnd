@@ -763,4 +763,6 @@ Li sposto dalla zona del veleno e li faccio risvegliare, visto che non si riesce
 Andando nel corridoio verso destra veniamo attaccati da dei mostri, dopo averli uccisi notiamo che c'è una persona rinchiusa in una stanza.  
 
 Prima di parlare con lei riusciamo a fare un long rest  
-Massimo pisellino
+
+### Saturday 28/10/2023 21:57  
+
