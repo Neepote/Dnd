@@ -785,3 +785,36 @@ Facendo un check con arcana sembra che questa pozzanghera venga utilizzata per d
 Giacomo nel mentre nota che la stanza a destra è bloccata da una grata, nota poi una leva (dal lato interno della stanza) così riesce ad aprire la porta.
 
 Nota 4 carrucole con ognuna collegata una gabbia calata all'interno del terreno. al muro a nord della stanza c'è un simbolo strano che però non riusciamo a interpretare.  
+
+### Saturday 04/11/2023 22:20  
+
+Ritorniamo nella stanza con le fontane di sangue e ci avviciniamo alla porta chiusa in alto a destra, che sembra essere un normale portone di pietra
+
+Mi avvicino alla grata in basso a destra, guardando attraverso le grate noto un corridoio con una fitta nebbia rossastra.
+
+Scendiamo sotto dove eravamo già arrivati, nei bagni/spogliatoi dove avevamo già trovato degli schiavi.
+
+C'è una stanza con un piccolo pilastro che sembra utile solo a reggere il soffitto
+
+Emanuele prova ad interagire con gli schiavi chiedendo se per caso qualcuno fosse uscito dalla stanza con qualcosa, 2 uomini con delle lance e un uomo serpente sono  usciti da lì.  
+
+Ci spostiamo nella stanza a destra della pozza di veleno e troviamo una porta di legno. Emanuele la butta giù con un eldric blast  
+
+La porta di legno da verso dell'acqua, che avevamo già visto quando eravamo entrati nel dungeon.  
+
+Giacomo si butta in acqua per vedere quanto è profonda.  
+
+Esce fuori un hydra, che ci apre il culo.
+
+Scappiamo e ci riposiamo.
+
+Nel mentre Massimo si sveglia crocifisso in un dungeon, aprendo gli occhi vede il serpente scheletro che aveva visto in sogno.  
+
+Andiamo verso la porta che l'altra volta aveva buttato giù Emanuele e Massimo con il gas, scopriamo che è bloccata da arcane lock.  
+
+Decidiamo di andare nella stanza dove è scomparso Massimo e fare lì un long rest.
+
+In sogno ci appare il serpente di ossa che ci dice: 
+
+    the password is: so ukurlahmu has spoken
+
