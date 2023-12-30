@@ -814,7 +814,12 @@ Andiamo verso la porta che l'altra volta aveva buttato giù Emanuele e Massimo c
 
 Decidiamo di andare nella stanza dove è scomparso Massimo e fare lì un long rest.
 
-In sogno ci appare il serpente di ossa che ci dice: 
+In sogno ci appare il serpente di ossa che ci dice:
 
     the password is: so ukurlahmu has spoken
 
+Proviamo di nuovo ad andare alla porta e sentiamo delle voci che sembra essere quella di Massimo.
+
+Riusciamo ad aprirla in qualche modo e entriamo nella stanza.
+
+Troviamo Massimo praticamente crocifisso, spawnano il serpente di ossa e altri due mostri, li sconfiggiamo e liberiamo il nostro goblin tutto infangato.  
