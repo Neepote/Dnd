@@ -63,10 +63,10 @@ Anche Unkh è nella storia.
 Cambiamo zona
 
 #### zona 3
-
 Notiamo una piscina rettangolare piena di acqua melmosa, dovebbe essere un tempio, al centro c'è un pilastro con un volto simile a quello di una rana.
 
 ![piscina](./assets/WhatsApp%20Image%202022-09-30%20at%2023.17.31.jpeg)
+
 
 Ci avviciniamo al tempio, la porta è chiusa a chiave, c'è una scritta:
 
@@ -834,4 +834,8 @@ Entriamo in una stanza che si affaccia al fiume sotterraneo dove avevamo trovato
 
 Giacomo si siede sul trono, noto una leva sulla base e lui la preme, si apre poi una stanza alla destra del trono.
 
-La stanza è piena di tesori e monete, in fondo alla stanza su un cumulo di cuscini è seduto un uomo completamente bendato.
+La stanza è piena di tesori e monete, in fondo alla stanza su un cumulo di cuscini è seduto un uomo serpente (rans si) completamente bendato.
+
+Giacomo decide di parlargli,sembra di sentrire due persone che litigano su tiktok.
+
+Tizio decide quindi di menarci
