@@ -823,3 +823,11 @@ Proviamo di nuovo ad andare alla porta e sentiamo delle voci che sembra essere q
 Riusciamo ad aprirla in qualche modo e entriamo nella stanza.
 
 Troviamo Massimo praticamente crocifisso, spawnano il serpente di ossa e altri due mostri, li sconfiggiamo e liberiamo il nostro goblin tutto infangato.  
+
+### Saturday 30/12/2023 23:21  
+
+Ci spostiamo di nuovo nella stanza con la fontana di sangue, proviamo tutti insieme ad aprire la porta di pietra, e ci riusciamo.
+
+troviamo un gruppo di uomini serpente e altri mostri, li sconfiggiamo
+
+### Saturday 13/01/2024 22:34  
