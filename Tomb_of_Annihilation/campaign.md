@@ -828,6 +828,10 @@ Troviamo Massimo praticamente crocifisso, spawnano il serpente di ossa e altri d
 
 Ci spostiamo di nuovo nella stanza con la fontana di sangue, proviamo tutti insieme ad aprire la porta di pietra, e ci riusciamo.
 
-troviamo un gruppo di uomini serpente e altri mostri, li sconfiggiamo
+Entriamo in una stanza che si affaccia al fiume sotterraneo dove avevamo trovato l'hydra, troviamo un gruppo di uomini serpente e altri mostri e li sconfiggiamo.
 
 ### Saturday 13/01/2024 22:34  
+
+Giacomo si siede sul trono, noto una leva sulla base e lui la preme, si apre poi una stanza alla destra del trono.
+
+La stanza è piena di tesori e monete, in fondo alla stanza su un cumulo di cuscini è seduto un uomo completamente bendato.
