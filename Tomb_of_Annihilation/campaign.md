@@ -7,7 +7,7 @@
 stanza delle guardie
  collassata piena di rampicanti, ha dei graffiti scritti in comune:
 
-1. "fear the fangs of rans si"
+1. "fear the fangs of ras nsi"
 2. "Erik i've gone in search of the nine shines. -V"
 3. "puzzle cubes are the key"  
 4. "beware of the frog monster"  
@@ -834,8 +834,12 @@ Entriamo in una stanza che si affaccia al fiume sotterraneo dove avevamo trovato
 
 Giacomo si siede sul trono, noto una leva sulla base e lui la preme, si apre poi una stanza alla destra del trono.
 
-La stanza è piena di tesori e monete, in fondo alla stanza su un cumulo di cuscini è seduto un uomo serpente (rans si) completamente bendato.
+La stanza è piena di tesori e monete, in fondo alla stanza su un cumulo di cuscini è seduto un uomo serpente (ras nsi) completamente bendato.
 
 Giacomo decide di parlargli,sembra di sentrire due persone che litigano su tiktok.
 
 Tizio decide quindi di menarci
+
+Riusciamo a sconfiggerlo.
+
+In un tavolo nella stanza troviamo l'ultimo cubo che non avevamo trovato ell'ultimo templio.  
