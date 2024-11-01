@@ -836,10 +836,86 @@ Giacomo si siede sul trono, noto una leva sulla base e lui la preme, si apre poi
 
 La stanza è piena di tesori e monete, in fondo alla stanza su un cumulo di cuscini è seduto un uomo serpente (ras nsi) completamente bendato.
 
-Giacomo decide di parlargli,sembra di sentrire due persone che litigano su tiktok.
+Giacomo decide di parlargli, sembra di sentrire due persone che litigano su tiktok.
 
 Tizio decide quindi di menarci
 
 Riusciamo a sconfiggerlo.
 
-In un tavolo nella stanza troviamo l'ultimo cubo che non avevamo trovato ell'ultimo templio.  
+In un tavolo nella stanza troviamo l'ultimo cubo che non avevamo trovato nell'ultimo templio.  
+
+### Thursday 31/10/2024 23:09  
+
+Decidiamo di ripercorrere il fiume per cercare l'hydra, verso metà troviamo un cunicolo dove c'è della melma corrosiva sul soffitto.
+
+Massimo spara fuoco sulla melma e pulisce tutto il soffitto ma non succede nulla di particolare.
+
+Decidiamo di ritornare alla stanza con la fontana di sangue perché manca ancora una stanza dove non siamo riusciti ad entrare.
+
+Nel mentre che Giacomo picchia le sbarre per provare a romperle massimo prova a bussare ai muri che si trovano a sud di dove dovrebbe essere la stanza.
+
+Massimo prova a lanciare dardi di fuoco nella stanza per illuminarla, viene colpito da un muro di fuoco che lo bruciacchia.
+
+Corspargiamo Massimo di maionese, con la forza siamo riusciti a farlo entrare attraverso le sbarre.
+L'unica cosa che nota nella stanza sono 3 stanze con dei letti, una fontana di acqua pulita al centro e una pedana per il teletrasporto che non possiamo utilizzare.
+
+Con la forza riusciamo a ritirare fuori dalla stanza Massimo ma si sloga una spalla.
+
+Visto che non c'è più niente da fare decidiamo di uscire da dove siamo entrati.
+
+Ci ritroviamo quindi ci ritroviamo verso il punto 20B, decidiamo di andare verso il punto 14.
+
+Ci troviamo di fronte ad un obelisco con del muschio nero, un breve tunnel di fronte noi e all'obelisco, mentre a destra c'è un corridoio con delle statute
+
+![tempio14](assets/Screenshot 2024-1031 00:30:43.png)
+
+Giacomo si avvicina alle statue che rappresentano 8 dei nove "dei" per cui sono stati creati i templi, sotto ciascuna statua ci sono delle piccole ciotole per i falò.
+
+Manca la statua di Unhk
+
+Massimo e Giacomo li accendono tutti, li spengono, li riaccendono, fanno una capriola, parlano in serpentese "cisì asà o'sò", prova anche il casertese.
+
+Giacomo nota un dettaglio, le statue sono posizionate in base alle rivalità.
+
+Come mi avvicino alle statue si accendono man mano tutti i falò, come si accendono gli ultimi due falò si apre dalla fine del corridoio un'ultima statua, quella di Unkh
+
+Nella statua di Unkh, legata al collo c'è un pendente d'oro a forma di occhio.
+Massimo prova a prendere la collanda, ma da bravo bimbo speciale decide di cavarsi un occhio per mettere la collana a forma di occhio al suo posto.
+
+La collana è troppo grande per il suo cranio e perciò si è cavato un'occhio per niente.
+
+Massimo si è appena rimangiato tutto.
+
+L'occhio ce l'ha ma è di vetro.
+
+Prendo io la collana e la metto al collo.
+
+Mi allontano dalle statue e vado verso l'obelisco, noto che ci sono delle scritte nascoste dal muschio, grattiamo via il muschio. Nel mentre sentiamo dei rumori dalla scarpata sopra di noi, sono 3 gargoyle che ci guardano dall'alto.
+
+Giacomo prende un sasso e lo lancia ai gargoyle e lo prende.
+Scendono e ci menano.
+
+Li battiamo, continuiamo a pulire l'obelisco
+
+    Fear the night when the forsaken one seizes death's mantle and the seas dry up and the dead rise and I, Acererak the Eternal, reap the world of the living. Those who dare enter take heed:
+        The enemies oppose.
+        One stands between them.
+        In darkness, it hides.
+        Don the mask or be seen.
+        Speak no truth to the doomed child.
+        The keys turn on the inside only.
+
+Questa era scritta nell'obelisco in lingua comune.
+
+Mi avvicino al portone di fronte all'obelisco, agli angoli ci sono incisi dei teschi.
+
+Ci sono 4 linee che si incrociano, alle estremità ci sono dei buchi a forma di cubo, 
+
+Metto i cubi in base alla leggenda che avevamo trovato appena arrivati alla città
+
+Dietro di noi si chiude dal soffitto una parte di roccia, che ci chiude tra la porta e questa frana.
+
+Decidiamo di rimanere tra i muri, una volta che il muro dientro di noi si è completamente eretto, inizia ad uscire del fumo dai teschi ai lati della porta
+
+
+
