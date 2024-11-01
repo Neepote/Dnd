@@ -909,7 +909,7 @@ Questa era scritta nell'obelisco in lingua comune.
 
 Mi avvicino al portone di fronte all'obelisco, agli angoli ci sono incisi dei teschi.
 
-Ci sono 4 linee che si incrociano, alle estremità ci sono dei buchi a forma di cubo, 
+Ci sono 4 linee che si incrociano, alle estremità ci sono dei buchi a forma di cubo,
 
 Metto i cubi in base alla leggenda che avevamo trovato appena arrivati alla città
 
@@ -917,5 +917,5 @@ Dietro di noi si chiude dal soffitto una parte di roccia, che ci chiude tra la p
 
 Decidiamo di rimanere tra i muri, una volta che il muro dientro di noi si è completamente eretto, inizia ad uscire del fumo dai teschi ai lati della porta
 
-
-
+Togliendo tutti i cubi la porta dietro di noi si riapre, decido di rimanere fuori e di lasciare gli altri tra le due porte, avvicinandomi all'obelisco noto che la collana inzia a muvoersi in una direzione a sud ovest.
+Da lì trovo una seconda entrata nascosa dalle liane e la flora.
