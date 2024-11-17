@@ -919,3 +919,58 @@ Decidiamo di rimanere tra i muri, una volta che il muro dientro di noi si è com
 
 Togliendo tutti i cubi la porta dietro di noi si riapre, decido di rimanere fuori e di lasciare gli altri tra le due porte, avvicinandomi all'obelisco noto che la collana inzia a muvoersi in una direzione a sud ovest.
 Da lì trovo una seconda entrata nascosa dalle liane e la flora.
+
+### Sunday 17/11/2024 21:23  
+
+Anche nella seconda entrata troviamo degli slot per inserire i cubi, stavolta ripetiamo l'ordine scelto per l'altra porta, ovvero mettendo a coppie i cubi in base alla storia letta all'inizio.
+L'unico cambiamento è il cubio in più che abbiamo inserito all'inizio
+
+Si aprono le porte e troviamo un'anticamera con un aporta chiusa, dove al centro c'è una leva. Sopra la leva c'è un teschio in rilievo e come Giacomo e Massimo si avvicinano esce una mano scheletrica con una clessidra in mano, la clessidra dura 10 secondi.
+
+Il pavimento sotto di loro si apre, e mentre massimo riesce a rimanere aggrappato alla leva Giacomo cade in una trappola.
+
+Giacomo riesce a risalire all'entrata della prima porta, Massimo riesce con un colpo di reni a ritirare su la leva.
+Il pavimento ritorna e la seconda porta si apre.
+
+![due porte](assets/Screenshot%202024-11-17%2021.50.01.png)
+
+Dalla porta ci ritroviamo in un corridoio con un bivio.
+Nel corridoio sembrano esserci trappole, Massimo corre velocissimo sulla colonna che si trova nel mezzo del bivio.
+Massimo inciampa e muore.
+
+La colonna ha un bassorilievo di una maschera con una bocca aperta, dentro la bocca c'è solo oscurità.
+La bocca è grande abbastanza grande per un persona. Massimo mette una mano nella bocca della maschera e viene risucchiato dentro, nel mentre noi eravamo troppo impegnati a capire come passare le trappole che non ci siamo accorti della scomparsa di Massimo.
+
+Massimo si ritrova nel buio totale, e sente dietro di lui una forma cilindrica al tatto calda che si avvicina a lui. Massimo decide di posarci la mano sopra e di strusciarla per capire meglio di cosa tratta.
+
+![alt text](assets/image.png)
+
+Nel mentre noi siamo arrivati al bivio.
+A sinistra c'è una specie di finestra di cristallo che da su una stanza buia
+
+Proviamo a tirarla giù ma non ci riusciamo.
+Decidiamo di andare a destra e ci ritroviamo in un nuovo bivio. O meglio una balconata verso un piano inferiore. Non riusciamo a vedere niente, è tutto buio.
+
+Lanciando un sasso illuminato sembra essere un buco davvero profondo.
+
+Nel mentre Massimo viene rigettato dalla maschera nella colonna, ricoperto di melma appiccicosa e biancastra, è a 0hp.
+
+Scendendo le scale continuavano ad aumentare i percorsi disponibili, perciò siamo ritornati nel piano di sopra e siamo andati a sinistra delle scale.
+
+Arriviamo in una stanza con uno scheletro animato che ha una chiave incisa nel teschio.
+Come ci vede inizia a scappare.
+
+Notiamo ch ein fondo alla stanza c'è un statua con uno scudo e della polvere marrone sotto, che sembra ruggine.
+
+Andiamo a sinistra ma è chiuso, a destra c'è una fontana.
+Bevendo dalla fontana cambio sesso e perdo la voce per 16 ore
+Bevendo altre volte riesco almeno a ritornare uomo.
+
+Giacomo decide di ritonrare nella stanza a sinistra e nota che ci sono dei segni di trascinamento
+
+Spingendo la parete riusciamo ad arrivare in un una stanza con un sarcofago nel mezzo, due statue di orsi con un medaglione gigante con un occhio di bronzo inciso sopra.
+Oltre allo scheletro visto prima ci sno anche altri 4 corpi inanimati con una maschera di cartapesta e piume.
+
+Sopra il sarcofago trovo delle incisioni che mi ricordano le stesse presenti nel cubo di Obo'laka.
+Tocco l'occhio che si trova tra le due statue e i non morti si alzano e ci attaccano.
+Fuggiamo.
