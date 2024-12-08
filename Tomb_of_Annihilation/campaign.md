@@ -867,7 +867,7 @@ Ci ritroviamo quindi ci ritroviamo verso il punto 20B, decidiamo di andare verso
 
 Ci troviamo di fronte ad un obelisco con del muschio nero, un breve tunnel di fronte noi e all'obelisco, mentre a destra c'è un corridoio con delle statute
 
-![tempio14](assets/Screenshot 2024-1031 00:30:43.png)
+![tempio14](assets/Screenshot 2024-10-31 00:30:43.png)
 
 Giacomo si avvicina alle statue che rappresentano 8 dei nove "dei" per cui sono stati creati i templi, sotto ciascuna statua ci sono delle piccole ciotole per i falò.
 
@@ -943,7 +943,7 @@ La bocca è grande abbastanza grande per un persona. Massimo mette una mano nell
 
 Massimo si ritrova nel buio totale, e sente dietro di lui una forma cilindrica al tatto calda che si avvicina a lui. Massimo decide di posarci la mano sopra e di strusciarla per capire meglio di cosa tratta.
 
-![alt text](assets/image.png)
+![alt text](assets/Screenshot 2024 11-17 21:23.00.png)
 
 Nel mentre noi siamo arrivati al bivio.
 A sinistra c'è una specie di finestra di cristallo che da su una stanza buia
@@ -960,7 +960,8 @@ Scendendo le scale continuavano ad aumentare i percorsi disponibili, perciò sia
 Arriviamo in una stanza con uno scheletro animato che ha una chiave incisa nel teschio.
 Come ci vede inizia a scappare.
 
-Notiamo ch ein fondo alla stanza c'è un statua con uno scudo e della polvere marrone sotto, che sembra ruggine.
+Notiamo che in fondo alla stanza c'è un statua con uno scudo e della polvere marrone sotto, che sembra ruggine.
+Giacomo passa senza problemi, ma quando passo io vengo attratto come un magnete alla statua e come la mia armatura in mithril la tocca viene polverizzata, mi metto l'armatura in pelle per non rimanere senza.
 
 Andiamo a sinistra ma è chiuso, a destra c'è una fontana.
 Bevendo dalla fontana cambio sesso e perdo la voce per 16 ore
@@ -974,3 +975,49 @@ Oltre allo scheletro visto prima ci sno anche altri 4 corpi inanimati con una ma
 Sopra il sarcofago trovo delle incisioni che mi ricordano le stesse presenti nel cubo di Obo'laka.
 Tocco l'occhio che si trova tra le due statue e i non morti si alzano e ci attaccano.
 Fuggiamo.
+
+### Saturday 07/12/2024 22:57  
+
+Giacomo ritorna verso l'ingresso e trova massimo privo di sensi, visto che aveva ricevuto dei punti ferita in più dalla fontana decide di portare Massimo lì per rianimarlo visto che io non ho ancora la voce per castare spell.
+
+Invece di riprendere conoscenza Massimo muore e viene polverizzato nell'acqua.
+
+Emanuele Distrugge a colpi di eldric blast la statua che mi ha distrutto l'armatura, mi metto la chainmail per ritornare ad avere tanta CA.
+
+Decidiamo di rimanere a fare un long rest per farmi riprendere la voce
+
+Ritorniamo nella stanza dove c'erano gli scheletri che ci stavano per menare e riusciamo in tre a distruggerli
+
+Tentiamo di aprire la bara ma anche i calci non funzionano
+
+Noto che dopo aver ucciso wrighte sono rimaste le loro maschere per terra, le prendo e le do ad Emanuele e Giacomo, tenendo nello zaino la maschera in più.
+
+Dopo aver messo la maschera mi avvicino alla bara e percepisco della magia, provo ad usare dispell magic ma non funziona.
+Giacomo indossando la maschera tira di nuovo una botta sulla bara e questa volta si apre.
+
+C'è un cumulo di polvere con un anello sopra, Giacomo lo prende e lo indossa, subito dopo Emanuele lo ruba.
+
+Giacomo stupito va dallo scheletro a chiedere dove fosse finito l'anello e lo scheletro indica Emanuele.
+Che poi prova a inventare una scusa per confondere Giacomo, senza riuscirci,
+
+Si azzuffano per un po' ma non si fanno troppo male.
+
+![corridoi a destra](assets/Screenshot 2024-12-08 01.27.00.png)
+
+Decidiamo di rimanere nel piano e di andare nei corridoi a destra, troviamo una statua a forma di teschio con delle fiammelle accese nelle orbite degli occhi.
+
+Andando nel corriodio sopra invece vediamo un corridoio stretto con delle grosse pale di metallo, come se fossero le pale di un grosso ventilatore, più ci si avvicina e più le ventole girano.
+
+Emanuele si avvicina e viene risucchiato dalla ventola, che lo rende inconscio. Lo curo e riprende conoscenza ma non possiamo raggiungerlo senza passare per le ventole.
+
+Si ritrova in una stanza con un sarcofago e 3 chest.
+Ogni chest è lunga 5 piedi, alta e larga 3 piedi. Nel sarcofago c'è un'immagine raffigurante wongo il su-monster (scimmia).
+
+La chest più a sinistra è di onice nero
+Quella al centro metallo arrugginito
+Quella a destra d'argento con tratti congelati che riflettono la luce della stanza
+
+![Stanza wongo](assets/Screenshot 2024-12-08 01.46.23.png)
+
+Emanuele prova ad parire la bara, ma anche con la maschera addosso non riesce ad aprirla.
+Nota che tutte le chest sono chiuse con un lucchetto.

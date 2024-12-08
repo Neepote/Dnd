@@ -1,4 +1,7 @@
 {
     "pasteImage.basePath": "${currentFileDir}",
-    "pasteImage.path": "${currentFileDir}/assets"
+    "pasteImage.path": "${currentFileDir}/assets",
+    "markdown.copyFiles.destination": {
+        "img": "${documentWorkspaceFolder}/asstets/${documentFileName}"
+    }
 }
