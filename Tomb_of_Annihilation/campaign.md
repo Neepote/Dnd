@@ -1019,5 +1019,32 @@ Quella a destra d'argento con tratti congelati che riflettono la luce della stan
 
 ![Stanza wongo](assets/Screenshot 2024-12-08 01.46.23.png)
 
-Emanuele prova ad parire la bara, ma anche con la maschera addosso non riesce ad aprirla.
+Emanuele prova ad aprire la bara, ma anche con la maschera addosso non riesce.
 Nota che tutte le chest sono chiuse con un lucchetto.
+
+Con un eldritch blast apre la cassa centrale, al suo interno trova una chiave dorata inserita in  una serratura sul fondo, ma la chiave è legata con dei ganci.
+
+Nella chest trova anche una fatina svenuta lì dentro, è massimo reincarnato.
+Richiude la chest e sente un click provenire dal fondo della chest
+
+Stessa cosa trova anche nelle altre chest.
+
+Emanuele riapre la chest centrale, e inizia a parlare con la fata (Ticket) che soffre di amnesia e viene convita che Emanuele sia il suo nuovo dio, Gino Frollino.
+
+La fatina scopre di essere un fatino, nello specifico è una "trap".
+
+Emnuele convince la fatina a girare la chiave quando la chest è chiusa perchè in quel momento si tolgono i ganci dalle chiavi.
+
+Una volta girata la chiave appare un pulsante sulla chest, Emanuele lo preme. La chest centrale è fatta.
+
+Emanuele e Massimo si spostano alla chest a sinistra, ripetono tutta la stessa cosa anche lì, ma Massimo fallisce un check dopo che Emanuele preme il pulsante e muore folgorato.
+
+Massimo è al quinto personaggio, due morti in una sessione
+Perlomeno anche la seconda chest è andata, rimane l'ultima, quella in argento
+
+Emanuele risce ad aprire anche l'ultima chest evocando un'arma.
+
+Come gira anche l'ultima chiave nella cassa il sarcofago si apre, scoprendo una lastra di cristallo sotto il coperchio.
+
+Attraverso il cristallo si nota il cadavere di una scimmia mummificata, con in mano una mazza.
+Riesce a soaccare il cristallo, la mummia si alza dal sarcofago e lo attacca.
