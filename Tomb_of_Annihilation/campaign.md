@@ -1048,3 +1048,45 @@ Come gira anche l'ultima chiave nella cassa il sarcofago si apre, scoprendo una 
 
 Attraverso il cristallo si nota il cadavere di una scimmia mummificata, con in mano una mazza.
 Riesce a soaccare il cristallo, la mummia si alza dal sarcofago e lo attacca.
+
+Per fortuna riesce a scappare in tempo e a dirci cosa ha trovato nella stanza
+
+### Sunday 08/12/2024 22:24  
+
+Facciamo uno short rest e Emnauele rompe le pale con eldritch blast, così riusciamo ad entrare nella stanza.
+
+Riusciamo a sconfiggerlo e ci lascia la sua mazza, giacomo la prende ma come la tira su esce fuori una nuvola di gas a forma di scimmia che prova a prendere il controllo del suo corpo, e in questo caso ci riesce.
+
+![wongo spirit](assets/wongo-spirit.png)
+
+Decidiamo di andare alla stanza sulla destra e di entrare nella bocca del teschio con le fiammelle negli occhi.
+
+Ci ritroviamo in una stanza con un sarcofago dove è raffigurato un serpente (Moa), mentre in un piedistallo c'è un teschio fluttuante in una teca di cristallo.
+
+![stanza di moa](assets/image.png)
+
+"Emanuele bacia il teschio adesso ha l'aids originale delle scimmie.
+Inoltre ha appena ricevuto una letttera da hogwarts e gli hanno detto che può entrare a fare il bidello."
+
+Come entriamo nella stanza sentiamo telepaticamente la voce di una bambina che dice con tono spaventato "cosa succede, perchè non posso vedere? Chi siete voi, siete amici di mio padre"
+
+Emanuele inizia a parlare con la voce della bambina che ci ha comincato telepaticamente.
+
+Ma non dice niente di particolare.
+
+Nota che nelle pareti ci sono delle crepe parecchio profonde, avvicinandosi nota che sono piene di insetti.
+
+Giacomo prende a cazzotti la teca e la distrugge, il teschio inizia a fluttuare in aria e la voce della bambina inizia ad urlare terrorizzata.
+Al tescio che fluttua si vedono delle fiammelle verdi nelle orbite degli occhi.
+
+Sentiamo gli insetti che si avvicinano a noi, ci attaccano.
+Tra gli insetti c'è anche una fatina che si unisce al nostro gruppo (Massimo)
+
+Anche in questa stanza scoperchiamo il sarcofago, al suo interno troviamo degli stracci che contengono le ossa di uno jaculi, e sopra i resti c'è un bastone.
+
+Giacomo prende il bastone ed esce fuori del funo verde a forma di serpente, e anche questa volta viene posseduto
+
+![moa spirit](assets/image-1.png)
+
+Nel prendere il controllo da quest'ultimo spirito Giacomo perde il controllo dello spirito della scimmia.
+
