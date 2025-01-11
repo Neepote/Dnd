@@ -1090,3 +1090,7 @@ Giacomo prende il bastone ed esce fuori del funo verde a forma di serpente, e an
 
 Nel prendere il controllo da quest'ultimo spirito Giacomo perde il controllo dello spirito della scimmia.
 
+### Saturday 11/01/2025 23:13  
+
+
+
