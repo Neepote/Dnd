@@ -1053,7 +1053,7 @@ Per fortuna riesce a scappare in tempo e a dirci cosa ha trovato nella stanza
 
 ### Sunday 08/12/2024 22:24  
 
-Facciamo uno short rest e Emnauele rompe le pale con eldritch blast, così riusciamo ad entrare nella stanza.
+Facciamo uno short rest e Emanuele rompe le pale con eldritch blast, così riusciamo ad entrare nella stanza.
 
 Riusciamo a sconfiggerlo e ci lascia la sua mazza, giacomo la prende ma come la tira su esce fuori una nuvola di gas a forma di scimmia che prova a prendere il controllo del suo corpo, e in questo caso ci riesce.
 
@@ -1092,5 +1092,75 @@ Nel prendere il controllo da quest'ultimo spirito Giacomo perde il controllo del
 
 ### Saturday 11/01/2025 23:13  
 
+Torniamo indietro dove era morto massimo quando era ancora un goblin.
+Io e massimo decidiamo di entrare dentro, ma ci ritroviamo ricoperti da oscurità magica e non riusciamo ne a parlare ne a sentire.
+Dentro non lo vediamo ma c'è uno shadow demon che ci sta attaccando
 
+Anche Giacomo decide di entrare, ma già io riesco a togliere l'oscurità magica e riusciamo a sconfiggerlo in poco tempo.
 
+La stanza è piccolissima, ci entrano 4 persone ma comunque non c'è nulla di interessante, quindi decidiamo di uscire e scendere nel piano inferiore.
+
+Una volta scese le scale giriamo a sinistra, e troviamo una stanza con le mura e il pavimento con disegni incavati di persone che cadono. Al centro della stanza c'è un alto rilievo per terra che raffigura la faccia di un diavolo con la bocca aperta.
+
+Massimo decide di mettersi dentro la bocca aperta dell'alto rilievo, mentre giacomo decide di rompere una delle corna di pietra, ma non ci riesce.
+
+Come massimo si affaccia verso la bocca si accorge che c'è un pozzo ricoperto da oscurità magica.
+
+Giacomo decide di cagare in bocca al diavolo, nel mentre i casto daylight sul mio scudo che riesce a dissolvere l'oscurità magica.
+Come l'oscurità svanisce appare uno sciame di pipistrelli che ci attacca.
+
+Nel mentre emanuele che ha trovato una rana e l'ha leccata. Inizia a delirare e narra di una vecchia storia del suo paese natale.
+
+    tanti anni fa c'era una persona che si chamava prolaster, questo prolaster andava in giro prolassando il suo ano come se fosse un'arma e combatteva la criminalità organizzata con il suo intestino retto.
+    Un bel giorno prolastervenne corrotto dal male, le emorroidi lo avevano cambiato.
+
+    Dopo la sua corruzione, le gesta malefiche di prolaster vennero presto conosciute dalla malavita di baldur's gate.
+    Fu' così che la feccia dei forgotten realms riconobbe prolaster come dalk rorld. QUesto soprannome gli fu' dato grazie ad una particolare caratteristica del suo prolasso anale che appariva scuro di colore a causa di una emmoragia interna di sangue morlacco.
+
+    _Mi sento una tvoia_
+
+    Questa fu' la prima frase coniata da prolaster, ripresa poi 200 anni dopo dal suo più famoso seguace: rosario muniz.
+    L'egregio dottor muniz, si imbattè per la prima volta nella storia di prolaster qando era ancora un fanciullo.
+    Tutto iniziò dalla visione del video one man one cup.
+
+    Tornando a noi, tra storie di organi fuori posto, scopriremo come prolaster ha guadagnato la sua famigerata fama da prolassatore titanico.
+
+Nel mentre, nella vita vera.
+Un pipistrello attacca giacomo nel sedere e per poco non prova ad entrargli nell'ano.
+
+Emanuele:
+    _Occhio a quello che diciamo perchè massimo ha una inflation fetish_
+    Questa è la seconda frase coniata da prolaster e ripresa poi da giacomo
+
+    _Mo giacomo per cagare c'avrà problemi_
+    Questa è la terza frase coniata da prolaster e poi ripresa dai membri della campagna.
+
+    Giacomo non è il suo nome ma è un nickname, questo disse prolasse guardandosi allo specchio la prima volta che vida il suo enorme prolasso rettale.
+
+Riusciamo ad uccidere i pipistrelli e notiamo che ora che non c'erano più ostruzioni nel posso si vedeva chiaramente l'entrata per un piano inferiore.
+Ritorniamo indietro e al bivio decidiamo di prendere la strada a sinistra.
+
+In tutto queto giacomo è invisibile
+
+Ci ritroviamo in un incrocio con 3 corridoi, quelli laterali sono vicoli ciechi, in quello a sinistra però c'è il corpo di  
+
+Ci ritorivamo in un corridoio con un enome cerchio di pietra che ne segna praticamente l'entrata. Come giacomo varca la soglia di questo anello di pietra si sente molto più pesante. Massimo nota che c'è un corpo nella parte sinistra dell'anello
+
+![secondo livello 1](assets/image-2.png)
+
+Il cadavere è di un uomo capra, vestito con solo una tunica. in mano ha un bastone con in cima una testa di un caprone.
+
+La mazza è la staff of striking e la prende Giacomo, che lascia la mazza del terrore dove è contenuto lo spirito della scimmia.
+Massimo decide di prendere la mazza e viene impossessato dallo spirito della scimmia.
+
+Troviamo anche il suo diario.
+
+    To those who find this -
+
+    Know that I, Devlin Bashir, am the last surviving member of the Company of the Yellow Banner. The warlord Ras Nsi stripped us of our weapons and threw us in here on orders of his master, Acererak. I can only imagine our souls are to be fed to his phylactery. Alas, it seems he has won.
+
+    Our company was separated after the incident with the four-armed gargoyle. The tomb guardians tore Seward to pieces,. And with him, we lost the Starfallen. Our quest was a failure: even if we'd found the Eye, the elf princess was gone. My friends wouldn't have lasted long without their weapons (especially with a doppelganger in our midst, as Seph suspected). Of course, I kept my staff. I'm sure Brixton would've seen some humor in that.
+
+    Gentle reader, let a dying man offer you one piece of advice. Acererak is a trickster who desires nothing but your soul. His riddles may help you, but in the end, his final secret always leads to your doom.
+
+    Tymora save us all.
