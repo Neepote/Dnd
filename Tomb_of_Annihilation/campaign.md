@@ -796,7 +796,7 @@ Scendiamo sotto dove eravamo già arrivati, nei bagni/spogliatoi dove avevamo gi
 
 C'è una stanza con un piccolo pilastro che sembra utile solo a reggere il soffitto
 
-Emanuele prova ad interagire con gli schiavi chiedendo se per caso qualcuno fosse uscito dalla stanza con qualcosa, 2 uomini con delle lance e un uomo serpente sono  usciti da lì.  
+Emanuele prova ad interagire con gli schiavi chiedendo se per caso qualcuno fosse uscito dalla stanza con qualcosa, 2 uomini con delle lance e un uomo serpente sono usciti da lì.  
 
 Ci spostiamo nella stanza a destra della pozza di veleno e troviamo una porta di legno. Emanuele la butta giù con un eldric blast  
 
@@ -1164,3 +1164,19 @@ Troviamo anche il suo diario.
     Gentle reader, let a dying man offer you one piece of advice. Acererak is a trickster who desires nothing but your soul. His riddles may help you, but in the end, his final secret always leads to your doom.
 
     Tymora save us all.
+
+### Sunday 19/01/2025 00:41  
+
+Oltrepassiamo il cerchio di pietra, ci ritroviamo in una stanza con un pavimento a scacchiera perchè è trendy.
+Alle pareti troviamo 4 alto rilievi di maschere con delle bocche grandi abbastanza per entrarci.
+
+Al centro della stanza c'è un sarcofago illuminata dalla luce naturale che viene dal soffitto.
+
+Proviamo ad aprire il sarcofago ma non ci riusciamo, nel mentre Giacomo mette la testa dentro le bocche per vedere se ci si potesse entrare come abbiamo fatto per le altre stanze ma hanno tutte un muro di pietra dietro.
+
+Massimo usa ha usato uno spell per ridurre le dimensioni del coperchio del sarcofago, al suo interno c'è un cartello di legno con scritto in comune:
+
+    Affoga i tuoi dispiaceri
+
+Nel mentre che leggiamo il cartello sentiamo un movimento di pietre muoversi, e notiamo che la porta da dove stiamo entrando si sta chiudendo.
+
