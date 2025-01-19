@@ -1170,13 +1170,23 @@ Troviamo anche il suo diario.
 Oltrepassiamo il cerchio di pietra, ci ritroviamo in una stanza con un pavimento a scacchiera perchè è trendy.
 Alle pareti troviamo 4 alto rilievi di maschere con delle bocche grandi abbastanza per entrarci.
 
-Al centro della stanza c'è un sarcofago illuminata dalla luce naturale che viene dal soffitto.
+Al centro della stanza c'è un sarcofago illuminata dalla luce naturale che viene dal soffitto ma non c'è nessuna finestra che dà verso l'esterno
 
-Proviamo ad aprire il sarcofago ma non ci riusciamo, nel mentre Giacomo mette la testa dentro le bocche per vedere se ci si potesse entrare come abbiamo fatto per le altre stanze ma hanno tutte un muro di pietra dietro.
+Proviamo ad aprire il sarcofago ma non ci riusciamo, nel mentre Giacomo mette la testa dentro le bocche per vedere se ci si potesse entrare come abbiamo fatto per le altre stanze ma hanno tutte un muro di pietra dietro. Si sente uno strano odore di vino
 
 Massimo usa ha usato uno spell per ridurre le dimensioni del coperchio del sarcofago, al suo interno c'è un cartello di legno con scritto in comune:
 
-    Affoga i tuoi dispiaceri
+    Drown your sorrows
 
 Nel mentre che leggiamo il cartello sentiamo un movimento di pietre muoversi, e notiamo che la porta da dove stiamo entrando si sta chiudendo.
+Dalle bocche inizia ad uscire del vino, Emanuele riesce ad uscire mentre io Giacomo e Massimo decidiamo di rimanere nella stanza.
 
+Quando il vino raggiunge praticamente il mio petto notiamo delle ombre muoversi che fuoriescono dalle bocche.
+Qualcosa mi prende e mi porta giù nel vino.
+
+Giacomo riesce ad entrare in una delle bocche e si ritrova in una nuova stanza.
+
+Io e Massimo riusciamo a sconfiggere le creature che stavano tentando di affogarci, nel mentre Giacomo riesce a tirarci una corda attraverso il canale da dove passa il vino.
+All'ultimo turno di aria possibile quando la pressione era effettivamente diminuita, siamo riusciti a passare anche noi e ad arrivare alla stanza dove si trovava Giacomo
+
+![stanza dopo il vino](<assets/Screenshot 2025-01-19 02.44.12.png>)
