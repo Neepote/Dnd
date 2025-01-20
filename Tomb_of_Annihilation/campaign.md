@@ -1190,3 +1190,61 @@ Io e Massimo riusciamo a sconfiggere le creature che stavano tentando di affogar
 All'ultimo turno di aria possibile quando la pressione era effettivamente diminuita, siamo riusciti a passare anche noi e ad arrivare alla stanza dove si trovava Giacomo
 
 ![stanza dopo il vino](<assets/Screenshot 2025-01-19 02.44.12.png>)
+
+### Sunday 19/01/2025 23:10  
+
+Dopo esser stati partoriti dal vino ci ritroviamo in una stanza con un pentagramma disegnato con il sale al centro del pavimento e un sarcofago con delle statuine a forma di rana che lo adornano.
+
+Massimo usa la mano magica per cancellare un segno, spawna tham kench e mangia massimo, successivamente usa una W e si teletrasporta via.
+
+Tham kench scappa rompendo una parete e non lo vediamo più
+
+Notiamo che Giacomo si sta coprendo di una peluria ispida.
+
+Apriamo il sarcofago, al suo interno troviamo una giara di argilla, una boccia con del liquido rosso (presumibilmente una pozione di cura) e un sasso strano
+
+Io prendo il sasso, Giacomo la pozione e poi litiga con Massimo per la giara di argilla
+
+Sento una voce direttamente nella mia testa provenire dal sasso che ho raccolto, inizio a vedere dello slime che emerge dalla superficie del sasso e prende la forma di una rana.
+Con una voce gracchiante questo slime a forma di rana mi dice:
+
+    Nang-nang adesso ti aiuterà
+
+![poteri nang-nang](<assets/Screenshot 2025-01-19 23.35.29.png>)
+
+Decidiamo di andare nella stanza dove era scomparsa la rana che ha attaccato Massimo, dove troviamo un tavolino con una boccia di vetro con dentro una creatura.
+
+Sento la voce di nang-nang nella testa che mi dice
+
+    Greedy Nang-nang advises her host to cut deals with the dao benefit only the host and her
+
+Il dao a cui si sta riferendo è il genio nella boccetta.
+
+Massimo telefona al genio dentro la boccetta ma non parla il comune, Giacomo apre la boccetta.
+
+Il genio ci ringrazia per averlo liberato, ma non ci garantisce dei desideri perchè non li abbiamo contrattati.
+Prova ad usare plane shift ma qualcosa disturba l'incantesimo, il genio rimane sorpreso ma viene comunque teletrasportato da qualche parte.
+
+Continuiamo per il corridoio, dove arriviamo in una stanza dove vediamo 6 calderoni strapiendi di ossa umane ai lati della stanza.
+Al centro c'è un vecchio carro con sopra un sarcofago di bronzo ricoperto di tesori, dipinto sopra il carro si vede un uccello alto con un lungo becco.
+Dietro il carro, sulla parete della stanza vediamo uno scudo in bronzo di un guerrirero chultano con un incisione che dice
+
+    non inchinarsi di fronte a nessuno.
+
+Ai lati ci sono 4 statue di guerrireri chultani, due con la lancia, uno con la spada e uno senza faccia.
+
+Sento la voce di nang-nang nella testa
+
+    Greedy nang-nang encorages her host to grab some of the treasure from the chariot
+
+Non facci in tempo a mettere mano ai tesori che Giacomo ruba il possibile.
+
+Di fronte al carro c'è una porta con 3 zombie legati.
+
+Come Giacomo ruba i tesori gli zombie si avvicinano verso di lui, e come si allontanano da dove erano prima notiamo che erano legati a delle catene, e che più si avvicinavano verso di noi e più si apriva la porta dietro di loro.
+
+Dalle pareti escono degli scheletri
+
+Dallo scudo di bronzo si anima il disegno del guerriero chultano e lancia una lancia di forza verso di Giacomo
+
+Li sconfiggiamo tutti.
