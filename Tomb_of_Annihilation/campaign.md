@@ -1292,3 +1292,19 @@ Ci ritroviamo in un bivio e decidiamo di andare a sinistra, troviamo un cartello
 Siamo in un corridoio con due armature ferme immobili che hanno una catena magica testa che li collega e che blocca il passaggio lungo il corridoio.
 
 ![alt text](<assets/Screenshot 2025-01-26 00.55.05.png>)
+
+### Sunday 26/01/2025 21:45  
+
+Massimo non si sta fermo con le mani e oltrepassa la catena delle due armature, che però lo attaccano.
+Li distruggiamo e andiamo avanti, nel mentre notiamo che l'aspetto di giacomo continua a cambiare, gli occhi somigliano a quelli di una capra e gli spuntano anche delle corna in testa.
+
+Continuando il corridoio troviamo di fronte a noi una porta in pietra, ma decidiamo di andare a destra in una stanza dove troviamo portico di pietra con in fondo un sarcofago con dei rilievi sopra, ci sono 4 insenature con appoggiate delle maschere a forma di rana (rane diverse da quelle del piano superiore).
+A destra vediamo al centro un altare con sopra una statuetta a forma di rana con dei tentacoli al posto delle braccia, ai lati ci sono 4 affreschi che ragffigurano:
+
+1) Un gigante potente a forma di rana sta aiutando gli omuani a buttare giù una statua imponente, e in primo piano c'è una vecchia con una maschera da rana che lancia 5 monete come se stesse seminando i campi
+
+2) C'è la rana con le braccia a tentacolo che sta addosso ad un coccodrillo gigante, gli omuani trafiggono il coccodrillo con le lance, in primo piano c'è un vecchio con la maschera da rana che tiene un insetto in mano di fronte alla sua bocca
+
+3) La stessa creatura a forma di rana con i tentacoli con 4 cacciatori omuani che lo cavalcano, trovano un bambino nella giungla. In primo piano c'è una giovane donna con una maschera da rana che tiene un coltello nella mano e un pollo senza testa nell'altra.
+
+4) Il creaturo che sguazza in una pozza d'acqua mentre gli omuani gli offrono cibo e tesori come tributi. Ci sono delle crepe che oscurano la testa dell'umano in primo piano ma si nota che sta tenendo in mano delle candele.
