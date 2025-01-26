@@ -1308,3 +1308,55 @@ A destra vediamo al centro un altare con sopra una statuetta a forma di rana con
 3) La stessa creatura a forma di rana con i tentacoli con 4 cacciatori omuani che lo cavalcano, trovano un bambino nella giungla. In primo piano c'è una giovane donna con una maschera da rana che tiene un coltello nella mano e un pollo senza testa nell'altra.
 
 4) Il creaturo che sguazza in una pozza d'acqua mentre gli omuani gli offrono cibo e tesori come tributi. Ci sono delle crepe che oscurano la testa dell'umano in primo piano ma si nota che sta tenendo in mano delle candele.
+
+![alt text](<assets/Screenshot 2025-01-26 23.13.37.png>)
+
+Giacomo (invisibile) si avvicina al sarcogfago, questo è il primo sarcofago con solo i disegni di un essere sopra senza altri abbellimenti.
+
+Massimo e Giacomo aprono il sarcofago. Veniamo colpiti tutti (tranne giacomo) da un "prismatic ray" abbiamo preso tutti del danno e siamo anche gay (tranne giacomo che è invisibile)
+
+Nel sarcofago troviamo dei bracciali, e 20 delle frecci fragili dentro una faretra marcia
+
+Un obra mostruasa e tencacolare si nnalza dal sarcofago e si sente un odore paludesco per tutta la stanza, si sente una voce che dice "hai fatto bene ad evocarmi, insieme sconfiggeremo l'immortale"
+
+Massimo non riesce a farsi possedere, per questo ci prova Emanuele
+
+![kubazan](<assets/Screenshot 2025-01-26 23.05.27.png>).
+
+Ritorniamo nel corridoio di prima con la porta di pietra, notaimo delle incisioni di teschi che ridono (c'è proprio scritto ahahahahah di fianco ai teschi).
+
+Massimo apre la porta con kock (la porta era già aperta).
+
+Ci ritroviamo di fronte ad un arazzo (Emanuele: vabbè una tenda, tipo un tappeto) che mostra
+
+    una scena allegra con nobili che mangiano intorno ad un tavolo pieno di cibo, c'è un cignghiale arrosto al centro del tavolo e dei servi che versano il vino.
+
+Dietro il primo arazzo ne troviamo un secondo:
+
+    la stessa immagine di prima ma con un tema più grottesca, dove i nobili combattono tra di loro sopra il tavolo, mentre altri vomitano per terra.
+
+Emanuele supera anche il secondo arazzo e ne trova un terzo:
+
+    La scena è ancora peggio di quella di prima, dove i nobili si cibano dei servi e di loro stessi, dando fuoco alla stanza mentre il cinghiale arrosto è vivo e ride nel suo vassoio.
+
+Spostata anche questa tenda troviamo una testa marcia di un chinghiale gicante montata sul muro da cui cola del sangue fresco.
+
+Giacomo ed Emanuele vengono ammaliati, Emanuele mette la testa nelle fauci del cinghiale con Giacomo che aspetta. Proviamo a fermare almeno Giacomo ma anche lui mette la testa nel cinghiale.
+
+Dopo essersi ripreso Emanuele stacca a spadate la testa del cinghiale.
+Non soddisfatto taglia l'arazzo più vicino a se e fa lo stesso con gli altri due arazzi.
+
+Dietro la testa di cinghiale troviamo degli occhiali d'oro piegati (25gp), una benda per l'occhio adornata con una gemma (50gp) e una spilla per capelli di platino (50gp)
+
+Torniamo al corridoio iniziale dove abbiamo preso le scale, notiamo che anche in questo piano c'è una placca di bronzo
+
+    Walk through water with weapon in hand.
+    Slake your shadow at the font.
+    The vulture is the first step.
+    Right the gods.
+    The walls of history tell all.
+
+Continuiamo ad andare avanti e ci troviamo ad un bivio, dove decidiamo di andare a sinistra.
+
+Troviamo una capoccia di uno sciacallo nel muro, nella bocca notiamo una luce che fuoriesce.
+Provo a guardare attraverso le fauci del creaturo, scorgo una stanza illuminata da 4 torce messe agli angoli, con delle statue di leoni sdraiati. Al centro una scalinata che porta ad una barca dorata con sopra un sarcofago di pietra. Sulla destra noto un portello di pietra che si solleva verso il soffitto, da dove entra un nano in armatura. Fa due passi e poi viene attaccato da uno sciame di locuste che lo circondano e ch ein pochi secondi lasciano solo i resti delle sue ossa e della sua armatura per terra. Il portello si richiude.
