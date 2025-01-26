@@ -957,7 +957,7 @@ Nel mentre Massimo viene rigettato dalla maschera nella colonna, ricoperto di me
 
 Scendendo le scale continuavano ad aumentare i percorsi disponibili, perciò siamo ritornati nel piano di sopra e siamo andati a sinistra delle scale.
 
-Arriviamo in una stanza con uno scheletro animato che ha una chiave incisa nel teschio.
+Arriviamo in una stanza con uno scheletro animato che ha una chiave a forma di triangolo incisa nel teschio.
 Come ci vede inizia a scappare.
 
 Notiamo che in fondo alla stanza c'è un statua con uno scudo e della polvere marrone sotto, che sembra ruggine.
@@ -1248,3 +1248,47 @@ Dalle pareti escono degli scheletri
 Dallo scudo di bronzo si anima il disegno del guerriero chultano e lancia una lancia di forza verso di Giacomo
 
 Li sconfiggiamo tutti.
+
+### Saturday 25/01/2025 22:27  
+
+Decidiamo di fare un long rest ma veniamo interrotti da dei mostri che ci attaccano.
+
+Riusciamo a sconfiggerli con non poche difficoltà e proviamo ad aprire la bara che si trova nel carro al centro della stanza.
+Sopra il sarcofago trovaimo una collana d'oro (250gp), 3 coppe (75gp) e un Amulet of Health, prendo tutto io
+
+Dopo aver preso l'amuleto:
+
+    Strange shadows shift across the walls, forming the outline of a long-legged bird. Its beak stabs at you as a voice echoes through your mind: "You will do as I command!"
+
+La rana perde il controllo, entra l'uccello
+
+![papazotl](<assets/Screenshot 2025-01-25 23.55.34.png>)
+
+Riesco ad aprire il sarcofago, esce fuori uno scheletro con un segno di una chiave a forma di quadrato incisa nel teschio.
+
+Il teschio ci guarda ci fa il segno del chad passandosi il dito sulla mascella, e fa anche shhh quando si mette il dito per fare il gesto "muto", successivamente si richiude nella bara.
+
+Ritorniamo nel corridoio che porta verso le scale e notiamo una placca di bronzo dove troviamo scritto
+
+    The ring is a path to another tomb.
+    The dead abhor sunlight.
+    Only a jewel can tame the frog.
+    Bow as the dead god intoned.
+    Into darkness descend.
+
+Che parla quindi di tutte le cose presenti nel piano che abbiamo finito.
+
+    **spawna nanni pupu a cavallo di un allosauro (prank)**
+
+Torniamo al piano superiore per trovare una stanza dove poter riposare, ci mettiamo d'accordo per la stanza dove il personaggio vecchio di massimo è stato stuprato e poi ucciso.
+
+Decidiamo di scendere al secondo piano inferiore
+Troviamo dello sburro viola per terra che puzza di cadaveri putrefatti e ogni tanto rilascia delle spore.
+
+Ci ritroviamo in un bivio e decidiamo di andare a sinistra, troviamo un cartello con scritto:
+
+    Chi ascolta musica indiana verrà ucciso all'istante.
+
+Siamo in un corridoio con due armature ferme immobili che hanno una catena magica testa che li collega e che blocca il passaggio lungo il corridoio.
+
+![alt text](<assets/Screenshot 2025-01-26 00.55.05.png>)
