@@ -1359,4 +1359,15 @@ Torniamo al corridoio iniziale dove abbiamo preso le scale, notiamo che anche in
 Continuiamo ad andare avanti e ci troviamo ad un bivio, dove decidiamo di andare a sinistra.
 
 Troviamo una capoccia di uno sciacallo nel muro, nella bocca notiamo una luce che fuoriesce.
-Provo a guardare attraverso le fauci del creaturo, scorgo una stanza illuminata da 4 torce messe agli angoli, con delle statue di leoni sdraiati. Al centro una scalinata che porta ad una barca dorata con sopra un sarcofago di pietra. Sulla destra noto un portello di pietra che si solleva verso il soffitto, da dove entra un nano in armatura. Fa due passi e poi viene attaccato da uno sciame di locuste che lo circondano e ch ein pochi secondi lasciano solo i resti delle sue ossa e della sua armatura per terra. Il portello si richiude.
+Provo a guardare attraverso le fauci del creaturo, scorgo una stanza illuminata da 4 torce messe agli angoli, con delle statue di leoni sdraiati. Al centro una scalinata che porta ad una barca dorata con sopra un sarcofago di pietra. Sulla destra noto un portello di pietra che si solleva verso il soffitto, da dove entra un nano in armatura. Fa due passi e poi viene attaccato da uno sciame di locuste che lo circondano e che in pochi secondi lasciano solo i resti delle sue ossa e della sua armatura per terra. Il portello si richiude.
+
+### Saturday 15/02/2025 23:41  
+
+Continuiamo il corridoio che circonda le scale per scendere e salire, troviamo un nuovo bivio e decidiamo di andare a destra, dove trovaimo uno spazio stretto dove però riusciamo a passare.
+Questo cunicolo stretto però è bloccato da una lastra di metallo.
+
+![terzo piano cunicoli](<assets/Screenshot 2025-02-15 23.43.45.png>)
+
+Notiamo che la lastra di metallo può essere sollevata, Emanuele riesce a sollevarla, mettiamo dei lingotti a reggere la porta
+
+Ci ritroviamo in un nuovo corridoio dove troviamo di nuovo un passaggio stretto, che però porta ad uno strapiombo
