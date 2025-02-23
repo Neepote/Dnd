@@ -1057,7 +1057,7 @@ Facciamo uno short rest e Emanuele rompe le pale con eldritch blast, così riusc
 
 Riusciamo a sconfiggerlo e ci lascia la sua mazza, giacomo la prende ma come la tira su esce fuori una nuvola di gas a forma di scimmia che prova a prendere il controllo del suo corpo, e in questo caso ci riesce.
 
-![wongo spirit](assets/wongo-spirit.png)
+![wongo spirit](assets/spirit-wongo.png)
 
 Decidiamo di andare alla stanza sulla destra e di entrare nella bocca del teschio con le fiammelle negli occhi.
 
@@ -1086,7 +1086,7 @@ Anche in questa stanza scoperchiamo il sarcofago, al suo interno troviamo degli 
 
 Giacomo prende il bastone ed esce fuori del funo verde a forma di serpente, e anche questa volta viene posseduto
 
-![moa spirit](assets/image-1.png)
+![moa spirit](assets/spirit-moa.png)
 
 Nel prendere il controllo da quest'ultimo spirito Giacomo perde il controllo dello spirito della scimmia.
 
@@ -1210,7 +1210,7 @@ Con una voce gracchiante questo slime a forma di rana mi dice:
 
     Nang-nang adesso ti aiuterà
 
-![poteri nang-nang](<assets/Screenshot 2025-01-19 23.35.29.png>)
+![poteri nang-nang](<assets/spirit-nangnang.png>)
 
 Decidiamo di andare nella stanza dove era scomparsa la rana che ha attaccato Massimo, dove troviamo un tavolino con una boccia di vetro con dentro una creatura.
 
@@ -1262,7 +1262,7 @@ Dopo aver preso l'amuleto:
 
 La rana perde il controllo, entra l'uccello
 
-![papazotl](<assets/Screenshot 2025-01-25 23.55.34.png>)
+![papazotl](<assets/spirit-papazotl.png>)
 
 Riesco ad aprire il sarcofago, esce fuori uno scheletro con un segno di una chiave a forma di quadrato incisa nel teschio.
 
@@ -1321,7 +1321,7 @@ Un obra mostruasa e tencacolare si nnalza dal sarcofago e si sente un odore palu
 
 Massimo non riesce a farsi possedere, per questo ci prova Emanuele
 
-![kubazan](<assets/Screenshot 2025-01-26 23.05.27.png>).
+![kubazan](<assets/spirit-kubazan.png>).
 
 Ritorniamo nel corridoio di prima con la porta di pietra, notaimo delle incisioni di teschi che ridono (c'è proprio scritto ahahahahah di fianco ai teschi).
 
@@ -1370,4 +1370,39 @@ Questo cunicolo stretto però è bloccato da una lastra di metallo.
 
 Notiamo che la lastra di metallo può essere sollevata, Emanuele riesce a sollevarla, mettiamo dei lingotti a reggere la porta
 
-Ci ritroviamo in un nuovo corridoio dove troviamo di nuovo un passaggio stretto, che però porta ad uno strapiombo
+Ci ritroviamo in un nuovo corridoio dove troviamo di nuovo un passaggio stretto, che però porta ad uno strapiombo.
+
+### Sunday 23/02/2025 22:19  
+
+Continuiamo per il corridoio dove c'era anche il passaggio stretto verso lo strapiombo, alla fine del corridoio vediamo un buco.
+Attraverso il buco vediamo che il fondo della stanza sotto di noi è concavo.
+
+Massimo fa arrabbiare Giacome e per queto viene scaraventato nel buco.
+
+Massimo si ritrova in una stanzina con una porta di pietra, nelle mura ci sono dei disegni di demoni con delle fiammelle accese negli occhi, le fiamme sono magiche.
+
+Emanuele (come erwin di attack on titan) ci spinge tutti nel buco.
+
+La stanza inizia a girare non appena cadiamo nel pavimento, prendendola a pugni siamo riusci ad aprirla ma nel mentre abbiamo subito molti danni magici per effetti della stanza.
+
+Nella stanza successiva vediamo una fossa di 4,5 metri con una chest al centro e un cristiano di 2,5 metri di argilla immobile, con al collo una chiave d'argento.
+
+Ai lati del fosso ci sono due statue su di un piedistallo, quella s inistra raffigura un uomo incappucciato barbuto che indica il cielo, quella a destra rappresenta un guerriero in armatura che dona il cuore in direzione della porta.
+
+All'opposto della porta da cui entriamo c'è un piedistallo vuoto.
+
+Alla nostra destra c'èe anche un corridoio per andare da qualche altra parte.
+
+Io e massimo siamo ciechi per un effetto della stanza precedente, Massimo vola a caso per la stanza e tenta di trovare qualcosa a cui appoggiarsi.
+Massimo decide di evocare un'aquila come famiglio per aiutarlo a vedere, Giacomo decide di andare nel piedistallo vuoto e donare il suo cuore a tutti noi.
+
+Notiamo che ai piedi delle statue ci sono dei meccanismi, Emanuele si avvicina alla statua del vecchio e la prova a girare in senso orario a 45 gradi.
+Così facendo giacomo e massimo (che si era spostato anche lui sul piedistallo vuoto), vengono teletrasportati dove si trova il mostro, noi non possiamo raggiungerli perchè c'è un avimento invisibile sopra la testa del mostro.
+
+Emanuele prova a girare la statua del soldato, invece di far salire uno tra Giacomo, Massimo o l'aquila sale il mostro.
+
+Nel mentre Massimo e Giacomo aprono la cheste e vedono due occhi di vetro, unno rosa e uno verde chiaro, le toccano e notano che sonon magiche.
+
+Riesco a sconfiggere il mostro da solo perchè Emanuele è morto subito e gli altri sono rimasti incastrati sotto.
+
+Facciamo uno short rest
