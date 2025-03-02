@@ -1406,3 +1406,63 @@ Nel mentre Massimo e Giacomo aprono la cheste e vedono due occhi di vetro, unno 
 Riesco a sconfiggere il mostro da solo perchè Emanuele è morto subito e gli altri sono rimasti incastrati sotto.
 
 Facciamo uno short rest
+
+### Saturday 01/03/2025 23:59  
+
+Giacomo si è ufficislmente un sardo (uomo capra)
+
+Nel mentre si aio che Massimo siamo ancora ciechi.
+
+Proseguiamo per il corridoio e ci ritroviamo di fronte ad una porta
+
+Nella porta c'è un grosso specchio circolare con degli slot nella cornice, in totale 10
+
+Inseriamo gli occhi che abbiamo trovato nella stanza precedente in due slot, nello specchio le nostre figure inizano ad invecchiare
+
+Siccome non riusciamo a capire cosa fare Giacomo decide di provare a rompere lo specchio, non succede nulla.
+
+Decidiamo di tornare indietro nelle stanze dove eravamo prima, nel primo bivio prima delle scale andiamo a sinistra invece che a destra come avevamo fatto prima.
+
+CI ritroviamo in una stanza con dell'acqua per terra e nelle pareti dei mulrales di umanoidi con la testa di animale, tutti in armatura che sorreggono un'arma, non disegnata ma fisicamente appesa alle pareti, in totale ci sono 6 armi.
+
+Da un lato
+
+1) C'è un uomo con la testa da cicogna che ha in mano un'ascia e le gambe divaricate
+2) Una donna con la testa da lucertola con una mazza
+3) Un uomo con la testa di una pantera con una cerbottana
+
+Dall'altro
+
+1) Una donna con la testa di falco disarmata
+2) Un uomo con la testa di capra con un falcetto
+3) Una donna con la testa da rana con un tridente
+
+Le figure si trovano una di fronte all'altra
+
+Tutte le armi sono mezze arrugginite
+
+Alla fine del corridoio c'è un muro di acqua che copre la parete
+
+Proviamo a dare alla tizia senza armi l'arma del tizio con la testa da capra, mentre giacomo da a quello con la testa da capra la mazza che lo ha trasformato in capra.
+
+Non succede nulla.
+
+In uno dei muri della stanza vediamo un'insenatura dove riusciamo a passare, ci ritroviamo in una stanza piccola. Facciamo un long rest.
+
+Continuiamo ad andare avanti ci ritroviamo in un balcone molto piccolo con una torcia e una statua alta 15 piedi raffigurante di un demone alato che sta con i pugni chiusi come Laurence Fishburne in matrix.
+
+Massimo poggia le palle nelle mani del demone e viene castrato per sempre
+
+Ci affacciamo dal balcone e notiamo delle piattaforme circolari in legno che fluttuano.
+
+![piattaforme che fluttuano](<assets/Screenshot 2025-03-02 01.27.23.png>)
+
+Massimo siccome può volare passa sopra le piattaforme. Alla fine della stanza trova una leva e la tira.
+Come la tira la leva, la statua del demone apre una delle mani rivelando un occhio come quelli trovati nella stanza con il mostro di argilla.
+Però una folata di vento fortissima ritira su la leva e vaccina Emanuele e Massimo (sono autistici per 8 minuti)
+
+Giacomo decide di saltare sulle piattaforme e raggiungere Massimo, riusciamo a coordinarci e a prendere l'occhio nella mano della statua, ma una folata di vento magico di colpisce di nuovo e mentre io non ne subisco gli effetti Giacomo viene colpito e gli altri hanno una nuova condizione che li affligge.
+
+Giacomo è incapacitato e urla (capra urlante)
+Emanuele spende le sue azioni per menare la persona più vicina a lui (me, perchè Giacomo e Massimo si trovano nell'altro balcone)
+Massimo è allucinato e ha svantaggio agli ability checks
