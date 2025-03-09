@@ -54,6 +54,17 @@ _in inglese_:
 
     All the while, Unkh the flail snail lived deep under the earth. The noise of the other animals fighting made her slither up to the surface, and when day dawned over her shell, the light blinded Ubtao and made his eyes water. Life returned to Omu, and the people built shrines honor the the animals who’d saved them.
 
+| divinita | specie | similitudine |
+|--|--|--|
+|Obo'laka | zorbo| koala|
+|I'jin|almiraj|coniglio cornuto|
+|Shagambi|kamadan|leopardo|
+|nang-namg|grung|rana|
+|kubazan|froghemoth|rana grossa|
+|papazotl|eblis|cicogna|
+|moa|jaculi|serpente|
+|wongo|su-monster|scimmia|
+
 Il __-V__ che ha scritto il messaggio nel bagno è un tizio di una spedizione collegata a quella di Orbex, Erik purtroppo è morto.
 
 Anche il nome Moa era presente nei graffiti del bagno, probabilmente il punto interrogativo sarà qualcosa di collegato a "Moa the jaculi was to honest to lie"  Moa=Honesty?  
@@ -63,10 +74,10 @@ Anche Unkh è nella storia.
 Cambiamo zona
 
 #### zona 3
+
 Notiamo una piscina rettangolare piena di acqua melmosa, dovebbe essere un tempio, al centro c'è un pilastro con un volto simile a quello di una rana.
 
 ![piscina](./assets/WhatsApp%20Image%202022-09-30%20at%2023.17.31.jpeg)
-
 
 Ci avviciniamo al tempio, la porta è chiusa a chiave, c'è una scritta:
 
@@ -1458,11 +1469,34 @@ Ci affacciamo dal balcone e notiamo delle piattaforme circolari in legno che flu
 ![piattaforme che fluttuano](<assets/Screenshot 2025-03-02 01.27.23.png>)
 
 Massimo siccome può volare passa sopra le piattaforme. Alla fine della stanza trova una leva e la tira.
-Come la tira la leva, la statua del demone apre una delle mani rivelando un occhio come quelli trovati nella stanza con il mostro di argilla.
+Come tira la leva, la statua del demone apre una delle mani rivelando un occhio come quelli trovati nella stanza con il mostro di argilla.
 Però una folata di vento fortissima ritira su la leva e vaccina Emanuele e Massimo (sono autistici per 8 minuti)
 
-Giacomo decide di saltare sulle piattaforme e raggiungere Massimo, riusciamo a coordinarci e a prendere l'occhio nella mano della statua, ma una folata di vento magico di colpisce di nuovo e mentre io non ne subisco gli effetti Giacomo viene colpito e gli altri hanno una nuova condizione che li affligge.
+Giacomo decide di saltare sulle piattaforme e raggiungere Massimo, riusciamo a coordinarci e a prendere l'occhio nella mano della statua, ma una folata di vento magico ci colpisce di nuovo e mentre io non ne subisco gli effetti Giacomo viene colpito e gli altri hanno una nuova condizione che li affligge.
 
 Giacomo è incapacitato e urla (capra urlante)
 Emanuele spende le sue azioni per menare la persona più vicina a lui (me, perchè Giacomo e Massimo si trovano nell'altro balcone)
 Massimo è allucinato e ha svantaggio agli ability checks
+
+### Sunday 09/03/2025 22:54  
+
+Emanuele mi mena, provo a scappare entrando nel muro con lo spell "meld into stone" ma non riesco ad entrare, provo anche a buttarlo di sotto ma non riesco a farlo cadere. Per questo gli tiro una fireball addosso così prende danno e si sveglia.
+
+Ritornano anche Massimo e Giacomo dall'altra parte del corridoio dove c'era la leva
+
+Andiamo di nuovo nella stanza con l'acqua e le armi appese alle pareti.
+
+Dopo un po' di discorsi Giacomo decide di prendere il tridente e di provare ad oltrepassare il muro di acqua, e riesce
+
+Decidiamo di prendere anche noi le armi
+Massimo si mette la cerbottana nell'uretra
+Emanuele si prende l'ascia
+Io mi prendo il falcetto
+
+Non riusciamo a passare.
+
+Giacomo ritorna indietro e fa passare con se Massimo.
+Si ritrovano in una stanza identica a quella precedente ma speculare, inclusa anche l'insenatura / corridoio stretto dove eravamo andati prima.
+DI fatti decidono di andare nel corridoio stretto, andando avanti giacomo gira un angolo, mentre massimo che si trova dietro di lui vede una porta chiudersi di fronte a se, usando misty step decide di teletrasportarsi su di Giacomo.
+
+L'intera stanza gira e la porta da dove sono entrati non è più visibile, non riescono ad andare ne avanti ne indietro.
