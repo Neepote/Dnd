@@ -1328,7 +1328,7 @@ Massimo e Giacomo aprono il sarcofago. Veniamo colpiti tutti (tranne giacomo) da
 
 Nel sarcofago troviamo dei bracciali, e 20 delle frecci fragili dentro una faretra marcia
 
-Un obra mostruasa e tencacolare si nnalza dal sarcofago e si sente un odore paludesco per tutta la stanza, si sente una voce che dice "hai fatto bene ad evocarmi, insieme sconfiggeremo l'immortale"
+Un obra mostruosa e tencacolare si nnalza dal sarcofago e si sente un odore paludesco per tutta la stanza, si sente una voce che dice "hai fatto bene ad evocarmi, insieme sconfiggeremo l'immortale"
 
 Massimo non riesce a farsi possedere, per questo ci prova Emanuele
 
@@ -1552,4 +1552,8 @@ Come fa qualche passo in più viene divorato dalle locuste, come il nano.
 Notiamo che una delle locuste disegnate nella porta è un po' diversa dalle altre, la premo e la porta si apre.
 
 Emanuele va anti al primo tassello, quello dell'avvoltoio, nel mentre cerca nelle tasche del nano morto e trova due occhi (dark blue and vibrant purlple).
+
+Abbiamo 7 occhi.
+
+
 
