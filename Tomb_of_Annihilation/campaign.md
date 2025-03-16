@@ -1551,3 +1551,5 @@ Come fa qualche passo in più viene divorato dalle locuste, come il nano.
 
 Notiamo che una delle locuste disegnate nella porta è un po' diversa dalle altre, la premo e la porta si apre.
 
+Emanuele va anti al primo tassello, quello dell'avvoltoio, nel mentre cerca nelle tasche del nano morto e trova due occhi (dark blue and vibrant purlple).
+
