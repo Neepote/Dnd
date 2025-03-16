@@ -1447,7 +1447,6 @@ Dall'altro
 1) Una donna con la testa di falco disarmata
 2) Un uomo con la testa di capra con un falcetto
 3) Una donna con la testa da rana con un tridente
-
 Le figure si trovano una di fronte all'altra
 
 Tutte le armi sono mezze arrugginite
@@ -1500,3 +1499,55 @@ Si ritrovano in una stanza identica a quella precedente ma speculare, inclusa an
 DI fatti decidono di andare nel corridoio stretto, andando avanti giacomo gira un angolo, mentre massimo che si trova dietro di lui vede una porta chiudersi di fronte a se, usando misty step decide di teletrasportarsi su di Giacomo.
 
 L'intera stanza gira e la porta da dove sono entrati non è più visibile, non riescono ad andare ne avanti ne indietro.
+
+![foto](<assets/Screenshot 2025-03-15 23.15.06.png>)
+
+### Saturday 15/03/2025 23:31  
+
+Proviamo ad usare dispell magic per togliere l'incantesimo dalla porta d'acqua ma l'incantesimo non si rompe.
+Emanuele casta la sua pact weapon e li dà la forma di un tridente, riusciamo a passare.
+
+Esploriamo i corridoi più avanti
+
+![corridoio avanti](assets/image-1.png)
+
+Decidiamo di entrare nella stanza poco più avanti, troviamo una mia copia zombie di fronte ad un calderone di zuppa.
+
+Siccome la mia copia mimica tutti i miei movimenti gli faccio bere tutta la zuppa, e nel fondo troviamo un nuovo occhio (orancioni)
+
+Siamo a 4 occhi.
+
+Andiamo nel corridoio stretto prima della stanza (dove Giacomo e Massimo sono rimasti intrappolati) e vediamo un nuovo tunnel con al centro della stanza un cadavere
+
+Il cadavere non ha armatura, ha con se però una yklwa (tipica arma chultana), uno zaino e una pochette. Ha delle vesti (scarsella) con un simbolo giallo ricamato.
+
+CI avviciniamo e controlliamo cosa ha negli zaini e nella pochette, troviamo un occhio (rosso)
+
+Abbiamo 5 occhi.
+
+Andiamo avanti per il corridoio, calpestiamo anche noi una pressure plate e si gira la stanza, adesso Giacomo e Massimo sono liberi e vanno avanti per il corridoio
+
+Massimo incuriosito da cosa ci fosse nella stanza quando girava evoca un cammello per calpestare la trappola, liberandoci.
+
+Andiamo avanti e ritorniamo alla fine del corridoio che avevamo già esplorato io ed Emanuele.
+
+Ci ritroviamo di fronte ad un blocco di pietra raffigurante un uomo con la testa di sciacallo alto 7 piedi con un medaglione d'oro circolare al collo, il gioiello è incastonato nel muro.
+Intorno alla figura ci sono incisioni di locuste.
+
+Nel medaglione della collana c'è raffigurata la testa di un demone con la bocca aperta.
+Attraverso la bocca si vede una superficie rocciosa con inciso un geroglifico di un avvoltoio
+
+Massimo prova a rubare la collana ma non riesce, fa knock sulla porta e riesce ad aprirla.
+
+![stanza](assets/image-3.png)
+
+Nella stanza sopra il sarcofago vediamo uno scheletro seduto che scalcia le gambe e notiamo che ha il simbolo di una chiave sul teschio.
+
+Ci ricordiamo che nella placca all'inizio del piano c'è scritto che l'avvoltoio è il primo passo.
+
+Massimo evoca di nuovo il cammello e lo fa andare avanti alla stanza. La porta si chiude dietro di lui.
+
+Come fa qualche passo in più viene divorato dalle locuste, come il nano.
+
+Notiamo che una delle locuste disegnate nella porta è un po' diversa dalle altre, la premo e la porta si apre.
+
