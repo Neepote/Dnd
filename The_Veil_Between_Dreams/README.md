@@ -15,12 +15,12 @@ Michele Foresta (Lorenzo) · Lanciolo (Marco) · Pantheon (Giacomo) · Piero (Ma
 - [Mondo e lore](./mondo.md)
 
 ## Prossimi passi
-- [ ] Parlare con [Taverin](./personaggi.md#taverin) dei nomi scomparsi nel registro
-- [ ] Andare al [magazzino sulla riva occidentale di Ordelis](./luoghi.md#magazzino-riva-occidentale)
+- [ ] Parlare con [Tavrin](./personaggi.md#tavrin-stonebell) dei nomi scomparsi nel registro
+- [ ] Andare al [magazzino sud-est di Ordelis](./luoghi.md#magazzino-sud-est)
 - [ ] Piero (Massimo) deve ancora riprendere i sensi
 
 ## Riassunto finora
 | Sessione | Data | Cosa è successo |
 |---|---|---|
-| [1](./sessioni.md#sessione-1--11102026) | 11/10/2026 | Imboscata dei banditi, salviamo Taverin, seguiamo la mappa fino alla grotta |
+| [1](./sessioni.md#sessione-1--11102026) | 11/10/2026 | Imboscata dei banditi, salviamo Tavrin, seguiamo la mappa fino alla grotta |
 | [2](./sessioni.md#sessione-2--17102026) | 17/10/2026 | Ripuliamo la grotta, troviamo Massimo, sconfiggiamo la capobanda, saliamo di livello e troviamo i documenti col sigillo dell'incudine |

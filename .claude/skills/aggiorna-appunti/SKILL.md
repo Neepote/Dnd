@@ -34,7 +34,7 @@ Se un file manca, crealo seguendo lo stesso stile. Il `README.md` alla radice de
 2. **Riordina `sessioni.md`.**
    - Aggiungi `## Sessione N — data` e un `> **In breve:**` di 1–2 frasi. Aggiungi la sessione anche all'elenco in cima al file, e metti `<hr>` tra una sessione e l'altra.
    - Correggi **solo** i refusi evidenti e le maiuscole dei nomi propri. Tieni tono, battute e contenuti dell'utente così come sono, anche quelli volgari.
-   - Alla prima menzione in ogni sottosezione, rendi link i PNG, i luoghi e gli indizi che hanno una scheda (es. `[Taverin](./personaggi.md#taverin)`).
+   - Alla prima menzione in ogni sottosezione, rendi link i PNG, i luoghi e gli indizi che hanno una scheda (es. `[Tavrin](./personaggi.md#tavrin-stonebell)`).
    - Nel diario l'utente usa i nomi dei **giocatori**: non sostituirli con quelli dei personaggi.
 
 3. **Propaga nelle schede.** Per ogni PNG, luogo, oggetto o informazione nuova:
@@ -53,7 +53,7 @@ Se un file manca, crealo seguendo lo stesso stile. Il `README.md` alla radice de
    ```
    `ROTATE_90` = 90° antiorario, `ROTATE_270` = orario. Dopo la rotazione riapri l'immagine per verificarla. Ogni immagine va referenziata con `![nome](./immagini/file)` nel punto giusto del diario o della scheda.
 
-6. **Verifica i link.** Ogni `#ancora` deve corrispondere a un titolo esistente. Le ancore vanno in minuscolo, la punteggiatura (anche parentesi, `/` e `:`) si toglie, gli spazi diventano `-` e le lettere accentate restano. Esempi: `## Sessione 3 — 24/10/2026` → `#sessione-3--24102026`, `#### Magazzino (riva occidentale)` → `#magazzino-riva-occidentale`.
+6. **Verifica i link.** Ogni `#ancora` deve corrispondere a un titolo esistente. Le ancore vanno in minuscolo, la punteggiatura (anche parentesi, `/` e `:`) si toglie, gli spazi diventano `-` e le lettere accentate restano. Esempi: `## Sessione 3 — 24/10/2026` → `#sessione-3--24102026`, `#### Magazzino sud-est` → `#magazzino-sud-est`.
 
 7. **Riepiloga e chiedi.** Mostra all'utente un elenco breve: cosa hai aggiunto, i nomi incerti (es. grafie diverse tra appunti e mappa) e le cose che non sei riuscito ad attribuire. Fai `git commit` **solo** se l'utente lo chiede. Non fare mai push.
 

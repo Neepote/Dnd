@@ -17,11 +17,11 @@ Nel [diario](./sessioni.md) i personaggi sono spesso chiamati con il nome del gi
 
 ## PNG incontrati
 
-[Taverin](#taverin) (mercante) · [Capo dei banditi](#capo-dei-banditi) (morta) · [Il patrono](#il-patrono) (sconosciuto) · [Principe Edrin](#principe-edrin) (addormentato)
+[Tavrin Stonebell](#tavrin-stonebell) (mercante) · [Capo dei banditi](#capo-dei-banditi) (morta) · [Il patrono](#il-patrono) (sconosciuto) · [Principe Edrin](#principe-edrin) (addormentato)
 
-### Taverin
+### Tavrin Stonebell
 Mercante assalito dai banditi sulla strada per [Ordelis](./luoghi.md#ordelis); lo abbiamo salvato e ci ha invitato alla taverna [Golden Rose](./luoghi.md#golden-rose).
-- Compare nel [registro dei carichi](./indizi.md#registro-dei-carichi): carico di tessuti e gioielli, da Nimoril a Ordelis, stato "passaggio terza luna".
+- Compare nel [registro dei carichi](./indizi.md#registro-dei-carichi): carico di tessuti e gioielli, da Nymorill, rotta Letharis ↔ Ordelis, stato "Prossimo passaggio 3a luna".
 - **Da fare:** chiedergli se riconosce qualcuno dei nomi scomparsi nel registro.
 
 ### Capo dei banditi

@@ -23,16 +23,16 @@ Il fiume che divide i due regni. Il Trattato di Ordelis è stato firmato sulle s
 ### Ordelis
 La città di mezzo tra i due regni, sulle rive del Kaldoria, la nostra destinazione iniziale. L'ha fatta costruire re Aldric di Arathen sul luogo del Trattato di Ordelis, come monumento alla pace dopo 30 anni di guerra.
 
-#### Magazzino (riva occidentale)
-Destinazione indicata nell'istruzione di consegna del carico trovata nella sacca della capobanda. **Da visitare.**
+#### Magazzino sud-est
+Destinazione indicata nella [lettera del corriere](./indizi.md#lettera-del-corriere) trovata nella sacca della capobanda, per il prossimo carico n 1473. **Da visitare.**
 
-### Nimoril
-Città di provenienza di [Taverin](./personaggi.md#taverin).
+### Nymorill
+Città di provenienza di [Tavrin](./personaggi.md#tavrin-stonebell).
 
 ## Altri luoghi
 
 ### Golden Rose
-Taverna in direzione di Ordelis, dove Taverin ci ha invitato.
+Taverna in direzione di Ordelis, dove Tavrin ci ha invitato.
 
 ### Grotta dei banditi
 Indicata dalla X rossa sulla [mappa trovata da Giacomo](./indizi.md#mappa-con-la-x-rossa): in Arathen, nei boschi poco a sud-ovest di Ithravos, vicino al Kaldoria e a nord-est di Ordelis. All'ingresso un accampamento con il fuoco spento; dentro un tunnel che curva, cani da guardia, 3 gabbie (in una c'era Massimo) e una grande stanza con i banditi e la loro capa. Ripulita nella sessione 2.

@@ -9,7 +9,7 @@
 
 ## Sessione 1 — 11/10/2026
 
-> **In breve:** imboscata dei banditi sulla strada per Ordelis, salviamo il mercante Taverin, troviamo una mappa con una X rossa e la seguiamo fino a una grotta.
+> **In breve:** imboscata dei banditi sulla strada per Ordelis, salviamo il mercante Tavrin, troviamo una mappa con una X rossa e la seguiamo fino a una grotta.
 
 ### Sunday 11/10/2026 23:19
 
@@ -21,7 +21,7 @@ Combattiamo.
 ### Monday 12/10/2026 00:16
 
 Riusciamo con non poca fatica a sconfiggere i banditi, un mercante esce fuori spaventato da sotto il carro.
-Il mercante si chiama [Taverin](./personaggi.md#taverin), ci invita in una taverna che si chiama [Golden Rose](./luoghi.md#golden-rose), proprio in direzione di Ordelis.
+Il mercante si chiama [Tavrin](./personaggi.md#tavrin-stonebell), ci invita in una taverna che si chiama [Golden Rose](./luoghi.md#golden-rose), proprio in direzione di Ordelis.
 
 Giacomo trova in un cadavere un bigliettino contenente una mappa di Arathen con una x rossa segnata sopra.
 
@@ -70,8 +70,8 @@ Marco palpa il capo dei banditi e trova una sacca di cuoio con un lucchetto.
 
 Al suo interno trova un [registro](./indizi.md#registro-dei-carichi) con scritto dentro (con una grafia di Arathen) una lista di 17 persone ordinata da dei nomi, delle città, nota di carico, una rotta e uno stato.
 
-Scorrendo la lista si nota un nome familiare, Taverin:
-come carico tessuti e gioielli, città Nimoril, rotta da Nimoril a Ordelis,
+Scorrendo la lista si nota un nome familiare, [Tavrin](./personaggi.md#tavrin-stonebell):
+come carico tessuti e gioielli, città Nymorill, rotta da Letharis a Ordelis,
 come stato (passaggio terza luna).
 
 Nella lista ci sono anche 5 nomi contrassegnati come scomparsi.
@@ -79,21 +79,29 @@ Altri due con invece scritto "visto".
 
 Alla fine del registro c'è un timbro con un simbolo di un'[incudine e una spada spezzata](./indizi.md#sigillo-incudine-e-spada-spezzata).
 
+![registro_dei_carichi](./immagini/registro_dei_carichi.jpeg)
+
 Nella sacchetta troviamo anche una [lettera di un corriere](./indizi.md#lettera-del-corriere) senza un destinatario, contiene una sola riga:
 
     il patrono dice che non abbiamo finito finché il fiume non scorrerà rosso.
 
-C'è anche un'istruzione di consegna per il carico in un [magazzino nella riva occidentale di Ordelis](./luoghi.md#magazzino-riva-occidentale).
+C'è anche un'istruzione di consegna per il carico in un [magazzino sud-est di Ordelis](./luoghi.md#magazzino-sud-est).
 
 Nella lettera c'è lo stesso sigillo/timbro.
+
+![lettera_del_corriere](./immagini/lettera_del_corriere.jpeg)
 
 Nella sacca troviamo ancora un ultimo foglietto con alcuni numeri, guardando meglio sembrano essere un [registro di pagamenti](./indizi.md#registro-dei-pagamenti) perché ci sono i simboli della valuta vicino.
 Le cifre sembrano essere particolarmente alte per dei lavori di brigantaggio.
 La grafia è la stessa di chi ha scritto il registro.
 
+![registro_dei_pagamenti](./immagini/registro_dei_pagamenti.jpeg)
+
 Guardando meglio il registro vediamo che tutte le città di provenienza sono nel regno di [Velmora](./luoghi.md#velmora).
 
 ### Sunday 18/10/2026 00:26
 
-L'idea è di andare verso Taverin per chiedergli qualcosa riguardo la lista di nomi, nello specifico se riconosce qualcuno degli scomparsi.
+L'idea è di andare verso Tavrin per chiedergli qualcosa riguardo la lista di nomi, nello specifico se riconosce qualcuno degli scomparsi.
 Successivamente potremmo andare al magazzino.
+
+#tavr
