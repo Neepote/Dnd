@@ -4,6 +4,7 @@
 
 - [Sessione 1 — 11/10/2026](#sessione-1--11102026)
 - [Sessione 2 — 17/10/2026](#sessione-2--17102026)
+- [Sessione 3 — 24/10/2026](#sessione-3--24102026)
 
 <hr>
 
@@ -11,23 +12,23 @@
 
 > **In breve:** imboscata dei banditi sulla strada per Ordelis, salviamo il mercante Tavrin, troviamo una mappa con una X rossa e la seguiamo fino a una grotta.
 
-### Sunday 11/10/2026 23:19
+### Domenica 11/10/2026 23:19
 
 Ciascuno di noi (tranne Massimo perché è un viandante che viene dall'estero) si sta recando a [Ordelis](./luoghi.md#ordelis) che è la città di mezzo tra i due regni.
 
 La nostra strada viene bloccata da dei banditi.
 Combattiamo.
 
-### Monday 12/10/2026 00:16
+### Lunedì 12/10/2026 00:16
 
 Riusciamo con non poca fatica a sconfiggere i banditi, un mercante esce fuori spaventato da sotto il carro.
-Il mercante si chiama [Tavrin](./personaggi.md#tavrin-stonebell), ci invita in una taverna che si chiama [Golden Rose](./luoghi.md#golden-rose), proprio in direzione di Ordelis.
+Il mercante si chiama [Tavrin](./personaggi.md#tavrin-stonebell), ci invita in una taverna che si chiama [Rosa Dorata](./luoghi.md#rosa-dorata), proprio in direzione di Ordelis.
 
 Giacomo trova in un cadavere un bigliettino contenente una mappa di Arathen con una x rossa segnata sopra.
 
 ![bigliettino_trovato_in_un_cadavere](./immagini/bigliettino_trovato_in_un_cadavere.jpeg)
 
-### Monday 12/10/2026 00:42
+### Lunedì 12/10/2026 00:42
 
 Decidiamo di muoverci verso la x rossa nella mappa.
 Arriviamo di fronte ad una [grotta](./luoghi.md#grotta-dei-banditi), dove troviamo quello che sembra una specie di accampamento con un fuoco da campo ormai spento da un po'.
@@ -41,10 +42,10 @@ Si nota un tunnel per ancora un bel po' di metri più avanti, inoltre il tunnel 
 
 > **In breve:** ripuliamo la grotta dei banditi, troviamo Massimo in una gabbia, sconfiggiamo la capobanda e saliamo di livello. Nella sua sacca: un registro di carichi e persone scomparse, una lettera del "patrono" e un registro di pagamenti, tutti con il sigillo dell'incudine e spada spezzata.
 
-### Saturday 17/10/2026 22:15
+### Sabato 17/10/2026 22:15
 
 Ci addentriamo nella caverna ed escono dei cani che ci attaccano.
-Dopo averli battuti (uno di questi scappa prima della fine del fight) continuiamo per quello che sembra essere l'accampamento dei banditi.
+Dopo averli battuti (uno di questi scappa prima della fine del combattimento) continuiamo per quello che sembra essere l'accampamento dei banditi.
 
 Troviamo 3 gabbie, in una di queste troviamo un elfo con le braghe calate e l'ano prolassato privo di sensi.
 
@@ -63,7 +64,7 @@ Curiosamente era pulito.
 
 Ci attaccano.
 
-### Saturday 17/10/2026 23:25
+### Sabato 17/10/2026 23:25
 
 Riusciamo a battere tutti i banditi e **saliamo di livello**.
 Marco palpa il capo dei banditi e trova una sacca di cuoio con un lucchetto.
@@ -99,9 +100,50 @@ La grafia è la stessa di chi ha scritto il registro.
 
 Guardando meglio il registro vediamo che tutte le città di provenienza sono nel regno di [Velmora](./luoghi.md#velmora).
 
-### Sunday 18/10/2026 00:26
+### Domenica 18/10/2026 00:26
 
 L'idea è di andare verso Tavrin per chiedergli qualcosa riguardo la lista di nomi, nello specifico se riconosce qualcuno degli scomparsi.
 Successivamente potremmo andare al magazzino.
 
-#tavr
+<hr>
+
+## Sessione 3 — 24/10/2026
+
+> **In breve:** Massimo si sveglia, entriamo a Ordelis e troviamo Tavrin alla Rosa Dorata: conosceva Gorvin Swiftwinds, uno degli scomparsi, e ci dice che da un po' i velmoriani vengono rapiti durante le tratte. Il nobile Khaelan ci chiede di ritrovare il mercante Derrin Vale e ci indica Tharvian Othryndor per saperne di più sul sigillo.
+
+### Sabato 24/10/2026 23:15
+
+Massimo si sveglia e nel mentre che parliamo scende la notte, ci incamminiamo verso [Ordelis](./luoghi.md#ordelis).
+Mentre entriamo in città veniamo fermati dalle guardie giusto per dei controlli, sembravano quasi riconoscere Marco.
+Chiediamo alle guardie come arrivare alla [Rosa Dorata](./luoghi.md#rosa-dorata) e gentilmente ce lo indicano.
+Giacomo appena entrati urla chiedendo di [Tavrin](./personaggi.md#tavrin-stonebell).
+Vediamo l'halfling che sta bevendo la sua quinta birra, come ci vede ci offre da bere e parla di noi ai suoi amici nella taverna.
+
+Parlando con Tavrin ci dice che conosceva una delle persone scomparse, [Gorvin Swiftwinds](./personaggi.md#gorvin-swiftwinds), e aggiunge che è da un po' che i velmoriani vengono rapiti durante le tratte commerciali.
+Anche Gorvin vendeva tessuti, per questo si conoscevano.
+Inoltre Tavrin ha detto che le cifre segnate sul [foglio](./indizi.md#registro-dei-pagamenti) sono troppo grandi per essere prese solo dai carichi delle persone scomparse.
+
+Andiamo a dormire.
+
+### Sabato 24/10/2026 23:54
+
+Uscendo dalle stanze un tizio ci ferma.
+Un umano che sembra provenire da una famiglia nobile.
+Si chiama [Khaelan](./personaggi.md#khaelan). Ci vuole ingaggiare per ritrovare un mercante che ha una sacca sigillata con un carico importante per il suo patrono. Il mercante da trovare si chiama [Derrin Vale](./personaggi.md#derrin-vale).
+Sarebbe dovuto arrivare ad una [torre](./luoghi.md#torre-a-nord-di-ordelis) che usano spesso i mercanti che si trova a nord di Ordelis.
+L'ultimo posto dove dovrebbe essere arrivato è una [torre a sud ovest di Ithravos](./luoghi.md#torre-a-sud-ovest-di-ithravos).
+
+Aprire il pacco porterà a conseguenze, il suo padrone è molto potente.
+
+Accettiamo l'incarico.
+
+Chiediamo anche del [simbolo](./indizi.md#sigillo-incudine-e-spada-spezzata) e ci dice che un certo [il](./personaggi.md#tharvian-othryndor) potrebbe dirci qualcosa in più a riguardo, che è uno dei leader delle 3 casate di Arathen.
+
+Pensandoci mi ricordo che Tharvian è il cancelliere del re nanico, ed è una delle persone più influenti nel regno e fa parte della famiglia Othrindel.
+Probabilmente potremmo parlare con lui nella corte reale, potrebbe trovarsi sia ad [Ordelis](./luoghi.md#ordelis) che nella capitale dei nani [Vaeroth](./luoghi.md#vaeroth).
+
+Prima di cercare Derrin decidiamo comunque di incamminarci verso i [magazzini a sud est di Ordelis](./luoghi.md#magazzino-sud-est).
+
+Fermando un tizio per strada ci dice che c'è un magazzino poco fuori di lì che però è considerato abbandonato, ci avviciniamo lì.
+
+Sentiamo delle voci all'interno del magazzino, perciò non è davvero abbandonato

@@ -6,7 +6,7 @@
 - [Cronologia](#cronologia)
 - [Il sonno del principe Edrin](#il-sonno-del-principe-edrin)
 
-![world_map](./immagini/world_map.jpeg)
+![mappa_del_mondo](./immagini/world_map.jpeg)
 
 ## Descrizione iniziale del mondo
 
@@ -17,19 +17,19 @@
 - Una guerra di 30 anni, finita con il **Trattato di Ordelis** firmato sulle rive del Kaldoria. Re Aldric di Arathen ha fatto costruire lì [Ordelis](./luoghi.md#ordelis) come monumento alla pace.
 - La pace c'è ma è fragile: le vecchie rivalità e ambizioni non sono sparite del tutto.
 
-### Testo originale
+### Testo completo
 
-> The region of the world where your adventure begins is dominated by two kingdoms: *Arathen*, to the north, and *Velmora*, to the south, divided by the Kaldoria River.
+> La regione del mondo in cui inizia la vostra avventura è dominata da due regni: *Arathen*, a nord, e *Velmora*, a sud, divisi dal fiume Kaldoria.
 >
-> Arathen is bordered by mountains to the north and southeast, making it rich in metals, gems, and other valuable minerals, but relatively isolated from the main trade routes. Velmora, by contrast, is a vast expanse of grasslands and fertile farmland, with easy access to both the Eastern and Western Seas. Its main resources are crops, livestock, timber, and fish, which it exports in great quantities thanks to its extensive trading routes. However, the kingdom lacks many of the mineral resources necessary for advanced technology and warfare, leaving it dependent on imported materials.
+> Arathen è circondato da montagne a nord e a sud-est, che lo rendono ricco di metalli, gemme e altri minerali preziosi, ma piuttosto isolato dalle principali rotte commerciali. Velmora, al contrario, è una vasta distesa di praterie e terre coltivabili fertili, con facile accesso sia al Mare dell'Est sia al Mare dell'Ovest. Le sue risorse principali sono raccolti, bestiame, legname e pesce, che esporta in grandi quantità grazie alle sue estese rotte commerciali. Al regno però mancano molte delle risorse minerarie necessarie per la tecnologia avanzata e per la guerra, e questo lo rende dipendente dai materiali importati.
 >
-> Forty-six years ago, a long and bloody war erupted between the two kingdoms. Its causes were numerous and deeply rooted in political tensions, with powerful factions on both sides seeking greater access to resources, control over trade routes, and influence over their respective crowns.
+> Quarantasei anni fa scoppiò una guerra lunga e sanguinosa tra i due regni. Le cause erano molte e profondamente radicate nelle tensioni politiche: da entrambe le parti, fazioni potenti cercavano un maggiore accesso alle risorse, il controllo delle rotte commerciali e influenza sulle rispettive corone.
 >
-> The conflict lasted thirty years, leaving both kingdoms exhausted. It finally ended with the *Treaty of Ordelis*, signed on the shores of the Kaldoria River. On those very grounds, King Aldric of Arathen ordered the construction of the city of Ordelis, a monument to the peace that followed decades of bloodshed.
+> Il conflitto durò trent'anni e lasciò entrambi i regni stremati. Finì infine con il *Trattato di Ordelis*, firmato sulle rive del fiume Kaldoria. Proprio su quelle terre, re Aldric di Arathen ordinò di costruire la città di Ordelis, un monumento alla pace arrivata dopo decenni di sangue.
 >
-> Sixteen years have passed since the treaty was signed. The kingdoms have rebuilt, trade has resumed, and a fragile peace holds between their rulers. Yet beneath the surface, old rivalries and ambitions have not entirely disappeared.
+> Da quando è stato firmato il trattato sono passati sedici anni. I regni si sono ricostruiti, i commerci sono ripresi e tra i sovrani regge una pace fragile. Eppure, sotto la superficie, le vecchie rivalità e ambizioni non sono del tutto scomparse.
 >
-> Each of you has been drawn to Ordelis for a different reason. Some have travelled overland, others have arrived by sea. Whatever your reasons, your paths are about to converge.
+> Ognuno di voi è stato attirato a Ordelis da un motivo diverso. Alcuni hanno viaggiato via terra, altri sono arrivati via mare. Qualunque siano le vostre ragioni, le vostre strade stanno per incrociarsi.
 
 ## Cronologia
 
@@ -43,6 +43,4 @@
 ## Il sonno del principe Edrin
 _Sapere comune per chi abita nei regni: lo sanno [Michele Foresta e Lanciolo](./personaggi.md#il-gruppo)._
 
-> Six years ago, the crown prince of Arathen, Prince Edrin, suddenly fell into an inexplicable, deep sleep. No healer could wake him, and he has remained unconscious ever since. The royal family withdrew from public discussion of his condition, and the subject has become uncomfortable to bring up.
-
-Sei anni fa il principe ereditario di [Arathen](./luoghi.md#arathen), Edrin, è caduto all'improvviso in un sonno profondo e inspiegabile. Nessun guaritore è riuscito a svegliarlo. La famiglia reale non ne parla più in pubblico ed è diventato un argomento scomodo.
+> Sei anni fa il principe ereditario di [Arathen](./luoghi.md#arathen), il principe Edrin, cadde all'improvviso in un sonno profondo e inspiegabile. Nessun guaritore riuscì a svegliarlo, e da allora non ha più ripreso conoscenza. La famiglia reale ha smesso di parlare in pubblico delle sue condizioni, e l'argomento è diventato scomodo da tirare fuori.

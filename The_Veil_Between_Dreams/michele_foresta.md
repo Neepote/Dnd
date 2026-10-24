@@ -29,29 +29,31 @@ Da abitante dei regni conosce la storia del [sonno del principe Edrin](./mondo.m
 |---|---|---|---|---|---|
 | 8 (-1) | 14 (+2) | 16 (+3) | 17 (+3) | 10 (+0) | 8 (-1) |
 
-- **PF:** 34 · **CA:** 12 · **Iniziativa:** +2 · **Velocità:** 30 ft · **Dadi vita:** 4d6
+- **PF:** 34 · **CA:** 12 · **Iniziativa:** +2 · **Velocità:** 9 m · **Dadi vita:** 4d6
 - **Competenza:** +2 · **TS:** Intelligenza +5, Saggezza +2
 - **CD incantesimi:** 13 · **Attacco con incantesimi:** +5
-- **Abilità:** Indagare +7 (expertise), Arcano +5, Storia +5, Natura +5, Religione +3
-- **Sensi:** scurovisione 120 ft · Percezione passiva 10 · Indagare passiva 17
+- **Abilità:** Indagare +7 (maestria), Arcano +5, Storia +5, Natura +5, Religione +3
+- **Sensi:** scurovisione 36 m · Percezione passiva 10 · Indagare passiva 17
 - **Difese:** resistenza al veleno, vantaggio sui TS per evitare o terminare la condizione Avvelenato
 - **Lingue:** Comune, Draconico, Nanico
 - **Strumenti:** materiale da calligrafo
 
 ## Capacità
 - **Recupero arcano** (1/riposo lungo): dopo un riposo breve recupera slot per un totale di 2 livelli.
-- **Studioso:** expertise in Indagare.
-- **Abiurazione:** Savant dell'abiurazione, Interdizione arcana (Arcane Ward).
-- **Esperto di pietre (Stonecunning)** (2/riposo lungo, azione bonus): tremorsenso 60 ft per 10 minuti, se è a contatto con la pietra.
-- **Iniziato alla magia (Mago):** Fire Bolt e Chill Touch (con Carisma, +1), Mage Armor 1/riposo lungo senza slot.
+- **Studioso:** maestria in Indagare.
+- **Abiurazione:** Sapiente dell'abiurazione (Abjuration Savant), Interdizione arcana (Arcane Ward).
+- **Esperto di pietre (Stonecunning)** (2/riposo lungo, azione bonus): tremorsenso 18 m per 10 minuti, se è a contatto con la pietra.
+- **Iniziato alla magia (Mago):** Dardo di fuoco e Tocco gelido (con Carisma, +1), Armatura magica 1/riposo lungo senza slot.
 
 ## Incantesimi
 
-**Trucchetti:** Fire Bolt (1d10 fuoco), Ray of Frost (1d8 freddo), Minor Illusion, Chill Touch (1d10 necrotico)
+**Trucchetti:** Dardo di fuoco (Fire Bolt, 1d10 fuoco), Raggio di gelo (Ray of Frost, 1d8 freddo), Illusione minore (Minor Illusion), Tocco gelido (Chill Touch, 1d10 necrotico)
 
-**1° livello (4 slot):** Mage Armor, Shield, Absorb Elements, Grease, Detect Magic [R], Identify [R], Find Familiar [R], Comprehend Languages [R], Magic Missile, Alarm [R], Burning Hands
+**1° livello (4 slot):** Armatura magica (Mage Armor), Scudo (Shield), Assorbire elementi (Absorb Elements), Unto (Grease), Individuazione del magico (Detect Magic) [R], Identificare (Identify) [R], Trova famiglio (Find Familiar) [R], Comprensione dei linguaggi (Comprehend Languages) [R], Dardo incantato (Magic Missile), Allarme (Alarm) [R], Mani brucianti (Burning Hands)
 
-**2° livello (3 slot):** Web, Misty Step, Knock, Magic Weapon, Enlarge/Reduce
+**2° livello (3 slot):** Ragnatela (Web), Passo velato (Misty Step), Scassinare (Knock), Arma magica (Magic Weapon), Ingrandire/Ridurre (Enlarge/Reduce)
+
+_[R] = si può lanciare come rituale._
 
 ## Equipaggiamento
 - **Armi:** 2 pugnali, bastone ferrato, falcetto
