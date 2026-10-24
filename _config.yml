@@ -1,0 +1,10 @@
+title: DND Circense story book
+description: Gli appunti delle nostre campagne di D&D
+baseurl: "/Dnd"
+url: "https://neepote.github.io"
+
+theme: jekyll-theme-cayman
+
+exclude:
+  - .vscode/
+  - SUMMARY.md
