@@ -35,4 +35,4 @@ Città di provenienza di [Taverin](./personaggi.md#taverin).
 Taverna in direzione di Ordelis, dove Taverin ci ha invitato.
 
 ### Grotta dei banditi
-Indicata dalla X rossa sulla mappa trovata da Giacomo. All'ingresso un accampamento con il fuoco spento; dentro un tunnel che curva, cani da guardia, 3 gabbie (in una c'era Massimo) e una grande stanza con i banditi e la loro capa. Ripulita nella sessione 2.
+Indicata dalla X rossa sulla [mappa trovata da Giacomo](./indizi.md#mappa-con-la-x-rossa): in Arathen, nei boschi poco a sud-ovest di Ithravos, vicino al Kaldoria e a nord-est di Ordelis. All'ingresso un accampamento con il fuoco spento; dentro un tunnel che curva, cani da guardia, 3 gabbie (in una c'era Massimo) e una grande stanza con i banditi e la loro capa. Ripulita nella sessione 2.
