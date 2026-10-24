@@ -28,7 +28,11 @@ La città di mezzo tra i due regni, sulle rive del Kaldoria, la nostra destinazi
 Taverna di Ordelis. Tavrin ci aveva invitato qui e qui lo abbiamo ritrovato nella sessione 3.
 
 #### Magazzino sud-est
-Destinazione indicata nella [lettera del corriere](./indizi.md#lettera-del-corriere) trovata nella sacca della capobanda, per il prossimo carico n 1473. **Da visitare.**
+Destinazione indicata nella [lettera del corriere](./indizi.md#lettera-del-corriere) trovata nella sacca della capobanda, per il prossimo carico n 1473.
+Visitato nella sessione 3: un capannone poco fuori città, considerato abbandonato ma in realtà occupato. Gli uomini all'interno ci hanno attaccati; uno è [fuggito](./personaggi.md#capo-del-magazzino), gli altri sono morti.
+- In una cassa abbiamo trovato [Jimothy](./personaggi.md#jimothy).
+- Sulle scrivanie, [documenti](./indizi.md#documenti-del-magazzino) con il sigillo dell'incudine e documenti falsificati per carichi di armi.
+- Le casse contengono armi: alcune normali, alcune con il sigillo, altre con i documenti falsificati.
 
 ### Vaeroth
 Capitale dei nani. Ci potrebbe essere [Tharvian Othryndor](./personaggi.md#tharvian-othryndor). Compare anche nel [registro dei carichi](./indizi.md#registro-dei-carichi), nelle rotte di Jorin Blackhill e Tharon Swiftflow.

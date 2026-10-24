@@ -109,7 +109,7 @@ Successivamente potremmo andare al magazzino.
 
 ## Sessione 3 — 24/10/2026
 
-> **In breve:** Massimo si sveglia, entriamo a Ordelis e troviamo Tavrin alla Rosa Dorata: conosceva Gorvin Swiftwinds, uno degli scomparsi, e ci dice che da un po' i velmoriani vengono rapiti durante le tratte. Il nobile Khaelan ci chiede di ritrovare il mercante Derrin Vale e ci indica Tharvian Othryndor per saperne di più sul sigillo.
+> **In breve:** Massimo si sveglia, entriamo a Ordelis e troviamo Tavrin alla Rosa Dorata: conosceva Gorvin Swiftwinds, uno degli scomparsi, e ci dice che da un po' i velmoriani vengono rapiti durante le tratte. Il nobile Khaelan ci chiede di ritrovare il mercante Derrin Vale e ci indica Tharvian Othryndor per saperne di più sul sigillo. Al magazzino sud-est veniamo attaccati: troviamo Jimothy, uno strano procione chiuso in una cassa, e casse di armi con documenti falsificati per farle sembrare provenienti da Velmora.
 
 ### Sabato 24/10/2026 23:15
 
@@ -137,7 +137,7 @@ Aprire il pacco porterà a conseguenze, il suo padrone è molto potente.
 
 Accettiamo l'incarico.
 
-Chiediamo anche del [simbolo](./indizi.md#sigillo-incudine-e-spada-spezzata) e ci dice che un certo [il](./personaggi.md#tharvian-othryndor) potrebbe dirci qualcosa in più a riguardo, che è uno dei leader delle 3 casate di Arathen.
+Chiediamo anche del [simbolo](./indizi.md#sigillo-incudine-e-spada-spezzata) e ci dice che un certo [Tharvian Othryndor](./personaggi.md#tharvian-othryndor) potrebbe dirci qualcosa in più a riguardo, che è uno dei leader delle 3 casate di Arathen.
 
 Pensandoci mi ricordo che Tharvian è il cancelliere del re nanico, ed è una delle persone più influenti nel regno e fa parte della famiglia Othrindel.
 Probabilmente potremmo parlare con lui nella corte reale, potrebbe trovarsi sia ad [Ordelis](./luoghi.md#ordelis) che nella capitale dei nani [Vaeroth](./luoghi.md#vaeroth).
@@ -147,3 +147,23 @@ Prima di cercare Derrin decidiamo comunque di incamminarci verso i [magazzini a 
 Fermando un tizio per strada ci dice che c'è un magazzino poco fuori di lì che però è considerato abbandonato, ci avviciniamo lì.
 
 Sentiamo delle voci all'interno del magazzino, perciò non è davvero abbandonato
+
+Massimo prova a interagire con delle persone ma ci attaccano
+
+### Domenica 25/10/2026 01:33
+
+Nel combattimento uno dei tizi dentro scappa, probabilmente era un capo o comunque qualcuno di importante, per il resto uccidiamo tutti.
+
+Massimo per sbaglio nel combattimento colpisce una cassa e sentiamo un lamento provenire da lì dentro.
+
+Troviamo [Jimothy](./personaggi.md#jimothy) una specie di procione strano che riesce a comunicare con noi attraverso la lingua dei segni.
+Io e Giacomo veniamo charmati da Jimothy, che ci chiede se siamo suoi sudditi, membri della sua setta. Ha detto che ci dovremmo sbrigare a cercare 5 oggetti per il rituale che avverrà tra un giorno.
+
+![jimothy](./immagini/jimothy.jpeg)
+
+Invece investigando nel capannone, troviamo delle scrivanie dove ci sono dei documenti con lo stesso [timbro](./indizi.md#sigillo-incudine-e-spada-spezzata) che avevamo trovato nei documenti dei banditi.
+Troviamo dei documenti riguardanti spedizioni con il logo e altri [documenti falsificati](./indizi.md#documenti-del-magazzino) per carichi di armi verso questo magazzino, la falsificazione li fa apparire come provenienti da [Velmora](./luoghi.md#velmora).
+
+Nelle casse ci sono armi normali e altre hanno ancora il logo trovato prima, altre invece hanno i documenti falsificati
+
+[Jimothy](./personaggi.md#jimothy) non ci ha risposto nulla sulle domande fatte riguardo il carico, il fiume e il timbro, ci ha ignorato e nel mentre si specchiava su un pezzo di metallo
