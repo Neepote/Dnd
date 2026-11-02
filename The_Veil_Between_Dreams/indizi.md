@@ -79,11 +79,15 @@ Secondo [Khaelan](./personaggi.md#khaelan), [Tharvian Othryndor](./personaggi.md
 - Cos'è il carico n 1473? Quando arriva al [magazzino sud-est](./luoghi.md#magazzino-sud-est)? Era tra le casse di armi che abbiamo trovato?
 - Perché far sembrare che le armi arrivino da Velmora? Qualcuno vuole incolpare Velmora per far ricominciare la guerra?
 - Chi era l'uomo [fuggito dal magazzino](./personaggi.md#capo-del-magazzino), e da chi è andato?
+- AG sono monete d'argento? Chi paga così tanto i banditi, e a chi sono andati quei pagamenti? Se non vengono solo dai carichi degli scomparsi, da dove arrivano tutti quei soldi?
 
 ### Jimothy
 - Cos'è [Jimothy](./personaggi.md#jimothy), e perché era chiuso in una cassa nel magazzino?
-- Qual è la sua setta, quali sono i 5 oggetti e cos'è il rituale che avverrà tra un giorno?
-- AG sono monete d'argento? Chi paga così tanto i banditi, e a chi sono andati quei pagamenti? Se non vengono solo dai carichi degli scomparsi, da dove arrivano tutti quei soldi?
+- ~~Qual è la sua setta?~~ → Gli [gnomi](./personaggi.md#gnomi-della-setta) dell'accampamento, ora morti. ~~Quali sono i 5 oggetti?~~ → candela, cucchiaio, calzino, moneta e specchio, usati nel rituale.
+- ~~Gli gnomi diventati blu e il [mostro del portale](./personaggi.md#mostro-del-portale) erano l'effetto voluto, o qualcosa è andato storto?~~ → Jimothy ha probabilmente sbagliato la ricetta della nonna. Ma cosa doveva fare il rituale, se fatto bene?
+- Chi era la nonna di Jimothy, e cos'altro c'è nel suo diario?
+- Chi ha catturato Jimothy e lo ha chiuso nella cassa del magazzino? Sapevano del rituale?
+- Perché gli gnomi chiamano Jimothy "il loro salvatore"?
 
 ### Derrin Vale
 - Cosa c'è nella sacca sigillata di [Derrin Vale](./personaggi.md#derrin-vale)?

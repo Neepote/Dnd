@@ -5,6 +5,7 @@
 - [Sessione 1 — 11/10/2026](#sessione-1--11102026)
 - [Sessione 2 — 17/10/2026](#sessione-2--17102026)
 - [Sessione 3 — 24/10/2026](#sessione-3--24102026)
+- [Sessione 4 — 02/11/2026](#sessione-4--02112026)
 
 <hr>
 
@@ -167,3 +168,63 @@ Troviamo dei documenti riguardanti spedizioni con il logo e altri [documenti fal
 Nelle casse ci sono armi normali e altre hanno ancora il logo trovato prima, altre invece hanno i documenti falsificati
 
 [Jimothy](./personaggi.md#jimothy) non ci ha risposto nulla sulle domande fatte riguardo il carico, il fiume e il timbro, ci ha ignorato e nel mentre si specchiava su un pezzo di metallo
+
+<hr>
+
+## Sessione 4 — 02/11/2026
+
+> **In breve:** giriamo Ordelis con Jimothy per recuperare i 5 oggetti del rituale: la candela al contrario rubata a un bambino, il cucchiaio con la testa di goblin della Pustola Ululante, il calzino incrostato di un orco, una moneta di rame dal conio sconosciuto e lo specchio che mostra il passato di un'attrice in declino. Nella foresta 13 gnomi celebrano il rituale, ma dal calderone si apre un portale da cui esce un mostro. Lo sconfiggiamo, ma gli gnomi muoiono: Jimothy aveva solo sbagliato la ricetta della nonna, e ora viaggia con noi.
+
+### Lunedì 02/11/2026 22:09
+
+[Jimothy](./personaggi.md#jimothy) ha detto che per il rituale serve:
+
+- un cucchiaio molto speciale (ci porterà lui)
+- un calzino, molto particolare, impregnato di una sostanza magica (più o meno)
+- una moneta anch'essa molto speciale
+- una candela molto magica
+- uno specchio portatile molto speciale
+
+Jimothy si aggirava in questi [magazzini](./luoghi.md#magazzino-sud-est) che la candela si trovava qui vicino, ma è stato poi catturato
+
+La "candela" è una candela al contrario che fluttua viene considerata un giocattolo da alcuni 
+
+Decidiamo di cercare la candela, Jimothy ci porta ad [Ordelis](./luoghi.md#ordelis).
+Punta verso un bambino e dice che quel bambino ha questo giocattolo.
+Massimo ruba la candela al bambino e Jimothy ne rimane compiaciuto
+
+Decidiamo di andare a prendere il cucchiaio come secondo oggetto.
+Questo cucchiaio ha alla fine del manico una testa di goblin, si trova in una locanda di una zona malfamata. Il locale si chiama la [Pustola Ululante](./luoghi.md#pustola-ululante), il cucchiaio è del proprietario di questa locanda.
+
+Marco distrae il locandiere e riusciamo a prendere il mestolo.
+Decidiamo di andare a prendere il calzino come terzo
+
+Ci dirigiamo verso una zona residenziale di Ordelis, indica il secondo piano di un'abitazione e dice che il calzino si trova lì dentro
+
+Marco scala una grondaia per entrare nella casa dalla finestra, al suo interno vede un orco affetto da sindrome di down con un calzino incrostato appoggiato sul petto.
+Marco riesce a recuperare il sacro indumento e a lanciarlo fuori dalla finestra verso di noi
+
+Andiamo a cercare la moneta, che è di rame e ha un conio sconosciuto, la riconosceremo perché non l'abbiamo mai vista.
+Jimothy ci conduce alle porte di Ordelis, indicando una barbona zoppa con un cappello usato per l'elemosina.
+Marco praticamente compra la moneta dalla vecchia con una moneta d'oro
+
+Rimane solo lo specchio
+Un piccolo specchio tascabile con il manico, molto grazioso ma con una particolarità
+guardando allo specchio si vede l'immagine precedente di 2,37 minuti prima.
+
+Arriviamo nell'[ex villa dei Casamonica](./luoghi.md#ex-villa-dei-casamonica), la riconosco come la casa di una delle [nobili aratheniane](./personaggi.md#attrice-aratheniana), popolare attrice di teatro ormai in declino
+Dopo averla intimidita riusciamo a prendere anche lo specchio.
+
+Jimothy ci porta fuori da Ordelis, nella foresta. Ad un certo punto arriviamo in uno [spiazzo](./luoghi.md#accampamento-degli-gnomi) dove ci sono delle tende.
+Come arriviamo nello spiazzo veniamo raggiunti da 13 [gnomi](./personaggi.md#gnomi-della-setta) che gioiosamente accolgono noi e Jimothy il loro salvatore.
+
+Gli gnomi iniziano subito a prepararsi per il rituale, prendono un pentolone e lo poggiano sopra una specie di disegno, all'interno vengono inseriti il calzino e il mestolo.
+Versano dell'acqua e usano lo specchio per convogliare la luce lunare per accendere il fuoco sotto il pentolone
+Dopo sette minuti che l'intruglio ha bollito, gli gnomi iniziano a berlo.
+Jimothy prende la moneta e la lancia in aria, facendola cadere a terra, prova a rilanciarla facendola cadere sopra la base della candela (perché la candela è al contrario).
+Nell'istante in cui questo accade gli gnomi diventano blu e iniziano a tremare.
+Inizia ad uscire un portale dimensionale da dove si trova il calderone, da cui escono fuori dei tentacoli e poi un [mostro](./personaggi.md#mostro-del-portale)
+
+Riusciamo a sconfiggere il mostro che poi ritorna nel suo portale, gli gnomi smettono di vibrare e cascano a terra morti
+
+Jimothy voleva solo seguire la ricetta trovata nel diario di sua nonna, probabilmente ha sbagliato qualcosa nella ricetta. Si prenderà una pausa dall'essere un capo di setta e ci seguirà per i nostri viaggi.

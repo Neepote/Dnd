@@ -70,5 +70,6 @@ Se un file manca, crealo seguendo lo stesso stile. Il `README.md` alla radice de
 | Lanciolo | Marco (TehMark) | Nano, barbaro del Cammino del Gigante |
 | Pantheon | Giacomo (GiarickL9) | Umano, paladino del Giuramento della Gloria |
 | Piero | Massimo / Dutua (maxedo99) | Elfo, chierico della Tempesta |
+| Jimothy | — (compagno PNG) | Procione, ex capo di una setta di gnomi, viaggia con noi dalla sessione 4 |
 
 Se cambia qualcosa nel gruppo, aggiorna sia questa tabella sia `personaggi.md`.
