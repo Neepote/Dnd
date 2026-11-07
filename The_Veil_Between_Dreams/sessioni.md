@@ -6,6 +6,7 @@
 - [Sessione 2 — 17/10/2026](#sessione-2--17102026)
 - [Sessione 3 — 24/10/2026](#sessione-3--24102026)
 - [Sessione 4 — 02/11/2026](#sessione-4--02112026)
+- [Sessione 5 — 07/11/2026](#sessione-5--07112026)
 
 <hr>
 
@@ -228,3 +229,37 @@ Inizia ad uscire un portale dimensionale da dove si trova il calderone, da cui e
 Riusciamo a sconfiggere il mostro che poi ritorna nel suo portale, gli gnomi smettono di vibrare e cascano a terra morti
 
 Jimothy voleva solo seguire la ricetta trovata nel diario di sua nonna, probabilmente ha sbagliato qualcosa nella ricetta. Si prenderà una pausa dall'essere un capo di setta e ci seguirà per i nostri viaggi.
+
+<hr>
+
+## Sessione 5 — 07/11/2026
+
+> **In breve:** con Jimothy andiamo alla torre a sud-ovest di Ithravos, dove ci attaccano dei banditi su entrambi i piani. L'ultimo prova a bruciare una sacca, forse quella di Derrin Vale: dentro una scheggia color madreperla, il ricalco di un occhio chiuso, una pagina strappata con una profezia sul velo e sul dormiente, e un taccuino di ricerche su un paziente che nomina Edrin.
+
+### Sabato 07/11/2026 22:13
+
+Dormiamo nelle tende degli [gnomi](./luoghi.md#accampamento-degli-gnomi) per fare un long rest
+
+Decidiamo di incamminarci verso la [torre a sud ovest di Ithravos](./luoghi.md#torre-a-sud-ovest-di-ithravos) insieme al nostro nuovo compagno [Jimothy](./personaggi.md#jimothy).
+Ci ritroviamo di fronte una torre a due piani con una porta di legno chiusa, Giacomo entra e veniamo assaliti da dei banditi.
+Sconfitti i banditi abbiamo esplorato la stanza al piano terra della torre, e abbiamo notato dei segni di trascinamento che andavano verso le scale
+Al secondo piano veniamo assaliti da altri banditi.
+Come Marco sta per sferrare l'ultimo colpo all'ultimo dei banditi, il bandito lancia una [sacca](./indizi.md#sacca-della-torre) in un fuocherello acceso nella stanza.
+Non appena finito il combattimento Marco lancia Jimothy e recupera la sacca che rimane un po' bruciacchiata.
+
+Marco apre subito la sacca (che crediamo essere quella che non andava aperta), trova un [taccuino](./indizi.md#taccuino),
+2 fogli di carta, uno più rovinato dell'altro (uno sottile e uno un po' più spesso dove si nota che sia stato strappato), e un oggetto avvolto in un pezzo di stoffa.
+Marco toglie la pezza e vede una [scheggia](./indizi.md#scheggia-color-madreperla) di quella che sembra essere qualcosa tra pietra e vetro.
+La scheggia è in un colore come madreperla e sembra essere piuttosto pesante per quanto è grande.
+
+Partendo dal foglio più sottile, aprendolo vedo che è un [ricalco](./indizi.md#ricalco-di-un-occhio-chiuso) fatto con un carboncino di un occhio chiuso.
+Invece il foglio più spesso, è una [pagina strappata](./indizi.md#pagina-strappata) da qualche altro posto. C'è scritto
+
+    Sogna e sarai purificato
+    il mondo è una ferita; il velo ne è la cura
+    quando il sangue incoronato dormirà sotto la montagna,
+    l'ultima porta si aprirà
+    Il dormiente risorgerà
+    Beati coloro che non si svegliano
+
+Infine il [taccuino](./indizi.md#taccuino)

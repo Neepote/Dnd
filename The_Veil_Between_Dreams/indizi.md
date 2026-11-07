@@ -58,6 +58,84 @@ Trovati sulle scrivanie del [magazzino sud-est](./luoghi.md#magazzino-sud-est) n
 Compare sul registro dei carichi, sulla lettera del corriere, sul registro dei pagamenti e sui [documenti del magazzino](#documenti-del-magazzino). Probabilmente il simbolo del [patrono](./personaggi.md#il-patrono) o della sua organizzazione.
 Secondo [Khaelan](./personaggi.md#khaelan), [Tharvian Othryndor](./personaggi.md#tharvian-othryndor) potrebbe dirci qualcosa di più (sessione 3).
 
+## Sacca della torre
+Al secondo piano della [torre a sud-ovest di Ithravos](./luoghi.md#torre-a-sud-ovest-di-ithravos), l'ultimo bandito l'ha lanciata in un fuocherello prima di morire; Marco l'ha recuperata un po' bruciacchiata e l'ha aperta subito (sessione 5). Crediamo che sia la sacca sigillata di [Derrin Vale](./personaggi.md#derrin-vale), quella che non andava aperta. Conteneva:
+
+### Scheggia color madreperla
+Avvolta in un pezzo di stoffa. Una scheggia di qualcosa a metà tra pietra e vetro, color madreperla, piuttosto pesante per quanto è piccola.
+
+### Ricalco di un occhio chiuso
+Il foglio più sottile: il ricalco a carboncino di un occhio chiuso. Anche a pagina 37 del [taccuino](#taccuino) c'è lo schizzo di un occhio.
+
+### Pagina strappata
+Il foglio più spesso, strappato da qualche altro posto:
+
+> *Sogna e sarai purificato*\
+> *il mondo è una ferita; il velo ne è la cura*\
+> *quando il sangue incoronato dormirà sotto la montagna,*\
+> *l'ultima porta si aprirà*\
+> *Il dormiente risorgerà*\
+> *Beati coloro che non si svegliano*
+
+### Taccuino
+Rovinato e strappato in più punti, quindi non tutto si legge bene. La pagina 21 è divisa a metà tra le prime due sezioni.
+
+#### Pagine dalla 1 alla 21
+
+Sono presenti diverse ricerche su condizioni mediche conosciute, incrociando testi di medicina e libri botanici. Diverse pagine sono dedicate a studi di erbe medicinali e formule per rimedi curativi. È presente anche una lista di somministrazioni fatte ad un paziente, con dettagli di giorno, ora, medicina e effetto.
+
+#### Pagine dalla 21 alla 32
+
+La ricerca si sposta dalla semplice medicina alla magia. All'interno di queste pagine è presente una lunga lista di incantesimi e rituali magici che possano causare e curare le condizioni del paziente. Analogamente alla sezione precedente, anche qui è presente un registro di somministrazioni magiche.
+
+Da qui le note diventano meno strutturate e più frettolose. Alcune pagine sono completamente illeggibili, forse fatto di proposito dall'autore.
+
+#### Pagina 35
+
+In questa pagina è presente una lista di nomi.
+
+| Nome           | Occupazione | Indizio                                           | Stato                |
+| -------------- | ----------- | ------------------------------------------------- | -------------------- |
+| [Mireth Sylvane](./personaggi.md#mireth-sylvane) | Domestica   | Ha visto uomo incappucciato                       | ~~Scomparsa~~ Morta? |
+| [Jorren Vaskel](./personaggi.md#jorren-vaskel)  | Maggiordomo | Voluto a corte da persone vicino al Re            | Sospetto             |
+| [Toren Malvek](./personaggi.md#toren-malvek)   | Lampadaio   | Vende più olio di quanto la strada possa bruciare | -                    |
+| [Alaric Fenris](./personaggi.md#alaric-fenris)  | Studioso    | Conosce il simbolo ma non vuole parlarne          | Sospetto?            |
+
+#### Pagina 37
+
+In questa pagina è presente uno schizzo di un occhio.
+È anche presente la seguente dicitura:
+
+*Il luogo del trattato di pace non era casuale.*
+
+*Legame di sangue.*
+
+*Sogno.*
+
+#### Pagina 39
+
+È presente la descrizione di un rituale, parzialmente bruciato.
+
+*Stringere patto co...*
+
+*Recarsi al temp...*
+
+*Versare san...*
+
+*Dorm...*
+
+#### Pagina 40
+
+Per metà bruciata.
+
+*Data (2 settimane prima)*
+
+*L'[uomo incappucciato](./personaggi.md#uomo-incappucciato) è S...*
+
+*Edrin è nel...*
+
+*Se funzionerà lo raggiung...*
+
 <hr>
 
 ## Domande aperte
@@ -89,12 +167,26 @@ Secondo [Khaelan](./personaggi.md#khaelan), [Tharvian Othryndor](./personaggi.md
 - Chi ha catturato Jimothy e lo ha chiuso nella cassa del magazzino? Sapevano del rituale?
 - Perché gli gnomi chiamano Jimothy "il loro salvatore"?
 
+### La sacca della torre e il taccuino
+- La [sacca della torre](#sacca-della-torre) è davvero quella di [Derrin Vale](./personaggi.md#derrin-vale)? Perché era destinata a [Tharvian Othryndor](./personaggi.md#tharvian-othryndor), e cosa succederà ora che l'abbiamo aperta?
+- Chi ha scritto il [taccuino](#taccuino)? Il paziente delle somministrazioni è il [principe Edrin](./mondo.md#il-sonno-del-principe-edrin)?
+- Cos'è la [scheggia color madreperla](#scheggia-color-madreperla), e perché è così pesante?
+- L'occhio chiuso del [ricalco](#ricalco-di-un-occhio-chiuso) e quello di pagina 37 sono "il simbolo" che Alaric Fenris conosce ma non vuole spiegare? Da dove è stato ricalcato?
+- Da dove viene la [pagina strappata](#pagina-strappata)? Il "sangue incoronato" che dorme sotto la montagna è Edrin? Cos'è "l'ultima porta", e chi è "il dormiente" che risorgerà?
+- "Il luogo del trattato di pace non era casuale": cosa c'è di speciale a [Ordelis](./luoghi.md#ordelis) e sulle rive del Kaldoria? Cosa c'entrano il "legame di sangue" e il "sogno"?
+- Il rituale di pagina 39 (patto, tempio, sangue, "Dorm...") è quello che ha fatto addormentare Edrin, o quello che l'autore voleva fare per raggiungerlo ("Se funzionerà lo raggiung...")?
+- Chi è l'uomo incappucciato "S..."? Che fine ha fatto Mireth Sylvane, che lo aveva visto?
+- Chi sono Jorren Vaskel, Toren Malvek e Alaric Fenris? Perché Toren Malvek vende così tanto olio?
+- C'entra il "velo" della profezia con il nome della campagna?
+
 ### Derrin Vale
-- Cosa c'è nella sacca sigillata di [Derrin Vale](./personaggi.md#derrin-vale)?
+- ~~Cosa c'è nella sacca sigillata di [Derrin Vale](./personaggi.md#derrin-vale)?~~ → Se è la [sacca della torre](#sacca-della-torre): una scheggia, il ricalco di un occhio, una pagina strappata e un taccuino (sessione 5).
+- Dov'è Derrin? I segni di trascinamento verso le scale della torre erano i suoi? È ancora vivo?
+- Chi erano i banditi della torre, e per chi lavoravano? Sono legati a quelli della [grotta](./luoghi.md#grotta-dei-banditi)? Perché l'ultimo ha preferito bruciare la sacca piuttosto che lasciarcela?
 - ~~La torre a nord-est di Ordelis e quella a sud-ovest di Ithravos sono la stessa torre?~~ → No: Derrin partiva da quella a sud-ovest di Ithravos ed era diretto a quella a nord di Ordelis.
 - La strada tra le due torri passa vicino alla [grotta dei banditi](./luoghi.md#grotta-dei-banditi) (a sud-ovest di Ithravos, a nord-est di Ordelis): c'entrano i banditi con la sparizione di Derrin?
 
 ### Altro
 - Perché le guardie di Ordelis sembravano riconoscere Marco?
 - C'è un legame con il vecchio caso irrisolto di [Michele Foresta](./michele_foresta.md#storia)? Lui ha studiato sigilli e serrature: il sigillo dell'incudine gli dice qualcosa?
-- C'è un legame con il [sonno del principe Edrin](./mondo.md#il-sonno-del-principe-edrin)?
+- C'è un legame con il [sonno del principe Edrin](./mondo.md#il-sonno-del-principe-edrin)? → Il [taccuino](#taccuino) nomina Edrin (sessione 5): c'entrano anche il sigillo dell'incudine e i velmoriani scomparsi?

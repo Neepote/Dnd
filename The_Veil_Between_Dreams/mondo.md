@@ -44,3 +44,5 @@
 _Sapere comune per chi abita nei regni: lo sanno [Michele Foresta e Lanciolo](./personaggi.md#il-gruppo)._
 
 > Sei anni fa il principe ereditario di [Arathen](./luoghi.md#arathen), il principe Edrin, cadde all'improvviso in un sonno profondo e inspiegabile. Nessun guaritore riuscì a svegliarlo, e da allora non ha più ripreso conoscenza. La famiglia reale ha smesso di parlare in pubblico delle sue condizioni, e l'argomento è diventato scomodo da tirare fuori.
+
+Il [taccuino](./indizi.md#taccuino) trovato nella torre a sud-ovest di Ithravos nomina Edrin (sessione 5).

@@ -54,9 +54,12 @@ Torre usata spesso dai mercanti. È la destinazione di [Derrin Vale](./personagg
 
 ### Torre a sud-ovest di Ithravos
 Da qui partiva [Derrin Vale](./personaggi.md#derrin-vale) diretto alla [torre a nord di Ordelis](#torre-a-nord-di-ordelis): è l'ultimo posto dove sappiamo che è stato (sessione 3).
+Visitata nella sessione 5: una torre a due piani con una porta di legno chiusa, occupata da banditi.
+- Piano terra: banditi, sconfitti. Segni di trascinamento che portano verso le scale.
+- Secondo piano: altri banditi e un fuocherello acceso. L'ultimo bandito ci ha lanciato dentro una [sacca](./indizi.md#sacca-della-torre), che Marco ha recuperato.
 
 ### Accampamento degli gnomi
-Uno spiazzo con delle tende nella foresta fuori Ordelis, dove ci ha portati [Jimothy](./personaggi.md#jimothy). Ci vivono 13 [gnomi](./personaggi.md#gnomi-della-setta). Qui si è svolto il rituale e si è aperto un portale dimensionale dal calderone; dopo lo scontro con il mostro gli gnomi sono morti (sessione 4).
+Uno spiazzo con delle tende nella foresta fuori Ordelis, dove ci ha portati [Jimothy](./personaggi.md#jimothy). Ci vivono 13 [gnomi](./personaggi.md#gnomi-della-setta). Qui si è svolto il rituale e si è aperto un portale dimensionale dal calderone; dopo lo scontro con il mostro gli gnomi sono morti (sessione 4). Abbiamo dormito nelle loro tende prima di ripartire (sessione 5).
 
 ### Grotta dei banditi
 Indicata dalla X rossa sulla [mappa trovata da Giacomo](./indizi.md#mappa-con-la-x-rossa): in Arathen, nei boschi poco a sud-ovest di Ithravos, vicino al Kaldoria e a nord-est di Ordelis. All'ingresso un accampamento con il fuoco spento; dentro un tunnel che curva, cani da guardia, 3 gabbie (in una c'era Massimo) e una grande stanza con i banditi e la loro capa. Ripulita nella sessione 2.

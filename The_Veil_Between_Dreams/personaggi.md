@@ -18,7 +18,7 @@ Nel [diario](./sessioni.md) i personaggi sono spesso chiamati con il nome del gi
 
 ## PNG incontrati
 
-[Tavrin Stonebell](#tavrin-stonebell) (mercante halfling) · [Gorvin Swiftwinds](#gorvin-swiftwinds) (scomparso) · [Khaelan](#khaelan) (ci ha ingaggiati) · [Derrin Vale](#derrin-vale) (disperso) · [Tharvian Othryndor](#tharvian-othryndor) (cancelliere, patrono di Khaelan) · [Gnomi della setta](#gnomi-della-setta) (morti) · [Mostro del portale](#mostro-del-portale) (sconfitto, tornato nel portale) · [Capo dei banditi](#capo-dei-banditi) (morta) · [Capo del magazzino](#capo-del-magazzino) (fuggito) · [Attrice aratheniana](#attrice-aratheniana) (derubata dello specchio) · [Il patrono](#il-patrono) (sconosciuto) · [Principe Edrin](#principe-edrin) (addormentato)
+[Tavrin Stonebell](#tavrin-stonebell) (mercante halfling) · [Gorvin Swiftwinds](#gorvin-swiftwinds) (scomparso) · [Khaelan](#khaelan) (ci ha ingaggiati) · [Derrin Vale](#derrin-vale) (disperso) · [Tharvian Othryndor](#tharvian-othryndor) (cancelliere, patrono di Khaelan) · [Gnomi della setta](#gnomi-della-setta) (morti) · [Mostro del portale](#mostro-del-portale) (sconfitto, tornato nel portale) · [Capo dei banditi](#capo-dei-banditi) (morta) · [Capo del magazzino](#capo-del-magazzino) (fuggito) · [Attrice aratheniana](#attrice-aratheniana) (derubata dello specchio) · [Il patrono](#il-patrono) (sconosciuto) · [Principe Edrin](#principe-edrin) (addormentato) · [Uomo incappucciato](#uomo-incappucciato) (sconosciuto) · [Mireth Sylvane](#mireth-sylvane) (scomparsa, forse morta) · [Jorren Vaskel](#jorren-vaskel) (sospetto) · [Toren Malvek](#toren-malvek) (lampadaio) · [Alaric Fenris](#alaric-fenris) (sospetto?)
 
 ### Tavrin Stonebell
 Mercante halfling assalito dai banditi sulla strada per [Ordelis](./luoghi.md#ordelis); lo abbiamo salvato e ci ha invitato alla taverna [Rosa Dorata](./luoghi.md#rosa-dorata), dove lo abbiamo ritrovato nella sessione 3.
@@ -36,6 +36,7 @@ Umano, sembra di famiglia nobile. Ci ha fermati alla [Rosa Dorata](./luoghi.md#r
 
 ### Derrin Vale
 Mercante disperso, con una sacca sigillata che contiene un carico importante per [Tharvian Othryndor](#tharvian-othryndor), il patrono di [Khaelan](#khaelan). Partito dalla [torre a sud-ovest di Ithravos](./luoghi.md#torre-a-sud-ovest-di-ithravos), non è mai arrivato alla [torre a nord di Ordelis](./luoghi.md#torre-a-nord-di-ordelis) (sessione 3).
+- Nella torre a sud-ovest di Ithravos non c'era: abbiamo trovato dei banditi, segni di trascinamento verso le scale e una [sacca](./indizi.md#sacca-della-torre) che crediamo sia la sua. Marco l'ha aperta (sessione 5).
 
 ### Tharvian Othryndor
 Cancelliere del re nanico, uno dei leader delle 3 casate di [Arathen](./luoghi.md#arathen) e una delle persone più influenti del regno. Di cognome fa Othryndor, ma fa parte della casata Othrindel. È il patrono di [Khaelan](#khaelan): la sacca sigillata di [Derrin Vale](#derrin-vale) era destinata a lui. Secondo Khaelan potrebbe dirci qualcosa sul [sigillo](./indizi.md#sigillo-incudine-e-spada-spezzata) (sessione 3).
@@ -50,6 +51,7 @@ Una specie di procione strano, trovato chiuso in una cassa nel [magazzino sud-es
 - Nella sessione 4 ci ha guidati per Ordelis a recuperare i 5 oggetti del rituale (una candela al contrario che fluttua, un cucchiaio con la testa di goblin, un calzino incrostato, una moneta di rame dal conio sconosciuto e uno specchio che mostra il passato), indicandoci ogni volta chi li aveva. Si aggirava nei magazzini perché la candela si trovava lì vicino, ma è stato catturato.
 - Ci ha portati all'[accampamento degli gnomi](./luoghi.md#accampamento-degli-gnomi) nella foresta: i [gnomi](#gnomi-della-setta) lo accolgono come il loro salvatore. Nel rituale ha lanciato la moneta sulla base della candela (sessione 4).
 - Voleva solo seguire la ricetta trovata nel diario di sua nonna, ma probabilmente ha sbagliato qualcosa. Si prende una pausa dall'essere un capo di setta e ora ci segue nei nostri viaggi (sessione 4).
+- È venuto con noi alla [torre a sud-ovest di Ithravos](./luoghi.md#torre-a-sud-ovest-di-ithravos); dopo il combattimento Marco lo ha lanciato e ha recuperato la sacca dal fuoco (sessione 5).
 
 ![jimothy](./immagini/jimothy.jpeg)
 
@@ -74,3 +76,19 @@ Nominato nella [lettera del corriere](./indizi.md#lettera-del-corriere). Probabi
 
 ### Principe Edrin
 Principe ereditario di Arathen. Vedi [Mondo e lore](./mondo.md#il-sonno-del-principe-edrin).
+- È nominato a pagina 40 del [taccuino](./indizi.md#taccuino) trovato nella torre: *"Edrin è nel..."* (sessione 5).
+
+### Uomo incappucciato
+Citato nel [taccuino](./indizi.md#taccuino) (sessione 5). [Mireth Sylvane](#mireth-sylvane) lo aveva visto. A pagina 40 c'è scritto *"L'uomo incappucciato è S..."*, ma il resto è bruciato.
+
+### Mireth Sylvane
+Domestica, nella lista di nomi a pagina 35 del [taccuino](./indizi.md#taccuino) (sessione 5). Aveva visto l'[uomo incappucciato](#uomo-incappucciato). Stato: "~~Scomparsa~~ Morta?".
+
+### Jorren Vaskel
+Maggiordomo, nella lista di nomi a pagina 35 del [taccuino](./indizi.md#taccuino) (sessione 5). Lo hanno voluto a corte delle persone vicine al Re. Stato: "Sospetto".
+
+### Toren Malvek
+Lampadaio, nella lista di nomi a pagina 35 del [taccuino](./indizi.md#taccuino) (sessione 5). Vende più olio di quanto la strada possa bruciare. Nessuno stato segnato.
+
+### Alaric Fenris
+Studioso, nella lista di nomi a pagina 35 del [taccuino](./indizi.md#taccuino) (sessione 5). Conosce il simbolo ma non vuole parlarne. Stato: "Sospetto?".
