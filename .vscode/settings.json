@@ -1,4 +1,8 @@
 {
     "pasteImage.basePath": "${currentFileDir}",
-    "pasteImage.path": "${currentFileDir}/assets"
+    "pasteImage.path": "${currentFileDir}/assets",
+    "cSpell.words": [
+        "Ithravos",
+        "jimothy"
+    ]
 }

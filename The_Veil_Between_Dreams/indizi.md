@@ -56,7 +56,7 @@ Trovati sulle scrivanie del [magazzino sud-est](./luoghi.md#magazzino-sud-est) n
 
 ## Sigillo: incudine e spada spezzata
 Compare sul registro dei carichi, sulla lettera del corriere, sul registro dei pagamenti e sui [documenti del magazzino](#documenti-del-magazzino). Probabilmente il simbolo del [patrono](./personaggi.md#il-patrono) o della sua organizzazione.
-Secondo [Khaelan](./personaggi.md#khaelan), [Tharvian Othryndor](./personaggi.md#tharvian-othryndor) potrebbe dirci qualcosa di più (sessione 3).
+Secondo [Caelan](./personaggi.md#caelan), [Tharvian Othryndor](./personaggi.md#tharvian-othryndor) potrebbe dirci qualcosa di più (sessione 3).
 
 ## Sacca della torre
 Al secondo piano della [torre a sud-ovest di Ithravos](./luoghi.md#torre-a-sud-ovest-di-ithravos), l'ultimo bandito l'ha lanciata in un fuocherello prima di morire; Marco l'ha recuperata un po' bruciacchiata e l'ha aperta subito (sessione 5). Crediamo che sia la sacca sigillata di [Derrin Vale](./personaggi.md#derrin-vale), quella che non andava aperta. Conteneva:
@@ -142,7 +142,7 @@ Per metà bruciata.
 
 ### Il patrono e il sigillo
 - Chi è il [patrono](./personaggi.md#il-patrono) della lettera del corriere? Cosa rappresenta il sigillo dell'incudine e spada spezzata? → [Tharvian Othryndor](./personaggi.md#tharvian-othryndor) potrebbe saperne di più.
-- ~~Chi è il patrono di Khaelan?~~ → [Tharvian Othryndor](./personaggi.md#tharvian-othryndor). È anche il patrono della lettera del corriere, o sono due persone diverse?
+- ~~Chi è il patrono di Caelan?~~ → [Tharvian Othryndor](./personaggi.md#tharvian-othryndor). È anche il patrono della lettera del corriere, o sono due persone diverse?
 - Cosa significa "finché il fiume non scorrerà rosso"? Il fiume è il [Kaldoria](./luoghi.md#fiume-kaldoria), il confine tra i due regni? Il patrono vuole far ricominciare la guerra?
 - L'incudine (metalli, forgia) fa pensare ad Arathen, la spada spezzata alla guerra finita o al trattato. È un simbolo di chi è contrario alla pace?
 - Perché proprio carichi e persone da Velmora? Il registro è scritto con una grafia di Arathen: c'è qualcuno di Arathen dietro?

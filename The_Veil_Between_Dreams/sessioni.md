@@ -111,7 +111,7 @@ Successivamente potremmo andare al magazzino.
 
 ## Sessione 3 — 24/10/2026
 
-> **In breve:** Massimo si sveglia, entriamo a Ordelis e troviamo Tavrin alla Rosa Dorata: conosceva Gorvin Swiftwinds, uno degli scomparsi, e ci dice che da un po' i velmoriani vengono rapiti durante le tratte. Il nobile Khaelan ci chiede di ritrovare il mercante Derrin Vale e ci indica Tharvian Othryndor per saperne di più sul sigillo. Al magazzino sud-est veniamo attaccati: troviamo Jimothy, uno strano procione chiuso in una cassa, e casse di armi con documenti falsificati per farle sembrare provenienti da Velmora.
+> **In breve:** Massimo si sveglia, entriamo a Ordelis e troviamo Tavrin alla Rosa Dorata: conosceva Gorvin Swiftwinds, uno degli scomparsi, e ci dice che da un po' i velmoriani vengono rapiti durante le tratte. Il nobile Caelan ci chiede di ritrovare il messaggero Derrin Vale e ci indica Tharvian Othryndor per saperne di più sul sigillo. Al magazzino sud-est veniamo attaccati: troviamo Jimothy, uno strano procione chiuso in una cassa, e casse di armi con documenti falsificati per farle sembrare provenienti da Velmora.
 
 ### Sabato 24/10/2026 23:15
 
@@ -131,7 +131,7 @@ Andiamo a dormire.
 
 Uscendo dalle stanze un tizio ci ferma.
 Un umano che sembra provenire da una famiglia nobile.
-Si chiama [Khaelan](./personaggi.md#khaelan). Ci vuole ingaggiare per ritrovare un mercante che ha una sacca sigillata con un carico importante per il suo patrono. Il mercante da trovare si chiama [Derrin Vale](./personaggi.md#derrin-vale).
+Si chiama [Caelan](./personaggi.md#caelan). Ci vuole ingaggiare per ritrovare un messaggero che ha una sacca sigillata con un carico importante per il suo patrono. Il messaggero da trovare si chiama [Derrin Vale](./personaggi.md#derrin-vale).
 Sarebbe dovuto arrivare ad una [torre](./luoghi.md#torre-a-nord-di-ordelis) che usano spesso i mercanti che si trova a nord di Ordelis.
 L'ultimo posto dove dovrebbe essere arrivato è una [torre a sud ovest di Ithravos](./luoghi.md#torre-a-sud-ovest-di-ithravos).
 
@@ -263,3 +263,9 @@ Invece il foglio più spesso, è una [pagina strappata](./indizi.md#pagina-strap
     Beati coloro che non si svegliano
 
 Infine il [taccuino](./indizi.md#taccuino)
+
+### Saturday 21/11/2026 23:31  
+
+Seguendo le tracce di trascinamento troviamo il cadavere di una persona, molto probabilmente è il cadavere di Derrin Vale.
+E' morto da qualche ora e in mano ha un ciondolo con la catenina spezzata. Questo ciondolo come simbolo ha un occhio chiuso.
+

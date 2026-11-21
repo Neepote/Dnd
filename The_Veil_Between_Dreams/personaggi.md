@@ -18,7 +18,7 @@ Nel [diario](./sessioni.md) i personaggi sono spesso chiamati con il nome del gi
 
 ## PNG incontrati
 
-[Tavrin Stonebell](#tavrin-stonebell) (mercante halfling) · [Gorvin Swiftwinds](#gorvin-swiftwinds) (scomparso) · [Khaelan](#khaelan) (ci ha ingaggiati) · [Derrin Vale](#derrin-vale) (disperso) · [Tharvian Othryndor](#tharvian-othryndor) (cancelliere, patrono di Khaelan) · [Gnomi della setta](#gnomi-della-setta) (morti) · [Mostro del portale](#mostro-del-portale) (sconfitto, tornato nel portale) · [Capo dei banditi](#capo-dei-banditi) (morta) · [Capo del magazzino](#capo-del-magazzino) (fuggito) · [Attrice aratheniana](#attrice-aratheniana) (derubata dello specchio) · [Il patrono](#il-patrono) (sconosciuto) · [Principe Edrin](#principe-edrin) (addormentato) · [Uomo incappucciato](#uomo-incappucciato) (sconosciuto) · [Mireth Sylvane](#mireth-sylvane) (scomparsa, forse morta) · [Jorren Vaskel](#jorren-vaskel) (sospetto) · [Toren Malvek](#toren-malvek) (lampadaio) · [Alaric Fenris](#alaric-fenris) (sospetto?)
+[Tavrin Stonebell](#tavrin-stonebell) (mercante halfling) · [Gorvin Swiftwinds](#gorvin-swiftwinds) (scomparso) · [Caelan](#caelan) (ci ha ingaggiati) · [Derrin Vale](#derrin-vale) (disperso) · [Tharvian Othryndor](#tharvian-othryndor) (cancelliere, patrono di Caelan) · [Gnomi della setta](#gnomi-della-setta) (morti) · [Mostro del portale](#mostro-del-portale) (sconfitto, tornato nel portale) · [Capo dei banditi](#capo-dei-banditi) (morta) · [Capo del magazzino](#capo-del-magazzino) (fuggito) · [Attrice aratheniana](#attrice-aratheniana) (derubata dello specchio) · [Il patrono](#il-patrono) (sconosciuto) · [Principe Edrin](#principe-edrin) (addormentato) · [Uomo incappucciato](#uomo-incappucciato) (sconosciuto) · [Mireth Sylvane](#mireth-sylvane) (scomparsa, forse morta) · [Jorren Vaskel](#jorren-vaskel) (sospetto) · [Toren Malvek](#toren-malvek) (lampadaio) · [Alaric Fenris](#alaric-fenris) (sospetto?)
 
 ### Tavrin Stonebell
 Mercante halfling assalito dai banditi sulla strada per [Ordelis](./luoghi.md#ordelis); lo abbiamo salvato e ci ha invitato alla taverna [Rosa Dorata](./luoghi.md#rosa-dorata), dove lo abbiamo ritrovato nella sessione 3.
@@ -29,17 +29,17 @@ Mercante halfling assalito dai banditi sulla strada per [Ordelis](./luoghi.md#or
 ### Gorvin Swiftwinds
 Uno dei 5 nomi segnati come scomparsi nel [registro dei carichi](./indizi.md#registro-dei-carichi). Vendeva tessuti come Tavrin, ed è così che si conoscevano (sessione 3).
 
-### Khaelan
+### Caelan
 Umano, sembra di famiglia nobile. Ci ha fermati alla [Rosa Dorata](./luoghi.md#rosa-dorata) nella sessione 3 e ci ha ingaggiati: dobbiamo ritrovare [Derrin Vale](#derrin-vale) e la sua sacca sigillata, destinata al suo patrono, [Tharvian Othryndor](#tharvian-othryndor). Abbiamo accettato, ma prima andiamo ai magazzini.
 - Il suo padrone è "molto potente": aprire il pacco porterà a conseguenze.
 - Ci ha indicato il suo stesso patrono, Tharvian, per saperne di più sul [sigillo](./indizi.md#sigillo-incudine-e-spada-spezzata).
 
 ### Derrin Vale
-Mercante disperso, con una sacca sigillata che contiene un carico importante per [Tharvian Othryndor](#tharvian-othryndor), il patrono di [Khaelan](#khaelan). Partito dalla [torre a sud-ovest di Ithravos](./luoghi.md#torre-a-sud-ovest-di-ithravos), non è mai arrivato alla [torre a nord di Ordelis](./luoghi.md#torre-a-nord-di-ordelis) (sessione 3).
+Messaggero disperso, con una sacca sigillata che contiene un carico importante per [Tharvian Othryndor](#tharvian-othryndor), il patrono di [Caelan](#caelan). Partito dalla [torre a sud-ovest di Ithravos](./luoghi.md#torre-a-sud-ovest-di-ithravos), non è mai arrivato alla [torre a nord di Ordelis](./luoghi.md#torre-a-nord-di-ordelis) (sessione 3).
 - Nella torre a sud-ovest di Ithravos non c'era: abbiamo trovato dei banditi, segni di trascinamento verso le scale e una [sacca](./indizi.md#sacca-della-torre) che crediamo sia la sua. Marco l'ha aperta (sessione 5).
 
 ### Tharvian Othryndor
-Cancelliere del re nanico, uno dei leader delle 3 casate di [Arathen](./luoghi.md#arathen) e una delle persone più influenti del regno. Di cognome fa Othryndor, ma fa parte della casata Othrindel. È il patrono di [Khaelan](#khaelan): la sacca sigillata di [Derrin Vale](#derrin-vale) era destinata a lui. Secondo Khaelan potrebbe dirci qualcosa sul [sigillo](./indizi.md#sigillo-incudine-e-spada-spezzata) (sessione 3).
+Cancelliere del re nanico, uno dei leader delle 3 casate di [Arathen](./luoghi.md#arathen) e una delle persone più influenti del regno. Di cognome fa Othryndor, ma fa parte della casata Othrindel. È il patrono di [Caelan](#caelan): la sacca sigillata di [Derrin Vale](#derrin-vale) era destinata a lui. Secondo Caelan potrebbe dirci qualcosa sul [sigillo](./indizi.md#sigillo-incudine-e-spada-spezzata) (sessione 3).
 - Si potrebbe trovare alla corte reale, a [Ordelis](./luoghi.md#ordelis) o a [Vaeroth](./luoghi.md#vaeroth).
 
 ### Jimothy
