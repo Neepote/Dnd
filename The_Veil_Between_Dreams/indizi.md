@@ -136,6 +136,16 @@ Per metà bruciata.
 
 *Se funzionerà lo raggiung...*
 
+## Ciondolo con l'occhio chiuso
+In mano al cadavere di [Derrin Vale](./personaggi.md#derrin-vale), con la catenina spezzata (sessione 6). Il simbolo è un occhio chiuso, come il [ricalco](#ricalco-di-un-occhio-chiuso).
+- Gli stessi pendenti con l'occhio li avevano anche i [mascherati](./personaggi.md#mascherati-dellocchio) che ci hanno assaliti a Ordelis (sessione 6).
+- Un marchio a forma di occhio era anche sul petto del [morto della bottega](./personaggi.md#morto-della-bottega) (sessione 6).
+
+## Registro della bottega
+Il registro del negozio di [Toren Malvek](./personaggi.md#toren-malvek), trovato da Marco su un tavolo della [bottega](./luoghi.md#bottega-di-toren-malvek) e letto alla [Rosa Dorata](./luoghi.md#rosa-dorata) (sessione 6).
+- È una lista di vendite.
+- Per alcune vendite di olio c'è un solo acquirente, e la consegna era sempre allo stesso edificio.
+
 <hr>
 
 ## Domande aperte
@@ -176,15 +186,22 @@ Per metà bruciata.
 - "Il luogo del trattato di pace non era casuale": cosa c'è di speciale a [Ordelis](./luoghi.md#ordelis) e sulle rive del Kaldoria? Cosa c'entrano il "legame di sangue" e il "sogno"?
 - Il rituale di pagina 39 (patto, tempio, sangue, "Dorm...") è quello che ha fatto addormentare Edrin, o quello che l'autore voleva fare per raggiungerlo ("Se funzionerà lo raggiung...")?
 - Chi è l'uomo incappucciato "S..."? Che fine ha fatto Mireth Sylvane, che lo aveva visto?
-- Chi sono Jorren Vaskel, Toren Malvek e Alaric Fenris? Perché Toren Malvek vende così tanto olio?
+- Chi sono Jorren Vaskel, Toren Malvek e Alaric Fenris? Perché Toren Malvek vende così tanto olio? → Dal [registro della bottega](#registro-della-bottega): un solo acquirente per alcune vendite di olio, consegnate sempre allo stesso edificio. Chi è l'acquirente, e cos'è quell'edificio? A cosa serve tutto quell'olio?
 - C'entra il "velo" della profezia con il nome della campagna?
 
 ### Derrin Vale
 - ~~Cosa c'è nella sacca sigillata di [Derrin Vale](./personaggi.md#derrin-vale)?~~ → Se è la [sacca della torre](#sacca-della-torre): una scheggia, il ricalco di un occhio, una pagina strappata e un taccuino (sessione 5).
-- Dov'è Derrin? I segni di trascinamento verso le scale della torre erano i suoi? È ancora vivo?
+- ~~Dov'è Derrin? I segni di trascinamento verso le scale della torre erano i suoi? È ancora vivo?~~ → Seguendo i segni abbiamo trovato il suo cadavere, morto da qualche ora (sessione 6).
+- Chi ha ucciso Derrin? Il [ciondolo](#ciondolo-con-locchio-chiuso) che stringeva era suo, o l'ha strappato al suo assassino?
 - Chi erano i banditi della torre, e per chi lavoravano? Sono legati a quelli della [grotta](./luoghi.md#grotta-dei-banditi)? Perché l'ultimo ha preferito bruciare la sacca piuttosto che lasciarcela?
 - ~~La torre a nord-est di Ordelis e quella a sud-ovest di Ithravos sono la stessa torre?~~ → No: Derrin partiva da quella a sud-ovest di Ithravos ed era diretto a quella a nord di Ordelis.
 - La strada tra le due torri passa vicino alla [grotta dei banditi](./luoghi.md#grotta-dei-banditi) (a sud-ovest di Ithravos, a nord-est di Ordelis): c'entrano i banditi con la sparizione di Derrin?
+
+### L'occhio chiuso
+- Chi sono i [mascherati dell'occhio](./personaggi.md#mascherati-dellocchio)? Sono una setta legata alla profezia della [pagina strappata](#pagina-strappata) ("Beati coloro che non si svegliano")? Ci hanno attaccati perché sapevano che andavamo da Toren?
+- Chi è il [morto della bottega](./personaggi.md#morto-della-bottega)? È Toren Malvek? Cos'è il marchio magico a forma di occhio, e come è morto senza segni di paura?
+- Chi c'era nel retro della bottega mentre eravamo lì? Chi l'ha messa a soqquadro, e cosa cercava?
+- Cosa ci ha detto il taverniere su Alaric Fenris? Dove lo troviamo?
 
 ### Altro
 - Perché le guardie di Ordelis sembravano riconoscere Marco?

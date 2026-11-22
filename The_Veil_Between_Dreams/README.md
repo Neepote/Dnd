@@ -20,9 +20,11 @@ Michele Foresta (Lorenzo) · Lanciolo (Marco) · Pantheon (Giacomo) · Piero (Ma
 - [x] Capire cosa vuole [Jimothy](./personaggi.md#jimothy): i 5 oggetti e il rituale tra un giorno → recuperati i 5 oggetti, rituale fatto con gli gnomi
 - [x] Affrontare il [mostro uscito dal portale](./personaggi.md#mostro-del-portale) all'[accampamento degli gnomi](./luoghi.md#accampamento-degli-gnomi) → sconfitto, ma gli gnomi sono morti; Jimothy ora viaggia con noi
 - [x] Andare alla [torre a sud-ovest di Ithravos](./luoghi.md#torre-a-sud-ovest-di-ithravos) → banditi, e una [sacca](./indizi.md#sacca-della-torre) che forse è quella di Derrin (aperta da Marco)
-- [ ] Ritrovare [Derrin Vale](./personaggi.md#derrin-vale) per [Caelan](./personaggi.md#caelan): seguire i segni di trascinamento nella torre
-- [ ] Decidere cosa fare con la [sacca](./indizi.md#sacca-della-torre) ormai aperta: consegnarla a Caelan?
-- [ ] Indagare sui nomi del [taccuino](./indizi.md#taccuino) (Mireth Sylvane, Jorren Vaskel, Toren Malvek, Alaric Fenris) e sul legame con il [principe Edrin](./mondo.md#il-sonno-del-principe-edrin)
+- [x] Ritrovare [Derrin Vale](./personaggi.md#derrin-vale) per [Caelan](./personaggi.md#caelan): seguire i segni di trascinamento nella torre → trovato morto, con un [ciondolo con l'occhio chiuso](./indizi.md#ciondolo-con-locchio-chiuso)
+- [ ] Dire a Caelan che Derrin è morto, e decidere cosa fare con la [sacca](./indizi.md#sacca-della-torre) ormai aperta: consegnargliela?
+- [ ] Scoprire chi compra l'olio dal [registro della bottega](./indizi.md#registro-della-bottega) e andare a vedere l'edificio delle consegne
+- [ ] Capire chi sono i [mascherati dell'occhio](./personaggi.md#mascherati-dellocchio) e chi è il [morto della bottega](./personaggi.md#morto-della-bottega)
+- [ ] Indagare sui nomi del [taccuino](./indizi.md#taccuino) (Mireth Sylvane, Jorren Vaskel, Alaric Fenris; [Toren Malvek](./personaggi.md#toren-malvek): bottega saccheggiata) e sul legame con il [principe Edrin](./mondo.md#il-sonno-del-principe-edrin)
 - [ ] Parlare con [Tharvian Othryndor](./personaggi.md#tharvian-othryndor) del sigillo, a Ordelis o a Vaeroth
 - [x] Piero (Massimo) deve ancora riprendere i sensi
 
@@ -34,3 +36,4 @@ Michele Foresta (Lorenzo) · Lanciolo (Marco) · Pantheon (Giacomo) · Piero (Ma
 | [3](./sessioni.md#sessione-3--24102026) | 24/10/2026 | Massimo si sveglia, arriviamo a Ordelis e Tavrin ci parla di Gorvin Swiftwinds e dei velmoriani rapiti, Caelan ci chiede di ritrovare Derrin Vale. Al magazzino sud-est troviamo armi con documenti falsificati da Velmora e il procione Jimothy |
 | [4](./sessioni.md#sessione-4--02112026) | 02/11/2026 | Recuperiamo per Jimothy i 5 oggetti del rituale in giro per Ordelis. Nella foresta 13 gnomi celebrano il rituale e dal calderone si apre un portale da cui esce un mostro. Lo sconfiggiamo, gli gnomi muoiono e Jimothy si unisce a noi |
 | [5](./sessioni.md#sessione-5--07112026) | 07/11/2026 | Alla torre a sud-ovest di Ithravos sconfiggiamo i banditi e recuperiamo dal fuoco una sacca, forse quella di Derrin Vale: una scheggia color madreperla, il ricalco di un occhio chiuso, una profezia sul velo e sul dormiente, e un taccuino che nomina Edrin |
+| [6](./sessioni.md#sessione-6--21112026) | 21/11/2026 | Nella torre troviamo il cadavere di Derrin Vale con un ciondolo con un occhio chiuso. A Ordelis ci assalgono dei mascherati con lo stesso simbolo; nella bottega a soqquadro di Toren Malvek troviamo un morto con un marchio magico a forma di occhio e il registro del negozio, con vendite di olio consegnate sempre allo stesso edificio |

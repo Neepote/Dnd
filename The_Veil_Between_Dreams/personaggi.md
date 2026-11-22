@@ -18,7 +18,7 @@ Nel [diario](./sessioni.md) i personaggi sono spesso chiamati con il nome del gi
 
 ## PNG incontrati
 
-[Tavrin Stonebell](#tavrin-stonebell) (mercante halfling) · [Gorvin Swiftwinds](#gorvin-swiftwinds) (scomparso) · [Caelan](#caelan) (ci ha ingaggiati) · [Derrin Vale](#derrin-vale) (disperso) · [Tharvian Othryndor](#tharvian-othryndor) (cancelliere, patrono di Caelan) · [Gnomi della setta](#gnomi-della-setta) (morti) · [Mostro del portale](#mostro-del-portale) (sconfitto, tornato nel portale) · [Capo dei banditi](#capo-dei-banditi) (morta) · [Capo del magazzino](#capo-del-magazzino) (fuggito) · [Attrice aratheniana](#attrice-aratheniana) (derubata dello specchio) · [Il patrono](#il-patrono) (sconosciuto) · [Principe Edrin](#principe-edrin) (addormentato) · [Uomo incappucciato](#uomo-incappucciato) (sconosciuto) · [Mireth Sylvane](#mireth-sylvane) (scomparsa, forse morta) · [Jorren Vaskel](#jorren-vaskel) (sospetto) · [Toren Malvek](#toren-malvek) (lampadaio) · [Alaric Fenris](#alaric-fenris) (sospetto?)
+[Tavrin Stonebell](#tavrin-stonebell) (mercante halfling) · [Gorvin Swiftwinds](#gorvin-swiftwinds) (scomparso) · [Caelan](#caelan) (ci ha ingaggiati) · [Derrin Vale](#derrin-vale) (morto) · [Tharvian Othryndor](#tharvian-othryndor) (cancelliere, patrono di Caelan) · [Gnomi della setta](#gnomi-della-setta) (morti) · [Mostro del portale](#mostro-del-portale) (sconfitto, tornato nel portale) · [Capo dei banditi](#capo-dei-banditi) (morta) · [Capo del magazzino](#capo-del-magazzino) (fuggito) · [Attrice aratheniana](#attrice-aratheniana) (derubata dello specchio) · [Il patrono](#il-patrono) (sconosciuto) · [Principe Edrin](#principe-edrin) (addormentato) · [Uomo incappucciato](#uomo-incappucciato) (sconosciuto) · [Mireth Sylvane](#mireth-sylvane) (scomparsa, forse morta) · [Jorren Vaskel](#jorren-vaskel) (sospetto) · [Toren Malvek](#toren-malvek) (lampadaio, bottega saccheggiata) · [Alaric Fenris](#alaric-fenris) (sospetto?) · [Mascherati dell'occhio](#mascherati-dellocchio) (2 morti, 4 fuggiti) · [Morto della bottega](#morto-della-bottega) (morto)
 
 ### Tavrin Stonebell
 Mercante halfling assalito dai banditi sulla strada per [Ordelis](./luoghi.md#ordelis); lo abbiamo salvato e ci ha invitato alla taverna [Rosa Dorata](./luoghi.md#rosa-dorata), dove lo abbiamo ritrovato nella sessione 3.
@@ -37,6 +37,7 @@ Umano, sembra di famiglia nobile. Ci ha fermati alla [Rosa Dorata](./luoghi.md#r
 ### Derrin Vale
 Messaggero disperso, con una sacca sigillata che contiene un carico importante per [Tharvian Othryndor](#tharvian-othryndor), il patrono di [Caelan](#caelan). Partito dalla [torre a sud-ovest di Ithravos](./luoghi.md#torre-a-sud-ovest-di-ithravos), non è mai arrivato alla [torre a nord di Ordelis](./luoghi.md#torre-a-nord-di-ordelis) (sessione 3).
 - Nella torre a sud-ovest di Ithravos non c'era: abbiamo trovato dei banditi, segni di trascinamento verso le scale e una [sacca](./indizi.md#sacca-della-torre) che crediamo sia la sua. Marco l'ha aperta (sessione 5).
+- Seguendo i segni di trascinamento abbiamo trovato il suo cadavere (quasi certamente è lui), morto da qualche ora. In mano aveva un [ciondolo con un occhio chiuso](./indizi.md#ciondolo-con-locchio-chiuso) con la catenina spezzata (sessione 6).
 
 ### Tharvian Othryndor
 Cancelliere del re nanico, uno dei leader delle 3 casate di [Arathen](./luoghi.md#arathen) e una delle persone più influenti del regno. Di cognome fa Othryndor, ma fa parte della casata Othrindel. È il patrono di [Caelan](#caelan): la sacca sigillata di [Derrin Vale](#derrin-vale) era destinata a lui. Secondo Caelan potrebbe dirci qualcosa sul [sigillo](./indizi.md#sigillo-incudine-e-spada-spezzata) (sessione 3).
@@ -52,6 +53,7 @@ Una specie di procione strano, trovato chiuso in una cassa nel [magazzino sud-es
 - Ci ha portati all'[accampamento degli gnomi](./luoghi.md#accampamento-degli-gnomi) nella foresta: i [gnomi](#gnomi-della-setta) lo accolgono come il loro salvatore. Nel rituale ha lanciato la moneta sulla base della candela (sessione 4).
 - Voleva solo seguire la ricetta trovata nel diario di sua nonna, ma probabilmente ha sbagliato qualcosa. Si prende una pausa dall'essere un capo di setta e ora ci segue nei nostri viaggi (sessione 4).
 - È venuto con noi alla [torre a sud-ovest di Ithravos](./luoghi.md#torre-a-sud-ovest-di-ithravos); dopo il combattimento Marco lo ha lanciato e ha recuperato la sacca dal fuoco (sessione 5).
+- È entrato per primo nella [bottega di Toren Malvek](./luoghi.md#bottega-di-toren-malvek): l'ha trovata a soqquadro, ha sentito rumori nel retro e ha notato una figura seduta in un angolo buio (sessione 6).
 
 ![jimothy](./immagini/jimothy.jpeg)
 
@@ -89,6 +91,15 @@ Maggiordomo, nella lista di nomi a pagina 35 del [taccuino](./indizi.md#taccuino
 
 ### Toren Malvek
 Lampadaio, nella lista di nomi a pagina 35 del [taccuino](./indizi.md#taccuino) (sessione 5). Vende più olio di quanto la strada possa bruciare. Nessuno stato segnato.
+- Secondo il taverniere della [Rosa Dorata](./luoghi.md#rosa-dorata) ha un negozio in città: ci ha dato le indicazioni (sessione 6).
+- La sua [bottega](./luoghi.md#bottega-di-toren-malvek) era aperta e a soqquadro, con un [uomo morto](#morto-della-bottega) in un angolo. Abbiamo preso il [registro del negozio](./indizi.md#registro-della-bottega) (sessione 6).
 
 ### Alaric Fenris
 Studioso, nella lista di nomi a pagina 35 del [taccuino](./indizi.md#taccuino) (sessione 5). Conosce il simbolo ma non vuole parlarne. Stato: "Sospetto?".
+- Marco ha chiesto di lui al taverniere della [Rosa Dorata](./luoghi.md#rosa-dorata) (sessione 6).
+
+### Mascherati dell'occhio
+Persone mascherate con un occhio segnato sui vestiti, che ci hanno assaliti a [Ordelis](./luoghi.md#ordelis) mentre andavamo da [Toren Malvek](#toren-malvek) (sessione 6). Ne abbiamo uccisi un paio, gli altri 4 sono scappati. Sui cadaveri c'erano gli stessi pendenti con l'occhio del [ciondolo](./indizi.md#ciondolo-con-locchio-chiuso) di Derrin.
+
+### Morto della bottega
+Una persona seduta per terra in un angolo buio della [bottega di Toren Malvek](./luoghi.md#bottega-di-toren-malvek) (sessione 6). Niente battito né respiro, occhi spalancati ma senza un'aria spaventata. Sul petto un marchio a forma di occhio, che non sembra una bruciatura ma qualcosa di magico. Non sappiamo chi sia.

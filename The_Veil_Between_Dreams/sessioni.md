@@ -7,6 +7,7 @@
 - [Sessione 3 — 24/10/2026](#sessione-3--24102026)
 - [Sessione 4 — 02/11/2026](#sessione-4--02112026)
 - [Sessione 5 — 07/11/2026](#sessione-5--07112026)
+- [Sessione 6 — 21/11/2026](#sessione-6--21112026)
 
 <hr>
 
@@ -264,8 +265,43 @@ Invece il foglio più spesso, è una [pagina strappata](./indizi.md#pagina-strap
 
 Infine il [taccuino](./indizi.md#taccuino)
 
-### Saturday 21/11/2026 23:31  
+<hr>
 
-Seguendo le tracce di trascinamento troviamo il cadavere di una persona, molto probabilmente è il cadavere di Derrin Vale.
-E' morto da qualche ora e in mano ha un ciondolo con la catenina spezzata. Questo ciondolo come simbolo ha un occhio chiuso.
+## Sessione 6 — 21/11/2026
 
+> **In breve:** seguendo i segni di trascinamento nella torre troviamo il cadavere di Derrin Vale, con in mano un ciondolo con un occhio chiuso. Tornati a Ordelis, mentre andiamo da Toren Malvek ci assalgono delle persone mascherate con lo stesso simbolo; nella sua bottega a soqquadro troviamo un uomo morto con un marchio a forma di occhio sul petto e il registro del negozio, con delle vendite di olio consegnate sempre allo stesso edificio.
+
+### Sabato 21/11/2026 23:31
+
+Seguendo le tracce di trascinamento troviamo il cadavere di una persona, molto probabilmente è il cadavere di [Derrin Vale](./personaggi.md#derrin-vale).
+È morto da qualche ora e in mano ha un [ciondolo](./indizi.md#ciondolo-con-locchio-chiuso) con la catenina spezzata. Questo ciondolo come simbolo ha un occhio chiuso.
+
+### Sabato 21/11/2026 23:42
+
+Decidiamo di tornare alla [taverna](./luoghi.md#rosa-dorata) dove abbiamo incontrato [Caelan](./personaggi.md#caelan).
+
+Marco parla con il taverniere e chiede di [Alaric Fenris](./personaggi.md#alaric-fenris), uno dei nomi presenti nel [taccuino](./indizi.md#taccuino).
+Chiede anche di [Toren Malvek](./personaggi.md#toren-malvek) e dice che ha un negozio in città dandoci le indicazioni per raggiungerlo.
+
+### Sabato 21/11/2026 23:56
+
+Andiamo da [Toren](./personaggi.md#toren-malvek).
+Mentre ci avviamo veniamo assaliti da delle [persone mascherate](./personaggi.md#mascherati-dellocchio) con un occhio segnato nei vestiti
+
+### Domenica 22/11/2026 00:52
+
+Riusciamo ad ucciderne un paio ma 4 scappano via, guardando meglio i cadaveri notiamo che anche loro hanno gli stessi pendenti con gli occhi.
+Io e Marco andiamo al lampadaio.
+La porta della [bottega](./luoghi.md#bottega-di-toren-malvek) è aperta, [Jimothy](./personaggi.md#jimothy) entra e nota che la parte principale della bottega è stata messa tutta a soqquadro, sentiva dei rumori nel retro bottega ma non capiva chi fosse.
+Ha notato una figura seduta per terra in un angolo buio ma non si è avvicinato per vederlo meglio.
+
+Marco entra piano piano e si avvicina alla [persona seduta per terra](./personaggi.md#morto-della-bottega), non riesce a sentirne i battiti e nemmeno il respiro. Ha gli occhi spalancati ma non sembrava spaventato. Nel petto ha un marchio a forma di occhi, ma non sembra provocato da una bruciatura, sembra più qualcosa di magico
+
+Si avvicina ad un tavolo con dei documenti e trova un [registro del negozio](./indizi.md#registro-della-bottega).
+Il registro lo leggeremo prima di andare a dormire.
+
+### Domenica 22/11/2026 01:19
+
+Decidiamo per sicurezza di tornare alla taverna, così vediamo tutti insieme quello che c'è nel registro.
+
+Troviamo una lista di vendite, per alcune vendite di olio c'è un solo acquirente, dove si consegnava sempre allo stesso edificio
